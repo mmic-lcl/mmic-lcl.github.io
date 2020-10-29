@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
     
   - title: "Code & Dataset"
     url: /codedataset/
 
-  - title: "Talks"
+  - title: "Talk"
     url: /talks/    
 
   - title: "Teaching"
