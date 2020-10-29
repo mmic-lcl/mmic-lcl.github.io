@@ -82,11 +82,13 @@ analytics:
 author:
   name             : "Chenglong Li"
   avatar           : "profile.png"
-  bio              : "Associate Professor, Anhui University"
+  bio              : "Associate Professor
+  
+                      Anhui University"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=6kM00LQAAAAJ&hl=zh-CN"
   email            : "lcl1314@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
