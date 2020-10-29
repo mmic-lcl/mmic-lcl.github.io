@@ -3,7 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
     
-   - title: "Code and Dataset"
+  - title: "Code & Dataset"
     url: /codedataset/
 
   - title: "Talks"
