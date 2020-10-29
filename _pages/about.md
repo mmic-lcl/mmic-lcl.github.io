@@ -19,10 +19,10 @@ Award
 ======
 
 
-Funded Project
+Project
 ======
 
-Academic Service
+Activity
 ======
 
 
