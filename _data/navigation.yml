@@ -4,12 +4,15 @@ main:
     url: /publications/
     
   - title: "Code & Dataset"
-    url: /codedataset/
+    url: /code-dataset/
 
   - title: "Talk"
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+    
+  - title: "科研训练计划"
+    url: /training/ 
 
     
