@@ -23,15 +23,18 @@ Project
 
 **Project of Technological Research and Development**: Research on Video-based Analysis in Traffic Scenes, Feb. 2020 - Jul. 2022
 
+**Open fund for Discipline Construction, Institute of Physical Science and Information Technology**, Research on Multimodal Visual Models and Their Applications to Object Tracking, Jan. 2019 - Dec. 2021
+
 **National Natural Science Foundation of China**: Learning Collaborative Graphs and Correlation Filters for Multimodal Object Tracking, 61702002, Jan. 2018 - Dec. 2020
 
 **Natural Science Foundation of Anhui Province**:  Learning Graph Models with Local Smoothness and Glocal Consistency for Multimodal Object Tracking, 1808085QF187, Jul. 2018 - Jun. 2020
+
+**Postdoctoral Science Foundation of China**: Multimodal Visual Models for Object Tracking, Jul. 2018 - Jul. 2019
 
 **Natural Science Foundation of Anhui Higher Education Institution of China**: Spatio-temporal Collaborative Ranking Models for Multimodal Video Saliency Detection, KJ2017A017, Jan. 2017 - Dec. 2018
 
 **Open Fund of Co-Innovation Center for Information Supply & Assurance Technology of Anhui University**: Learning Dynamic Collaborative Graph for Multimodal Object Tracking, Jan. 2017 - Dec. 2018
 
-**Open fund for Discipline Construction, Institute of Physical Science and Information Technology**, Research on Multimodal Visual Models and Their Applications to Object Tracking, Jan. 2019 - Dec. 2021
 
 
 Activity
