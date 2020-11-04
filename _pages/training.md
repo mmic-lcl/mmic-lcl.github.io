@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Training"
+permalink: /training/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+
+{% for post in site.training reversed %}
+  {% include archive-single.html %}
+{% endfor %}
