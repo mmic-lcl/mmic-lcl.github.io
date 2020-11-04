@@ -14,5 +14,7 @@ main:
     
   - title: "科研训练计划"
     url: /training/ 
-
+    
+  - title: "Code&Data"
+    url: /portfolio/  
     
