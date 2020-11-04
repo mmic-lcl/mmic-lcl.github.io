@@ -188,6 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  code-dataset:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
