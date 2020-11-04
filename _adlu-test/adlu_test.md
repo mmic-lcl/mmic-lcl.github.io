@@ -1,7 +1,7 @@
 ---
 title: "adlu-test on Relevant Topic in Your Field"
 collection: adlu-test
-type: "测试页面"
+type: "adlu-test"
 permalink: /adlu-test/adlu_test
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
