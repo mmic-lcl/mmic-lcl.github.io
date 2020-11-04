@@ -194,6 +194,9 @@ collections:
   adlu-test:
     output: true
     permalink: /:collection/:path/
+  training:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -237,6 +240,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: training
     values:
       layout: single
       author_profile: true
