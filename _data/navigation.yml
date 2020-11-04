@@ -3,7 +3,7 @@ main:
   - title: "Publication"
     url: /publications/
     
-  - title: "Cod & Dataset"
+  - title: "Code & Dataset"
     url: /code-dataset/
 
   - title: "Talk"
@@ -13,8 +13,5 @@ main:
     url: /teaching/ 
     
   - title: "科研训练计划"
-    url: /training/ 
-    
-  - title: "Code&Data"
-    url: /portfolio/  
+    url: /training/   
     
