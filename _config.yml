@@ -191,7 +191,9 @@ collections:
   code-dataset:
     output: true
     permalink: /:collection/:path/
-
+  adlu-test:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
