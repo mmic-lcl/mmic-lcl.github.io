@@ -10,7 +10,7 @@ author_profile: true
 
 
 
-{% for post in site.training reversed %}
+{% for post in site.adlu-test reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
