@@ -59,16 +59,16 @@ Bo Jiang, Yuan Zhang, Jin Tang, Bin Luo, and **Chenglong Li***. Robust Visual Tr
     
 Aihua Zheng, Tian Zou, Yumiao Zhao, Bo Jiang, Jin Tang, and **Chenglong Li***. Background Subtraction with Multi-scale Structured Low-Rank and Sparse Factorization. Neurocomputing (**NEUCOM**), 328: 113-121, 2019.
     
-Xiao Wang, Tao Sun, Rui Yang, Chenglong Li, Bin Luo, and Jin Tang. Quality–Aware Dual–Modal Saliency Detection via Deep Reinforcement Learning. Signal Processing: Image Communication (**SPIC**), 75: 158-167, 2019.
+Xiao Wang, Tao Sun, Rui Yang, **Chenglong Li**, Bin Luo, and Jin Tang. Quality–Aware Dual–Modal Saliency Detection via Deep Reinforcement Learning. Signal Processing: Image Communication (**SPIC**), 75: 158-167, 2019.
 
 
 ### 2018
 
 **Chenglong Li**, Chengli Zhu, Yan Huang, Jin Tang, and Liang Wang. Cross-Modal Ranking with Soft-Consistency and Noisy Labels for Robust RGB-T Tracking. European Conference on Computer Vision (**ECCV**), 2018. 
     
-Xiao Wang, Chenglong Li, Jin Tang, and Bin Luo. SINT++: Robust Visual Tracking via Adversarial Positive Instance  Generation. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**),  2018. \[[Project page](https://sites.google.com/view/cvpr2018sintplusplus/)\]
+Xiao Wang, **Chenglong Li**, Jin Tang, and Bin Luo. SINT++: Robust Visual Tracking via Adversarial Positive Instance  Generation. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**),  2018. \[[Project page](https://sites.google.com/view/cvpr2018sintplusplus/)\]
     
-Ran Zhong, Wenzhong Wang, Chenglong Li, Aihua Zheng, and Jin Tang. Exploring Scene Geometry For Scale Adaptive Object Tracking In Surveillance Videos. IEEE International Conference on Image Processing (**ICIP**), 2018.
+Ran Zhong, Wenzhong Wang, **Chenglong Li**, Aihua Zheng, and Jin Tang. Exploring Scene Geometry For Scale Adaptive Object Tracking In Surveillance Videos. IEEE International Conference on Image Processing (**ICIP**), 2018.
 
 Aihua Zheng, Yumiao Zhao, **Chenglong Li***, Jin Tang, and Bin Luo. Moving Object Detection via Robust Low-Rank and Sparse Separating with High-Order Structural Constraint, IEEE Fourth International Conference on Multimedia Big Data (**BigMM**), 2018. (**Oral**)
 
@@ -80,11 +80,6 @@ Sen Yang, Bin Luo, **Chenglong Li***. Guizhao Wang, and Jin Tang. Fast Grayscale
     
 **Chenglong Li**, Zhimin Bao, Xiao Wang, and Jin Tang. Moving Object Detection via Robust Background Modeling with Recurring Patterns Voting. Multimedia Tools and Applications (**MTAP**), 77(11): 13557-13570, 2018.  
 
- 
-
-
-
-
 
 ### 2017
 
@@ -94,7 +89,7 @@ Sen Yang, Bin Luo, **Chenglong Li***. Guizhao Wang, and Jin Tang. Fast Grayscale
     
 **Chenglong Li**, Liang Lin, Wangmeng Zuo, and Jin Tang. Learning Patch-based Dynamic Graph for Visual Tracking. AAAI Conference on Artificial Intelligence (**AAAI**), 2017. (**Oral presentation**)
     
-Wenzhong Wang, Qiaoqiao Zhang, Bin Luo, Jin Tang, Rui Ruan, and Chenglong Li . Selecting Attentive Frames from Visually Coherent Chunks for Surveillance Video Summarization. IEEE International Conference on Image Processing (**ICIP**), 2017. 
+Wenzhong Wang, Qiaoqiao Zhang, Bin Luo, Jin Tang, Rui Ruan, and **Chenglong Li***. Selecting Attentive Frames from Visually Coherent Chunks for Surveillance Video Summarization. IEEE International Conference on Image Processing (**ICIP**), 2017. 
 
 
 **Chenglong Li**, Xiao Wang, Lei Zhang, Jin Tang, Hejun Wu, and Liang Lin. WELD: Weighted Low-rank Decomposition  or Robust Grayscale-Thermal Foreground Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 27(4): 725-738, 2017.
@@ -103,7 +98,7 @@ Wenzhong Wang, Qiaoqiao Zhang, Bin Luo, Jin Tang, Rui Ruan, and Chenglong Li . S
     
 Aihua Zheng, Minghe Xu, Bin Luo, Zhili Zhou, and **Chenglong Li***. CLASS: Collaborative Low-rank and Sparse Separation for Moving Object Detection. Cognitive Computation (**COGN**), 9(2): 180-193, 2017. 
     
-Aihua Zheng, Lei Zhang, Wei Zhang,  Chenglong Li, Jin Tang, and Bin Luo. Local-to-Global Background Modeling  or Moving Object Detection from Non-static Cameras. Multimedia Tools and Applications (**MTAP**), 76(8): 11003-11019, 2017.
+Aihua Zheng, Lei Zhang, Wei Zhang, **Chenglong Li**, Jin Tang, and Bin Luo. Local-to-Global Background Modeling  or Moving Object Detection from Non-static Cameras. Multimedia Tools and Applications (**MTAP**), 76(8): 11003-11019, 2017.
 
 
 
@@ -125,7 +120,7 @@ Liang Lin, Wei Yang,  **Chenglong Li**, Jin Tang, and Xiaochun Cao. Inference wi
 
 **Chenglong Li**, Liang Lin, Wangmeng Zuo, Shuicheng Yan, and Jin Tang. SOLD: Sub-Optimal Low-Rank Decomposition for Efficient Video Segmentation.  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), Boston, 2015. 
 
-Keze Wang, Liang Lin, Jiangbo Lu, Chenglong Li, and Keyang Shi.PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures with Edge-Preserving Coherence. IEEE Transactions on Image Processing (**T-IP**), 24(10): 3019-3033, 2015. \[[Project page](http://vision.sysu.edu.cn/project/PISA/) with code and dataset\] \[**ESI Highly Cited Paper**\] 
+Keze Wang, Liang Lin, Jiangbo Lu, **Chenglong Li**, and Keyang Shi.PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures with Edge-Preserving Coherence. IEEE Transactions on Image Processing (**T-IP**), 24(10): 3019-3033, 2015. \[[Project page](http://vision.sysu.edu.cn/project/PISA/) with code and dataset\] \[**ESI Highly Cited Paper**\] 
 
 
 
