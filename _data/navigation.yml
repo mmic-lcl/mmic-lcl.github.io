@@ -4,7 +4,7 @@ main:
     url: /publications/
     
   - title: "Code & Dataset"
-    url: /_code-dataset/
+    url: /code-dataset/
 
   - title: "Talk"
     url: /talks/    
