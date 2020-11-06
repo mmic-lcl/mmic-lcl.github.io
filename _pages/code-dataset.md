@@ -12,4 +12,4 @@ author_profile: true
 
 {% for post in site.code-dataset reversed %}
   {% include archive-single.html %}
-{% endfo
+{% endfor %}
