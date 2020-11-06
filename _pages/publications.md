@@ -22,7 +22,7 @@ Hongchao Li, **Chenglong Li**, Xianpeng Zhu, Aihua Zheng, Bin Luo. Multi-Spectra
 
 Qiao Liu, Xin Li, Zhenyu He, **Chenglong Li**, Jun Li, Zikun Zhou, Di Yuan, Jing Li, Kai Yang, Nana Fan, and Feng Zheng. LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark. ACM International Conference on Multimedia (**ACM MM**), 2020.
 
-**Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2019. 
+**Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2020. 
 
 Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and **Chenglong Li***. A Subspace Learning Approach to Multi-Shot Person Re-Identification.  IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), 2020.
 
@@ -34,7 +34,7 @@ Zhengzheng Tu, Tian Xia, **Chenglong Li***, Xiaoxiao Wang, Yan Ma, and Jin Tang.
 
 Yabin Zhu, **Chenglong Li***,  Liang Lin, Jin Tang, and Bin Luo. Quality-Aware Feature Aggregation Network for Robust RGB-T Tracking. IEEE Transactions on Intelligent Vehicles (**T-IV**), 2020.
 
-Aihua Zheng, Naipeng Ye, **Chenglong Li***, Xiao Wang, and Jin Tang. Multi-modal foreground detection via inter-and intra-modality-consistent low-rank separation. Neurocomputing (**NEUCOM**), 371: 27-38.
+Aihua Zheng, Naipeng Ye, **Chenglong Li***, Xiao Wang, and Jin Tang. Multi-modal foreground detection via inter-and intra-modality-consistent low-rank separation. Neurocomputing (**NEUCOM**), 371: 27-38, 2020.
 
 Futian Wang, Xiaoping Wang, Jin Tang, Bin Luo, and **Chenglong Li***. VTAAN: Visual Tracking with Attentive Adversarial Network. Cognitive Computation (**COGN**), 2020.
 
