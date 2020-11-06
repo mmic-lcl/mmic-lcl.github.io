@@ -1,13 +1,45 @@
 ---
 layout: archive
-title: "Code & Dataset"
+title: "Code"
 permalink: /code-dataset/
 author_profile: true
 ---
 
+## RGBT Tracking
+
+1. **Cross-Modal Ranking for RGBT Tracking**: [[cmr_code.rar]](http://chenglongli.cn/system/file?fileId=105966)
+
+    **Citation:** Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, and Liang Wang. Cross-Modal Ranking with Soft-Consistency and Noisy Labels for Robust RGB-T Tracking. European Conference on Computer Vision (ECCV), 2018.
+
+2. **Multi-Adapter Network for RGBT Tracking**: [[code]](https://github.com/Alexadlu/MANet)
+
+    **Citation:** Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, and Jin Tang. Multi-Adapter RGBT Tracking. International Conference on Computer Vision Workshops, 2019. (Spotlight) 
+    
+3. **Collaborative Graph Learning for RGBT Saliency Detection**: [[code]](https://pan.baidu.com/s/1bb1Fx5-VmgSgMTw9r37Jzw)
+
+    **Citation:** Zhengzheng Tu, Tian Xia, Chenglong Li, Xiaoxiao Wang, Yan Ma. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (TMM), in press.
+    
+
+    
+## Video Segmentation
+
+1. **Sub-Optimal Low-Rank Decomposition**: [[sold_code]](http://chenglongli.cn/system/file?fileId=83421)
+
+   **Citation:** Chenglong Li, Liang Lin, Wangmeng Zuo, Shuicheng Yan, and Jin Tang. SOLD: Sub-Optimal Low-Rank Decomposition for Efficient Video Segmentation.  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2015.
+   
+   Chenglong Li, Liang Lin, Wangmeng Zuo, Wenzhong Wang, and Jin Tang.An Approach to Streaming Video Segmentation with Sub-Optimal Low-rank Decomposition. IEEE Transactions on Image Processing (T-IP), 25(5): 1947-1960, 2016.
+   
+## Saliency Detection
+
+1. **Aggregating Complementary Appearance Contrast Measures**: [[pisa_code]](https://github.com/kezewang/pixelwiseImageSaliencyAggregation)
+
+   **Citation:** Keze Wang and Liang Lin and Jiangbo Lu and Chenglong Li and Keyang Shi. PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures With Edge-Preserving Coherence. IEEE Transactions on Image Processing (TIP), 24(10): 3019-3033, 2015.
+
+
+
 # Dataset
 
-### RGBT Tracking
+## RGBT Tracking
 
 **RGBT234 Dataset** [[Google drive](https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)] [[Baidu cloud](https://pan.baidu.com/s/1naq87OmHz2c_GrtOdFCpgQ)] [[Project](https://sites.google.com/view/ahutracking001/)]
 
@@ -21,19 +53,19 @@ author_profile: true
 
  **Citation:** Chenglong Li, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, and Liang Lin.Learning Collaborative Sparse Representation for Grayscale-thermal Tracking.  IEEE Transactions on Image Processing (T-IP), 25(12): 5743-5756, 2016.
 
-### Thermal Image Semantic Segmentation
+## Thermal Image Semantic Segmentation
 
 **SODA Dataset** [[Google drive](https://drive.google.com/drive/folders/1ZF2vDk9j69kP5U0zcp-liOBk-atWcw-5?usp=sharing)]
 
  **Citation:** Chenglong Li, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems, 2020.
 
-### RGBT Moving Object Detection
+## RGBT Moving Object Detection
 
 **GTFD Dataset** [[Google drive](https://docs.google.com/uc?id=0ByecsYP3jZThOE1mTDNuTUZYeTg&export=download)] [[Baidu cloud](https://pan.baidu.com/s/1naq87OmHz2c_GrtOdFCpgQ)]
 
  **Citation:** Chenglong Li, Xiao Wang, Lei Zhang, Jin Tang, Hejun Wu, and Liang Lin. WELD: Weighted Low-rank Decomposition  or Robust Grayscale-Thermal Foreground Detection. IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 27(4): 725-738, 2017.
 
-### RGBT Image Saliency Detection
+## RGBT Image Saliency Detection
 
 **VT5000 Dataset**[[Google drive]][[Baidu cloud]]
 
