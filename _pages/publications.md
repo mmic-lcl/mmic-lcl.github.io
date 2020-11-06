@@ -6,24 +6,48 @@ permalink: /publications/
 
 ### Preprint
 
-1. **Chenglong Li**, Andong Lu, Aihua Zheng, Zhengzheng Tu, and Jin Tang. Multi-Adapter RGBT Tracking. [arXiv:1907.07485](https://arxiv.org/abs/1907.07485), 2019. \[[Code](https://github.com/Alexadlu/MANet)\]  
+Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactive Encoder-decoder Network for RGBT Salient Object Detection. Submitted to IEEE Transactions on Image Processing.
 
-2. **Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. [arXiv:1907.10303](https://arxiv.org/abs/1907.10303), 2019.  
-    
-3. Yabin Zhu, **Chenglong Li***,  Yijuan Lu, Liang Lin, Bin Luo, and Jin Tang. FANet: Quality-Aware Feature Aggregation Network for RGB-T Tracking. \[[arXiv](https://arxiv.org/abs/1811.09855)\]
-    
-4. Xiao Wang,  Chenglong Li,  Rui Yang,  Tianzhu Zhang, Jin Tang, and Bin Luo. Describe and Attend to Track: Learning Natural Language guided Structural Representation and Visual Attention for Object Tracking. \[[arXiv](https://arxiv.org/abs/1811.10014?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)\]  
+Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Will Submit to IEEE Transactions on Image Processing.
+
+Xiao Wang,  **Chenglong Li**,  Rui Yang,  Tianzhu Zhang, Jin Tang, and Bin Luo. Describe and Attend to Track: Learning Natural Language guided Structural Representation and Visual Attention for Object Tracking. Submitted to IEEE Transactions on Multimedia.  
    
    
 
 ### 2020
 
+**Chenglong Li**, Lei Liu, Andong Lu, Qing Ji, Jin Tang. Challenge-Aware RGBT Tracking. European Conference on Computer Vision (**ECCV**), 2020. 
+
+Hongchao Li, **Chenglong Li**, Xianpeng Zhu, Aihua Zheng, Bin Luo. Multi-Spectral Vehicle Re-Identification: A Challenge. AAAI Conference on Artificial Intelligence (**AAAI**), 2020.
+
+Qiao Liu, Xin Li, Zhenyu He, **Chenglong Li**, Jun Li, Zikun Zhou, Di Yuan, Jing Li, Kai Yang, Nana Fan, and Feng Zheng. LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark. ACM International Conference on Multimedia (**ACM MM**), 2020.
+
+**Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2019. 
+
 Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and **Chenglong Li***. A Subspace Learning Approach to Multi-Shot Person Re-Identification.  IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), 2020.
 
-Zhengzheng Tu, Tian Xia, **Chenglong Li***, Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**TMM**), 2020.
+Zhengzheng Tu, Yan Ma, **Chenglong Li***, Jin Tang, Bin Luo. Edge-guided Non-local Fully Convolutional Network for Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2020.
+
+Jin Tang, Dongzhe Fan, Xiaoxiao Wang, Zhengzheng Tu, **Chenglong Li**. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2020.
+
+Zhengzheng Tu, Tian Xia, **Chenglong Li***, Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**T-MM**), 2020.
+
+Yabin Zhu, **Chenglong Li***,  Liang Lin, Jin Tang, and Bin Luo. Quality-Aware Feature Aggregation Network for Robust RGB-T Tracking. IEEE Transactions on Intelligent Vehicles (**T-IV**), 2020.
+
+Aihua Zheng, Naipeng Ye, **Chenglong Li***, Xiao Wang, and Jin Tang. Multi-modal foreground detection via inter-and intra-modality-consistent low-rank separation. Neurocomputing (**NEUCOM**), 371: 27-38.
+
+Futian Wang, Xiaoping Wang, Jin Tang, Bin Luo, and **Chenglong Li***. VTAAN: Visual Tracking with Attentive Adversarial Network. Cognitive Computation (**COGN**), 2020.
 
 
 ### 2019
+
+Yabin Zhu, **Chenglong Li**, Bin Luo, Jin Tang, and Xiao Wang. Dense Feature Aggregation and Pruning for RGBT Tracking. ACM International Conference on Multimedia (**ACM MM**), 2019. 
+
+**Chenglong Li**, Andong Lu, Aihua Zheng, Zhengzheng Tu, and Jin Tang. Multi-Adapter RGBT Tracking. International Conference on Computer Vision Workshops (**ICCVW**), 2019.
+
+Yuan Gao, **Chenglong Li**, Yabin Zhu, Jin Tang, Tao He, and Futian Wang. Deep Adaptive Fusion Network for High Performance RGBT Tracking. International Conference on Computer Vision Workshops (**ICCVW**), 2019.
+    
+Chao Fan, Yulong Wang, **Chenglong Li***, and Jin Tang. Visual Tracking via Siamese Network with Global Similarity. IEEE International Conference on Image Processing (**ICIP**), 2019. 
 
 **Chenglong Li**, Liang Lin, Wangmeng Zuo, Jin Tang, and Ming-Hsuan Yang. Visual Tracking via Dynamic Graph Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2019.
 
@@ -36,10 +60,6 @@ Bo Jiang, Yuan Zhang, Jin Tang, Bin Luo, and **Chenglong Li***. Robust Visual Tr
 Aihua Zheng, Tian Zou, Yumiao Zhao, Bo Jiang, Jin Tang, and **Chenglong Li***. Background Subtraction with Multi-scale Structured Low-Rank and Sparse Factorization. Neurocomputing (**NEUCOM**), 328: 113-121, 2019.
     
 Xiao Wang, Tao Sun, Rui Yang, Chenglong Li, Bin Luo, and Jin Tang. Quality–Aware Dual–Modal Saliency Detection via Deep Reinforcement Learning. Signal Processing: Image Communication (**SPIC**), 75: 158-167, 2019.
-
-Yabin Zhu, Chenglong Li , Bin Luo, Jin Tang, and Xiao Wang. Dense Feature Aggregation and Pruning for RGBT Tracking. ACM International Conference on Multimedia (**ACM MM**), 2019. 
-    
-Chao Fan, Yulong Wang, **Chenglong Li***, and Jin Tang. Visual Tracking via Siamese Network with Global Similarity. IEEE International Conference on Image Processing (**ICIP**), 2019. 
 
 
 ### 2018
