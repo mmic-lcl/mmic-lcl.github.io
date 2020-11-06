@@ -16,10 +16,7 @@ author_profile: true
 **Multi-Adapter Network for RGBT Tracking**: [[code]](https://github.com/Alexadlu/MANet)
 
  **Citation:** Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, and Jin Tang. Multi-Adapter RGBT Tracking. International Conference on Computer Vision Workshops, 2019. (Spotlight) 
-    
-**Collaborative Graph Learning for RGBT Saliency Detection**: [[code]](https://pan.baidu.com/s/1bb1Fx5-VmgSgMTw9r37Jzw)
-
- **Citation:** Zhengzheng Tu, Tian Xia, Chenglong Li, Xiaoxiao Wang, Yan Ma. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (TMM), 2020.
+   
     
 
     
@@ -32,6 +29,10 @@ author_profile: true
    Chenglong Li, Liang Lin, Wangmeng Zuo, Wenzhong Wang, and Jin Tang.An Approach to Streaming Video Segmentation with Sub-Optimal Low-rank Decomposition. IEEE Transactions on Image Processing (T-IP), 25(5): 1947-1960, 2016.
    
 ## Saliency Detection
+
+**Collaborative Graph Learning for RGBT Saliency Detection**: [[code]](https://pan.baidu.com/s/1bb1Fx5-VmgSgMTw9r37Jzw)
+
+ **Citation:** Zhengzheng Tu, Tian Xia, Chenglong Li, Xiaoxiao Wang, Yan Ma. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (TMM), 2020.
 
 **Aggregating Complementary Appearance Contrast Measures**: [[pisa_code]](https://github.com/kezewang/pixelwiseImageSaliencyAggregation)
 
