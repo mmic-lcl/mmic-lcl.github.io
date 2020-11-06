@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "code & dataset"
+title: "Code & Dataset"
 permalink: /code-dataset/
 author_profile: true
 ---
