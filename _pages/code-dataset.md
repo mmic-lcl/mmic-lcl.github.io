@@ -43,7 +43,7 @@ author_profile: true
 
     Jin Tang, Dongzhe Fan, Xiaoxiao Wang, Zhengzheng Tu, and Chenglong Li. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach. Submitted it to IEEE Transactions on Circuits and Systems for Video Technology, 2019.
     
-3. **VT821 Dataset**[[Google drive]][[Baidu cloud]
+3. **VT821 Dataset**[[Google drive]][[Baidu cloud]]
 
     **Citation:**
 
