@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: "Selected Publications"
 permalink: /publications/
 ---
