@@ -4,7 +4,7 @@ main:
     url: /publications/
     
   - title: "Code & Dataset"
-    url: /portfolio/
+    url: /_code-dataset/
 
   - title: "Talk"
     url: /talks/    
@@ -14,6 +14,3 @@ main:
     
   - title: "科研训练计划"
     url: /training/   
-
-  - title: "测试页面"
-    url: /adlu-test/ 
