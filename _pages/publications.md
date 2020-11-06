@@ -6,11 +6,11 @@ permalink: /publications/
 
 ### Preprint
 
-1. Chenglong Li, Andong Lu, Aihua Zheng, Zhengzheng Tu, and Jin Tang. Multi-Adapter RGBT Tracking. [arXiv:1907.07485](https://arxiv.org/abs/1907.07485), 2019. \[[Code](https://github.com/Alexadlu/MANet)\]  
+1. **Chenglong Li**, Andong Lu, Aihua Zheng, Zhengzheng Tu, and Jin Tang. Multi-Adapter RGBT Tracking. [arXiv:1907.07485](https://arxiv.org/abs/1907.07485), 2019. \[[Code](https://github.com/Alexadlu/MANet)\]  
 
-2. Chenglong Li, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. [arXiv:1907.10303](https://arxiv.org/abs/1907.10303), 2019.  
+2. **Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. [arXiv:1907.10303](https://arxiv.org/abs/1907.10303), 2019.  
     
-3. Yabin Zhu, Chenglong Li,  Yijuan Lu, Liang Lin, Bin Luo, and Jin Tang. FANet: Quality-Aware Feature Aggregation Network for RGB-T Tracking. \[[arXiv](https://arxiv.org/abs/1811.09855)\]
+3. Yabin Zhu, **Chenglong Li***,  Yijuan Lu, Liang Lin, Bin Luo, and Jin Tang. FANet: Quality-Aware Feature Aggregation Network for RGB-T Tracking. \[[arXiv](https://arxiv.org/abs/1811.09855)\]
     
 4. Xiao Wang,  Chenglong Li,  Rui Yang,  Tianzhu Zhang, Jin Tang, and Bin Luo. Describe and Attend to Track: Learning Natural Language guided Structural Representation and Visual Attention for Object Tracking. \[[arXiv](https://arxiv.org/abs/1811.10014?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+arxiv%2FQSXk+%28ExcitingAds%21+cs+updates+on+arXiv.org%29)\]  
    
@@ -20,7 +20,7 @@ permalink: /publications/
 
 Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and **Chenglong Li***. A Subspace Learning Approach to Multi-Shot Person Re-Identification.  IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), 2020.
 
-Zhengzheng Tu, Tian Xia, Chenglong Li , Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**TMM**), 2020.
+Zhengzheng Tu, Tian Xia, **Chenglong Li***, Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**TMM**), 2020.
 
 
 ### 2019
