@@ -9,7 +9,7 @@ author_profile: true
 
 1. **RGBT234 Dataset** [[Google drive](https://drive.google.com/open?id=1ouNEptXOgRop4U7zYMK9zAp57SZ2XCNL)] [[Baidu cloud](https://pan.baidu.com/s/1naq87OmHz2c_GrtOdFCpgQ)] [[Project](https://sites.google.com/view/ahutracking001/)]
 
-    **Citation:** Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang. RGB-T Object Tracking: Benchmark and Baseline. Pattern Recognition (PR), in press.
+    **Citation:** Chenglong Li, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang. RGB-T Object Tracking: Benchmark and Baseline. Pattern Recognition (PR), 2019.
 
 2. **RGBT210 Dataset** [[Google drive](https://drive.google.com/file/d/0B3i2rdXLNbdUTkhsLVRwcTBTMlU/view)] [[Baidu cloud](http://pan.baidu.com/s/1qXDAq0O)]
 
@@ -23,7 +23,7 @@ author_profile: true
 
 1. **SODA Dataset** [[Google drive](https://drive.google.com/drive/folders/1ZF2vDk9j69kP5U0zcp-liOBk-atWcw-5?usp=sharing)]
 
-    **Citation:** Chenglong Li, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. [arXiv:1907.10303](https://arxiv.org/abs/1907.10303), 2019.
+    **Citation:** Chenglong Li, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems, 2020.
 
 ### RGBT Moving Object Detection
 
@@ -42,5 +42,9 @@ author_profile: true
     **Citation:** Guizhao Wang, Chenglong Li, Yunpeng Ma, Aihua Zheng, Bin Luo, and Jin Tang. A Unified RGB-T Saliency Detection Benchmark: Dataset, Baselines, Analysis and A Novel Approach. Chinese Conference on Image and Graphics Technologies, 2018. [[arXiv](https://arxiv.org/abs/1701.02829)]
 
     Jin Tang, Dongzhe Fan, Xiaoxiao Wang, Zhengzheng Tu, and Chenglong Li. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach. Submitted it to IEEE Transactions on Circuits and Systems for Video Technology, 2019.
+    
+3. **VT821 Dataset**[[Google drive]][[Baidu cloud]
+
+    **Citation:**
 
 
