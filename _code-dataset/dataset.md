@@ -1,5 +1,5 @@
 ---
-title: "dataset"
+title: "Dataset"
 collection: code-dataset
 permalink: /_code-dataset/dataset
 ---
