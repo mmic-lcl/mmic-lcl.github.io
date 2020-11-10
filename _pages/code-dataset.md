@@ -9,6 +9,11 @@ author_profile: true
 
 ## RGBT Tracking
 
+**Challenge-aware RGBT Tracking**: Coming soon
+
+ **Citation:** Chenglong Li, Lei Liu, Andong Lu, Qing Ji, and Jin Tang. Challenge-aware RGBT Tracking. European Conference on Computer Vision (ECCV), 2020.
+ 
+ 
 **Cross-Modal Ranking for RGBT Tracking**: [[cmr_code.rar]](http://chenglongli.cn/system/file?fileId=105966)
 
  **Citation:** Chenglong Li, Chengli Zhu, Yan Huang, Jin Tang, and Liang Wang. Cross-Modal Ranking with Soft-Consistency and Noisy Labels for Robust RGB-T Tracking. European Conference on Computer Vision (ECCV), 2018.
@@ -30,15 +35,17 @@ author_profile: true
    
 ## Saliency Detection
 
-**Multi-interactive Decoder Network for RGBT Salient Object Detection**: [[code]](https://github.com/lz118/Multi-interactive-Encoder-decoder-Network-for-RGBT-Salient-Object-Detection)
+**Multi-interactive Encoder-decoder Network**: [[code]](https://github.com/lz118/Multi-interactive-Encoder-decoder-Network-for-RGBT-Salient-Object-Detection)
 
-**Collaborative Graph Learning for RGBT Saliency Detection**: [[code]](https://pan.baidu.com/s/1bb1Fx5-VmgSgMTw9r37Jzw)
+ **Citation:** Zhengzheng Tu, Zhun Li, Chenglong Li*, Yang Lang, and Jin Tang. Multi-interactive Encoder-decoder Network for RGBT Salient Object Detection. Submitted to IEEE Transactions on Image Processing.
 
- **Citation:** Zhengzheng Tu, Tian Xia, Chenglong Li, Xiaoxiao Wang, Yan Ma. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (TMM), 2020.
+**Collaborative Graph Learning**: [[code]](https://pan.baidu.com/s/1bb1Fx5-VmgSgMTw9r37Jzw)
+
+ **Citation:** Zhengzheng Tu, Tian Xia, Chenglong Li, Xiaoxiao Wang, and Yan Ma. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (TMM), 2020.
 
 **Aggregating Complementary Appearance Contrast Measures**: [[pisa_code]](https://github.com/kezewang/pixelwiseImageSaliencyAggregation)
 
-**Citation:** Keze Wang and Liang Lin and Jiangbo Lu and Chenglong Li and Keyang Shi. PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures With Edge-Preserving Coherence. IEEE Transactions on Image Processing (TIP), 24(10): 3019-3033, 2015.
+**Citation:** Keze Wang and Liang Lin and Jiangbo Lu and Chenglong Li, and Keyang Shi. PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures With Edge-Preserving Coherence. IEEE Transactions on Image Processing (TIP), 24(10): 3019-3033, 2015.
 
 
 
