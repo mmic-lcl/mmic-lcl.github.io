@@ -89,9 +89,9 @@ author_profile: true
 
 **VT821 Dataset** [[Google drive](https://drive.google.com/file/d/0B4fH4G1f-jjNR3NtQUkwWjFFREk/view?usp=sharing)] [[Baidu cloud](http://pan.baidu.com/s/1bpEaeQV)]
 
- **Citation:** Guizhao Wang, Chenglong Li, Yunpeng Ma, Aihua Zheng, Bin Luo, and Jin Tang. A Unified RGB-T Saliency Detection Benchmark: Dataset, Baselines, Analysis and A Novel Approach. Chinese Conference on Image and Graphics Technologies, 2018. [[arXiv](https://arxiv.org/abs/1701.02829)]
+ **Citation:** Guizhao Wang, Chenglong Li, Yunpeng Ma, Aihua Zheng, Bin Luo, and Jin Tang. A Unified RGB-T Saliency Detection Benchmark: Dataset, Baselines, Analysis and A Novel Approach. Chinese Conference on Image and Graphics Technologies, 2018.
 
- Jin Tang, Dongzhe Fan, Xiaoxiao Wang, Zhengzheng Tu, and Chenglong Li. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach. Submitted it to IEEE Transactions on Circuits and Systems for Video Technology, 2019.
+ Jin Tang, Dongzhe Fan, Xiaoxiao Wang, Zhengzheng Tu, and Chenglong Li. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach. IEEE Transactions on Circuits and Systems for Video Technology, 2020.
     
 
 
