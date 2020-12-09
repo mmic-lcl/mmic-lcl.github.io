@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 ---
 
-### In Submission
+### Preprint
 
 Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss. IEEE Transactions on Image Processing (**T-IP**), major revisions.
 
