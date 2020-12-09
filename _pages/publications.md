@@ -11,7 +11,10 @@ Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactiv
 Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Will Submit to IEEE Transactions on Image Processing.
 
 Xiao Wang,  **Chenglong Li**,  Rui Yang,  Tianzhu Zhang, Jin Tang, and Bin Luo. Describe and Attend to Track: Learning Natural Language guided Structural Representation and Visual Attention for Object Tracking. Submitted to IEEE Transactions on Multimedia.  
-   
+  
+  
+### 2021
+Aihua Zheng, Zihan Chen, Zi Wang, **Chenglong Li***, and Jin Tang. Robust Multi-Modality Person Re-Identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2021.
    
 
 ### 2020
@@ -24,13 +27,13 @@ Qiao Liu, Xin Li, Zhenyu He, **Chenglong Li**, Jun Li, Zikun Zhou, Di Yuan, Jing
 
 **Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2020. 
 
-Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and **Chenglong Li***. A Subspace Learning Approach to Multi-Shot Person Re-Identification.  IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), 2020.
+Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and **Chenglong Li***. A Subspace Learning Approach to Multi-Shot Person Re-Identification.  IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), 50(1): 149-158, 2020.
 
 Zhengzheng Tu, Yan Ma, **Chenglong Li***, Jin Tang, Bin Luo. Edge-guided Non-local Fully Convolutional Network for Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2020.
 
-Jin Tang, Dongzhe Fan, Xiaoxiao Wang, Zhengzheng Tu, **Chenglong Li**. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2020.
+Jin Tang, Dongzhe Fan, Xiaoxiao Wang, Zhengzheng Tu, **Chenglong Li**. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 30(12): 4421-4433, 2020.
 
-Zhengzheng Tu, Tian Xia, **Chenglong Li***, Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**T-MM**), 2020.
+Zhengzheng Tu, Tian Xia, **Chenglong Li***, Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**T-MM**), 22(1): 160-173, 2020.
 
 Yabin Zhu, **Chenglong Li***,  Liang Lin, Jin Tang, and Bin Luo. Quality-Aware Feature Aggregation Network for Robust RGB-T Tracking. IEEE Transactions on Intelligent Vehicles (**T-IV**), 2020.
 
@@ -49,11 +52,11 @@ Yuan Gao, **Chenglong Li**, Yabin Zhu, Jin Tang, Tao He, and Futian Wang. Deep A
     
 Chao Fan, Yulong Wang, **Chenglong Li***, and Jin Tang. Visual Tracking via Siamese Network with Global Similarity. IEEE International Conference on Image Processing (**ICIP**), 2019. 
 
-**Chenglong Li**, Liang Lin, Wangmeng Zuo, Jin Tang, and Ming-Hsuan Yang. Visual Tracking via Dynamic Graph Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 2019.
+**Chenglong Li**, Liang Lin, Wangmeng Zuo, Jin Tang, and Ming-Hsuan Yang. Visual Tracking via Dynamic Graph Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 41(11): 2770-2782, 2019.
 
-**Chenglong Li**, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang. RGB-T Object Tracking: Benchmark and Baseline. Pattern Recognition (**PR**), 2019. 
+**Chenglong Li**, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang. RGB-T Object Tracking: Benchmark and Baseline. Pattern Recognition (**PR**), 96: 106977, 2019. 
 
-**Chenglong Li**, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang. Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking. IEEE Transactions on Circuits and Systems for Video Technology  (**T-CSVT**), 2019.
+**Chenglong Li**, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang. Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking. IEEE Transactions on Circuits and Systems for Video Technology  (**T-CSVT**), 29(10): 2913-2926, 2019.
 
 Bo Jiang, Yuan Zhang, Jin Tang, Bin Luo, and **Chenglong Li***. Robust Visual Tracking via Laplacian Regularized Random Walk Ranking. Neurocomputing (**NEUCOM**), 339: 139-148, 2019.  
     
