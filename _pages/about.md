@@ -15,7 +15,13 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 
 Award
 ======
+ACM Hefei Doctoral Dissertation Award, Oct. 2016
 
+Outstanding Graduate of Anhui Province, Jul. 2016
+
+Best Paper Award in Anhui Association for Artificial Intelligence, Dec. 2018
+
+Excellent Supervisor Award of Master Theses in Anhui Computer Federation
 
 Project
 ======
@@ -39,5 +45,7 @@ Project
 
 Activity
 ======
+Reviewer for IEEE T-IP, T-NNLS, T-CYB, T-MM, T-CSVT, PR, Information Fusion
 
+Reviewer for CVPR, ICCV, ECCV, ACM MM, AAAI, IJCAI, NeurIPS
 
