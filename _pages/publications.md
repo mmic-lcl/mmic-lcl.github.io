@@ -4,13 +4,16 @@ title: "Selected Publications"
 permalink: /publications/
 ---
 
-### Preprint
+### In Submission
 
-Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactive Encoder-decoder Network for RGBT Salient Object Detection. Submitted to IEEE Transactions on Image Processing.
+Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss. IEEE Transactions on Image Processing (**T-IP**), major revisions.
 
-Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Will Submit to IEEE Transactions on Image Processing.
+**Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), minor revisions.
 
-Xiao Wang,  **Chenglong Li**,  Rui Yang,  Tianzhu Zhang, Jin Tang, and Bin Luo. Describe and Attend to Track: Learning Natural Language guided Structural Representation and Visual Attention for Object Tracking. Submitted to IEEE Transactions on Multimedia.  
+Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li**. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), major revisions.
+
+Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactive Encoder-decoder Network for RGBT Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), under review.
+
   
   
 ### 2021
