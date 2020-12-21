@@ -45,7 +45,7 @@ Project
 
 Activity
 ======
-Reviewer for IEEE T-IP, T-NNLS, T-CYB, T-MM, T-CSVT, PR, Information Fusion
+Reviewer for IJCV, IEEE T-IP, T-NNLS, T-CYB, T-MM, T-CSVT, PR, Information Fusion
 
-Reviewer for CVPR, ICCV, ECCV, ACM MM, AAAI, IJCAI, NeurIPS
+Reviewer for CVPR, ICCV, ECCV, ACM MM, AAAI, IJCAI, NeurIPS, ICML
 
