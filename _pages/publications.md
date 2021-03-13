@@ -8,16 +8,25 @@ permalink: /publications/
 
 Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss. IEEE Transactions on Image Processing (**T-IP**), major revisions.
 
-**Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), minor revisions.
 
-Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), major revisions.
-
-Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactive Encoder-decoder Network for RGBT Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), under review.
+Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactive Encoder-decoder Network for RGBT Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), major revisions.
 
   
   
 ### 2021
 Aihua Zheng, Zihan Chen, Zi Wang, **Chenglong Li***, and Jin Tang. Robust Multi-Modality Person Re-Identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2021.
+
+Lingbo Liu, Jiaqi Chen, Hefeng Wu, Guanbin Li, **Chenglong Li**, and Liang Lin. Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**), 2021.
+
+**Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021.
+
+Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 2021.
+
+Zhengzheng Tu, Yan Ma, **Chenglong Li***, Jin Tang, Bin Luo. Edge-guided Non-local Fully Convolutional Network for Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 31(2): 582-593, 2021.
+
+Yabin Zhu, **Chenglong Li***, Jin Tang, and Bin Luo. Quality-Aware Feature Aggregation Network for Robust RGBT Tracking. IEEE Transactions on Intelligent Vehicles (**T-IV**), 6(1): 121-130, 2021.
+
+Futian Wang, Xiaoping Wang, Jin Tang, Bin Luo, and **Chenglong Li***. VTAAN: Visual Tracking with Attentive Adversarial Network. Cognitive Computation (**COGN**), 2021.
    
 
 ### 2020
@@ -32,17 +41,12 @@ Qiao Liu, Xin Li, Zhenyu He, **Chenglong Li**, Jun Li, Zikun Zhou, Di Yuan, Jing
 
 Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and **Chenglong Li***. A Subspace Learning Approach to Multi-Shot Person Re-Identification.  IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), 50(1): 149-158, 2020.
 
-Zhengzheng Tu, Yan Ma, **Chenglong Li***, Jin Tang, Bin Luo. Edge-guided Non-local Fully Convolutional Network for Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2020.
 
 Jin Tang, Dongzhe Fan, Xiaoxiao Wang, Zhengzheng Tu, **Chenglong Li**. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 30(12): 4421-4433, 2020.
 
 Zhengzheng Tu, Tian Xia, **Chenglong Li***, Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**T-MM**), 22(1): 160-173, 2020.
 
-Yabin Zhu, **Chenglong Li***,  Liang Lin, Jin Tang, and Bin Luo. Quality-Aware Feature Aggregation Network for Robust RGB-T Tracking. IEEE Transactions on Intelligent Vehicles (**T-IV**), 2020.
-
 Aihua Zheng, Naipeng Ye, **Chenglong Li***, Xiao Wang, and Jin Tang. Multi-modal foreground detection via inter-and intra-modality-consistent low-rank separation. Neurocomputing (**NEUCOM**), 371: 27-38, 2020.
-
-Futian Wang, Xiaoping Wang, Jin Tang, Bin Luo, and **Chenglong Li***. VTAAN: Visual Tracking with Attentive Adversarial Network. Cognitive Computation (**COGN**), 2020.
 
 
 ### 2019
@@ -72,7 +76,7 @@ Xiao Wang, Tao Sun, Rui Yang, **Chenglong Li**, Bin Luo, and Jin Tang. Quality�
 
 **Chenglong Li**, Chengli Zhu, Yan Huang, Jin Tang, and Liang Wang. Cross-Modal Ranking with Soft-Consistency and Noisy Labels for Robust RGB-T Tracking. European Conference on Computer Vision (**ECCV**), 2018. 
     
-Xiao Wang, **Chenglong Li**, Jin Tang, and Bin Luo. SINT++: Robust Visual Tracking via Adversarial Positive Instance  Generation. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**),  2018. \[[Project page](https://sites.google.com/view/cvpr2018sintplusplus/)\]
+Xiao Wang, **Chenglong Li**, Jin Tang, and Bin Luo. SINT++: Robust Visual Tracking via Adversarial Positive Instance  Generation. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**), 2018. \[[Project page](https://sites.google.com/view/cvpr2018sintplusplus/)\]
     
 Ran Zhong, Wenzhong Wang, **Chenglong Li**, Aihua Zheng, and Jin Tang. Exploring Scene Geometry For Scale Adaptive Object Tracking In Surveillance Videos. IEEE International Conference on Image Processing (**ICIP**), 2018.
 
