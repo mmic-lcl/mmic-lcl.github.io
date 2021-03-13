@@ -18,6 +18,8 @@ Aihua Zheng, Zihan Chen, Zi Wang, **Chenglong Li***, and Jin Tang. Robust Multi-
 
 Lingbo Liu, Jiaqi Chen, Hefeng Wu, Guanbin Li, **Chenglong Li**, and Liang Lin. Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**), 2021.
 
+**Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021. 
+
 **Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021.
 
 Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 2021.
@@ -37,10 +39,7 @@ Hongchao Li, **Chenglong Li**, Xianpeng Zhu, Aihua Zheng, Bin Luo. Multi-Spectra
 
 Qiao Liu, Xin Li, Zhenyu He, **Chenglong Li**, Jun Li, Zikun Zhou, Di Yuan, Jing Li, Kai Yang, Nana Fan, and Feng Zheng. LSOTB-TIR: A Large-Scale High-Diversity Thermal Infrared Object Tracking Benchmark. ACM International Conference on Multimedia (**ACM MM**), 2020.
 
-**Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2020. 
-
 Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and **Chenglong Li***. A Subspace Learning Approach to Multi-Shot Person Re-Identification.  IEEE Transactions on Systems, Man, and Cybernetics: Systems (**T-SMCS**), 50(1): 149-158, 2020.
-
 
 Jin Tang, Dongzhe Fan, Xiaoxiao Wang, Zhengzheng Tu, **Chenglong Li**. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 30(12): 4421-4433, 2020.
 
