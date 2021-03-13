@@ -18,7 +18,7 @@ Aihua Zheng, Zihan Chen, Zi Wang, **Chenglong Li***, and Jin Tang. Robust Multi-
 
 Lingbo Liu, Jiaqi Chen, Hefeng Wu, Guanbin Li, **Chenglong Li**, and Liang Lin. Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**), 2021.
 
-**Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021. 
+**Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night: Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021. 
 
 **Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021.
 
