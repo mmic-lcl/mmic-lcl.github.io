@@ -14,7 +14,7 @@ Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactiv
   
   
 ### 2021
-Aihua Zheng, Zihan Chen, Zi Wang, **Chenglong Li***, and Jin Tang. Robust Multi-Modality Person Re-Identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2021.
+Aihua Zheng, Zi Wang, Zihan Chen, **Chenglong Li***, and Jin Tang. Robust Multi-Modality Person Re-Identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2021.
 
 Lingbo Liu, Jiaqi Chen, Hefeng Wu, Guanbin Li, **Chenglong Li**, and Liang Lin. Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**), 2021.
 
