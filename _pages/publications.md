@@ -30,9 +30,13 @@ Zhengzheng Tu, Yan Ma, **Chenglong Li***, Jin Tang, Bin Luo. Edge-guided Non-loc
 
 Yabin Zhu, **Chenglong Li***, Jin Tang, and Bin Luo. Quality-Aware Feature Aggregation Network for Robust RGBT Tracking. IEEE Transactions on Intelligent Vehicles (**T-IV**), 6(1): 121-130, 2021.
 
-Youmin Yan, Xixian Guo, Jin Tang, **Chenglong Li**, and Xin Wang. Learning Spatio-temporal Correlation Filter for Visual Tracking. Neurocomputing (**NEUCOM**), 436: 273-282, 2021.
+Youmin Yan (Undergraduate student), Xixian Guo, Jin Tang, **Chenglong Li**, and Xin Wang. Learning Spatio-temporal Correlation Filter for Visual Tracking. Neurocomputing (**NEUCOM**), 436: 273-282, 2021.
+
+Qiuyu Kong (Undergraduate student), Jin Tang, **Chenglong Li**, Xin Wang, and Jian Zhang. An Ensemble of Complementary Models for Deep Tracking. Cognitive Computation (**COGN**), 2021.
 
 Futian Wang, Xiaoping Wang, Jin Tang, Bin Luo, and **Chenglong Li***. VTAAN: Visual Tracking with Attentive Adversarial Network. Cognitive Computation (**COGN**), 2021.
+
+Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT Tracking via Reliable Feature Configuration. SCIENCE CHINA Information Sciences (**SCIS**), 2021.
 
 Aihua Zheng, Zihan Chen, **Chenglong Li***, Jin Tang, and Bin Luo. Learning Deep RGBT Representations for Robust Person Re-identification. International Journal of Automation and Computing (**IJAC**), 2021.
    
