@@ -67,7 +67,7 @@ author_profile: true
 
 ## Thermal Image Semantic Segmentation
 
-**SODA Dataset** [[Google drive](https://drive.google.com/drive/folders/1ZF2vDk9j69kP5U0zcp-liOBk-atWcw-5?usp=sharing)]
+**SODA Dataset** [[Google drive](https://drive.google.com/drive/folders/1ZF2vDk9j69kP5U0zcp-liOBk-atWcw-5?usp=sharing)] [[Baidu cloud](https://pan.baidu.com/s/17BMykl3t1JmPPk-JNkJUMg)]
 
  **Citation:** Chenglong Li, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night:Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems, 2020.
 
