@@ -11,9 +11,22 @@ permalink: /publications/
 
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactive Encoder-decoder Network for RGBT Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), major revisions.
 
+Aihua Zheng, Xia Sun, **Chenglong Li***, and Jin Tang. Viewpoint-aware Progressive Clustering for Unsupervised Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), major revisions.
+
+Aihua Zheng, Ming Wang, **Chenglong Li***, , Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), major revisions.
+
 **Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, and Jin Tang. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
 Zhengzheng Tu, Chun Lin, Qingwen Zhu, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. Submitted to IEEE Transactions on Image Processing (**T-IP**).
+
+Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and State Guided Structural Embedding Network for Vehicle Re-identification. Submitted to IEEE Transactions on Image Processing (**T-IP**).
+
+Zhengzheng Tu, Chao Wang, **Chenglong Li***, and Bin Luo. ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model. Submitted to IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**).
+
+Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Submitted to IEEE Transactions on Multimedia (**T-MM**).
+
+Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. Submitted to IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**).
+
 
   
   
