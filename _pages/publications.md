@@ -13,7 +13,7 @@ Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactiv
 
 Aihua Zheng, Xia Sun, **Chenglong Li***, and Jin Tang. Viewpoint-aware Progressive Clustering for Unsupervised Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), major revisions.
 
-Aihua Zheng, Ming Wang, **Chenglong Li***, , Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), major revisions.
+Aihua Zheng, Ming Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), major revisions.
 
 **Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, and Jin Tang. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
