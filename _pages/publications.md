@@ -6,10 +6,14 @@ permalink: /publications/
 
 ### Preprint
 
-Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss. IEEE Transactions on Image Processing (**T-IP**), major revisions.
+
 
 
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactive Encoder-decoder Network for RGBT Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), major revisions.
+
+**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, and Jin Tang. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. Submitted to IEEE Transactions on Image Processing (**T-IP**).
+
+Zhengzheng Tu, Chun Lin, Qingwen Zhu, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
   
   
@@ -17,6 +21,8 @@ Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-interactiv
 Aihua Zheng, Zi Wang, Zihan Chen, **Chenglong Li***, and Jin Tang. Robust Multi-Modality Person Re-Identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2021.
 
 Lingbo Liu, Jiaqi Chen, Hefeng Wu, Guanbin Li, **Chenglong Li**, and Liang Lin. Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**), 2021.
+
+Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss. IEEE Transactions on Image Processing (**T-IP**), 2021.
 
 **Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night: Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021. 
 
