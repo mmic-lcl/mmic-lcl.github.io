@@ -5,14 +5,12 @@ permalink: /code-dataset/
 author_profile: true
 ---
 
+More datasets and codes are available at: [https://github.com/mmic-lcl](https://github.com/mmic-lcl)
+
 # Code
 
 ## RGBT Tracking
 
-**Challenge-aware RGBT Tracking**: Coming soon
-
- **Citation:** Chenglong Li, Lei Liu, Andong Lu, Qing Ji, and Jin Tang. Challenge-aware RGBT Tracking. European Conference on Computer Vision (ECCV), 2020.
- 
  
 **Cross-Modal Ranking for RGBT Tracking**: [[cmr_code.rar]](http://chenglongli.cn/system/file?fileId=105966)
 
