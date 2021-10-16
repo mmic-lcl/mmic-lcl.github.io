@@ -10,7 +10,7 @@ Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated 
 
 **Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, and Jin Tang. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. Submitted to IEEE Transactions on Image Processing (**T-IP**), minor revisions.
 
-Zhengzheng Tu, Zhun Li, **Chenglong Li**, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. Submitted to IEEE Transactions on Image Processing (**T-IP**).
+Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
 
 
