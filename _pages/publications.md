@@ -8,11 +8,7 @@ permalink: /publications/
 
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), major revisions.
 
-Aihua Zheng, Ming Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), major revisions.
-
-**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, and Jin Tang. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. Submitted to IEEE Transactions on Image Processing (**T-IP**), major revisions.
-
-Zhengzheng Tu, Chun Lin, Qingwen Zhu, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), major revisions.
+**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, and Jin Tang. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. Submitted to IEEE Transactions on Image Processing (**T-IP**), minor revisions.
 
 Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and State Guided Structural Embedding Network for Vehicle Re-identification. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
@@ -32,6 +28,8 @@ Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking v
 
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-Interactive Dual-Decoder Network for RGB-Thermal Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), 30: 5678-5691, 2021.
 
+Zhengzheng Tu, Chun Lin, Qingwen Zhu, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2021.
+
 **Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night: Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 32(7): 3069-3082, 2021. 
 
 **Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021.
@@ -41,6 +39,8 @@ Aihua Zheng, Xia Sun, **Chenglong Li***, and Jin Tang. Viewpoint-aware Progressi
 Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 2021.
 
 Zhengzheng Tu, Chao Wang, **Chenglong Li***, Minghao Fan, Haifeng Zhao, and Bin Luo. ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2021.
+
+Aihua Zheng, Ming Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2021.
 
 Yabin Zhu, **Chenglong Li***, Jin Tang, Bin Luo, and Liang Wang. RGBT Tracking by Trident Fusion Network. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2021.
 
