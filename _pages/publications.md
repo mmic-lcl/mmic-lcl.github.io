@@ -8,7 +8,7 @@ permalink: /publications/
 
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), major revisions.
 
-**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, and Jin Tang. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. Submitted to IEEE Transactions on Image Processing (**T-IP**), minor revisions.
+
 
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
@@ -19,8 +19,9 @@ Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and
 Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Submitted to IEEE Transactions on Multimedia (**T-MM**).
 
 
+### 2022
 
-
+**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, and Jin Tang. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2022.
   
   
 ### 2021
@@ -54,7 +55,7 @@ Zhengzheng Tu, Yan Ma, **Chenglong Li***, Jin Tang, Bin Luo. Edge-guided Non-loc
 
 Yabin Zhu, **Chenglong Li***, Jin Tang, and Bin Luo. Quality-Aware Feature Aggregation Network for Robust RGBT Tracking. IEEE Transactions on Intelligent Vehicles (**T-IV**), 6(1): 121-130, 2021.
 
-Rui Yang, Xiao Wang, **Chenglong Li***, Jinmin Hu, and Jin Tang. RGBT Tracking via Cross-modality Message Passing. Neurocomputing (**NEUCOM**), 2021.
+Rui Yang, Xiao Wang, **Chenglong Li***, Jinmin Hu, and Jin Tang. RGBT Tracking via Cross-modality Message Passing. Neurocomputing (**NEUCOM**), 462:365-375, 2021.
 
 Youmin Yan (Undergraduate student), Xixian Guo, Jin Tang, **Chenglong Li**, and Xin Wang. Learning Spatio-temporal Correlation Filter for Visual Tracking. Neurocomputing (**NEUCOM**), 436: 273-282, 2021.
 
