@@ -8,7 +8,7 @@ permalink: /publications/
 
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), major revisions.
 
-
+**Chenglong Li**, Yu Xie, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Multi-type Occlusion-aware Network for Vehicle Keypoint Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), major revisions.
 
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
