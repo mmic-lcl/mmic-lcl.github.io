@@ -21,6 +21,12 @@ Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. 
 
 ### 2022
 
+**Chenglong Li**, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, and Sulan Zhai. Cross-Modal Object Tracking: Modality-Aware Representations and A Unified Benchmark. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
+
+Yun Xiao, Mengmeng Yang, **Chenglong Li***, Lei Liu, and Jin Tang. Attribute-based Progressive Fusion Network for RGBT Tracking. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
+
+Zi Wang, **Chenglong Li**, Aihua Zheng, Ran He, and Jin Tang. Interact, Embed and EnlargE: Boosting Modality-specific Representations for Multi-Modal Person Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
+
 **Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2022.
   
   
