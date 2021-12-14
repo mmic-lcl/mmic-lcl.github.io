@@ -28,6 +28,8 @@ Yun Xiao, Mengmeng Yang, **Chenglong Li***, Lei Liu, and Jin Tang. Attribute-bas
 Zi Wang, **Chenglong Li**, Aihua Zheng, Ran He, and Jin Tang. Interact, Embed and EnlargE: Boosting Modality-specific Representations for Multi-Modal Person Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
 
 **Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 392-404, 2022.
+
+Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 85-98, 2021.
   
   
 ### 2021
@@ -39,7 +41,7 @@ Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking v
 
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), 30: 5678-5691, 2021.
 
-Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2021.
+
 
 **Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night: Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 32(7): 3069-3082, 2021. 
 
@@ -61,7 +63,7 @@ Zhengzheng Tu, Yan Ma, **Chenglong Li***, Jin Tang, Bin Luo. Edge-guided Non-loc
 
 Yabin Zhu, **Chenglong Li***, Jin Tang, and Bin Luo. Quality-Aware Feature Aggregation Network for Robust RGBT Tracking. IEEE Transactions on Intelligent Vehicles (**T-IV**), 6(1): 121-130, 2021.
 
-Rui Yang, Xiao Wang, **Chenglong Li***, Jinmin Hu, and Jin Tang. RGBT Tracking via Cross-modality Message Passing. Neurocomputing (**NEUCOM**), 462:365-375, 2021.
+Rui Yang, Xiao Wang, **Chenglong Li***, Jinmin Hu, and Jin Tang. RGBT Tracking via Cross-modality Message Passing. Neurocomputing (**NEUCOM**), 462: 365-375, 2021.
 
 Youmin Yan (Undergraduate student), Xixian Guo, Jin Tang, **Chenglong Li**, and Xin Wang. Learning Spatio-temporal Correlation Filter for Visual Tracking. Neurocomputing (**NEUCOM**), 436: 273-282, 2021.
 
