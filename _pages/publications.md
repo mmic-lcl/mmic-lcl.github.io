@@ -27,7 +27,7 @@ Yun Xiao, Mengmeng Yang, **Chenglong Li***, Lei Liu, and Jin Tang. Attribute-bas
 
 Zi Wang, **Chenglong Li**, Aihua Zheng, Ran He, and Jin Tang. Interact, Embed and EnlargE: Boosting Modality-specific Representations for Multi-Modal Person Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
 
-**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2022.
+**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 392-404, 2022.
   
   
 ### 2021
