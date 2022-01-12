@@ -4,17 +4,17 @@ title: "Selected Publications"
 permalink: /publications/
 ---
 
-***indicates the corresponding author.**
+* indicates that I am the corresponding author.
 
 部分期刊和会议类型：
 
-CCF A类会议，国际顶级会议：**CVPR**，**AAAI**，**ACM MM**
+**CCF A类会议，国际顶级会议**：**CVPR**，**AAAI**，**ACM MM**
 
-CCF B类会议，国际顶级会议：**ECCV**
+**CCF B类会议，国际顶级会议**：**ECCV**
 
-CCF A类期刊，中科院TOP期刊：**TPAMI**，**TIP**
+**CCF A类期刊，中科院TOP期刊**：**TPAMI**，**TIP**
 
-CCF B类期刊，中科院TOP期刊：**TNNLS**，**TCYB**，**TSMCS**，**PR**，**TMM**，**TCSVT**，**TGRS**，**TITS**
+**CCF B类期刊，中科院TOP期刊**：**TNNLS**，**TCYB**，**TSMCS**，**PR**，**TMM**，**TCSVT**，**TGRS**，**TITS**
 
 ### Preprint
 
