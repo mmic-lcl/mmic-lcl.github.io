@@ -21,59 +21,59 @@ Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. 
 
 ### 2022
 
-**Chenglong Li**, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, and Sulan Zhai. Cross-Modal Object Tracking: Modality-Aware Representations and A Unified Benchmark. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
+**Chenglong Li**, Tianhao Zhu, Lei Liu, Xiaonan Si, Zilin Fan, and Sulan Zhai. Cross-Modal Object Tracking: Modality-Aware Representations and A Unified Benchmark. AAAI Conference on Artificial Intelligence (**AAAI**), 2022. （CCF A类会议）
 
-Yun Xiao, Mengmeng Yang, **Chenglong Li***, Lei Liu, and Jin Tang. Attribute-based Progressive Fusion Network for RGBT Tracking. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
+Yun Xiao, Mengmeng Yang, **Chenglong Li***, Lei Liu, and Jin Tang. Attribute-based Progressive Fusion Network for RGBT Tracking. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.（CCF A类会议）
 
-Zi Wang, **Chenglong Li**, Aihua Zheng, Ran He, and Jin Tang. Interact, Embed and EnlargE: Boosting Modality-specific Representations for Multi-Modal Person Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
+Zi Wang, **Chenglong Li**, Aihua Zheng, Ran He, and Jin Tang. Interact, Embed and EnlargE: Boosting Modality-specific Representations for Multi-Modal Person Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.（CCF A类会议）
 
-**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 392-404, 2022.
+**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 392-404, 2022.（CCF A类期刊，中科院TOP期刊）
 
-Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 85-98, 2022.
+Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 85-98, 2022.（CCF A类期刊，中科院TOP期刊）
   
   
 ### 2021
-Aihua Zheng, Zi Wang, Zihan Chen, **Chenglong Li***, and Jin Tang. Robust Multi-Modality Person Re-Identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2021.
+Aihua Zheng, Zi Wang, Zihan Chen, **Chenglong Li***, and Jin Tang. Robust Multi-Modality Person Re-Identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2021.（CCF A类会议）
 
-Lingbo Liu, Jiaqi Chen, Hefeng Wu, Guanbin Li, **Chenglong Li**, and Liang Lin. Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**), 2021.
+Lingbo Liu, Jiaqi Chen, Hefeng Wu, Guanbin Li, **Chenglong Li**, and Liang Lin. Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting. IEEE Conference on Computer Vision and Pattern Recognition  (**CVPR**), 2021.（CCF A类会议）
 
-Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss. IEEE Transactions on Image Processing (**T-IP**), 30: 5613-5625, 2021.
+Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss. IEEE Transactions on Image Processing (**T-IP**), 30: 5613-5625, 2021.（CCF A类期刊，中科院TOP期刊）
 
-Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), 30: 5678-5691, 2021.
+Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), 30: 5678-5691, 2021.（CCF A类期刊，中科院TOP期刊）
 
 
 
-**Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night: Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 32(7): 3069-3082, 2021. 
+**Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night: Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 32(7): 3069-3082, 2021. （CCF B类期刊，中科院TOP期刊）
 
-**Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021.
+**Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021.（CCF B类期刊，中科院TOP期刊）
 
-Aihua Zheng, Xia Sun, **Chenglong Li***, and Jin Tang. Viewpoint-aware Progressive Clustering for Unsupervised Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2021.
+Aihua Zheng, Xia Sun, **Chenglong Li***, and Jin Tang. Viewpoint-aware Progressive Clustering for Unsupervised Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2021.（CCF B类期刊，中科院TOP期刊）
 
-Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 2021.
+Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 2021.（CCF B类期刊，中科院TOP期刊）
 
-Zhengzheng Tu, Chao Wang, **Chenglong Li***, Minghao Fan, Haifeng Zhao, and Bin Luo. ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2021.
+Zhengzheng Tu, Chao Wang, **Chenglong Li***, Minghao Fan, Haifeng Zhao, and Bin Luo. ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2021.（CCF B类期刊，中科院TOP期刊）
 
-Aihua Zheng, Ming Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2021.
+Aihua Zheng, Ming Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2021.（CCF B类期刊，中科院TOP期刊）
 
-Yabin Zhu, **Chenglong Li***, Jin Tang, Bin Luo, and Liang Wang. RGBT Tracking by Trident Fusion Network. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2021.
+Yabin Zhu, **Chenglong Li***, Jin Tang, Bin Luo, and Liang Wang. RGBT Tracking by Trident Fusion Network. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2021.（CCF B类期刊，中科院TOP期刊）
 
-Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2021.
+Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2021.（CCF B类期刊，中科院TOP期刊）
 
-Zhengzheng Tu, Yan Ma, **Chenglong Li***, Jin Tang, Bin Luo. Edge-guided Non-local Fully Convolutional Network for Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 31(2): 582-593, 2021.
+Zhengzheng Tu, Yan Ma, **Chenglong Li***, Jin Tang, Bin Luo. Edge-guided Non-local Fully Convolutional Network for Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 31(2): 582-593, 2021.（CCF B类期刊，中科院TOP期刊）
 
 Yabin Zhu, **Chenglong Li***, Jin Tang, and Bin Luo. Quality-Aware Feature Aggregation Network for Robust RGBT Tracking. IEEE Transactions on Intelligent Vehicles (**T-IV**), 6(1): 121-130, 2021.
 
-Rui Yang, Xiao Wang, **Chenglong Li***, Jinmin Hu, and Jin Tang. RGBT Tracking via Cross-modality Message Passing. Neurocomputing (**NEUCOM**), 462: 365-375, 2021.
+Rui Yang, Xiao Wang, **Chenglong Li***, Jinmin Hu, and Jin Tang. RGBT Tracking via Cross-modality Message Passing. Neurocomputing (**NEUCOM**), 462: 365-375, 2021.（中科院二区期刊）
 
-Youmin Yan (Undergraduate student), Xixian Guo, Jin Tang, **Chenglong Li**, and Xin Wang. Learning Spatio-temporal Correlation Filter for Visual Tracking. Neurocomputing (**NEUCOM**), 436: 273-282, 2021.
+Youmin Yan (Undergraduate student), Xixian Guo, Jin Tang, **Chenglong Li**, and Xin Wang. Learning Spatio-temporal Correlation Filter for Visual Tracking. Neurocomputing (**NEUCOM**), 436: 273-282, 2021.（中科院二区期刊）
 
-Qiuyu Kong (Undergraduate student), Jin Tang, **Chenglong Li**, Xin Wang, and Jian Zhang. An Ensemble of Complementary Models for Deep Tracking. Cognitive Computation (**COGN**), 2021.
+Qiuyu Kong (Undergraduate student), Jin Tang, **Chenglong Li**, Xin Wang, and Jian Zhang. An Ensemble of Complementary Models for Deep Tracking. Cognitive Computation (**COGN**), 2021.（中科院二区期刊）
 
-Futian Wang, Xiaoping Wang, Jin Tang, Bin Luo, and **Chenglong Li***. VTAAN: Visual Tracking with Attentive Adversarial Network. Cognitive Computation (**COGN**), 13: 646–656, 2021.
+Futian Wang, Xiaoping Wang, Jin Tang, Bin Luo, and **Chenglong Li***. VTAAN: Visual Tracking with Attentive Adversarial Network. Cognitive Computation (**COGN**), 13: 646–656, 2021.（中科院二区期刊）
 
-Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT Tracking via Reliable Feature Configuration. SCIENCE CHINA Information Sciences (**SCIS**), 2021.
+Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT Tracking via Reliable Feature Configuration. SCIENCE CHINA Information Sciences (**SCIS**), 2021.（中科院二区期刊，中国科技期刊）
 
-Aihua Zheng, Zihan Chen, **Chenglong Li***, Jin Tang, and Bin Luo. Learning Deep RGBT Representations for Robust Person Re-identification. International Journal of Automation and Computing (**IJAC**), 18: 443–456, 2021.
+Aihua Zheng, Zihan Chen, **Chenglong Li***, Jin Tang, and Bin Luo. Learning Deep RGBT Representations for Robust Person Re-identification. International Journal of Automation and Computing (**IJAC**), 18: 443–456, 2021.（中国科技期刊）
    
 
 ### 2020
