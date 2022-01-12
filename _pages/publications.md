@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 ---
 
-* indicates that I am the corresponding author.
+** indicates that I am the corresponding author.
 
 部分期刊和会议类型：
 
