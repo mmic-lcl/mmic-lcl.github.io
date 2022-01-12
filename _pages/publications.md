@@ -8,7 +8,7 @@ permalink: /publications/
 
 部分期刊和会议类型：
 
-CCF A类会议，国际顶级会议：**CVPR**，AAAI**，**ACM MM**
+CCF A类会议，国际顶级会议：**CVPR**，**AAAI**，**ACM MM**
 
 CCF B类会议，国际顶级会议：**ECCV**
 
