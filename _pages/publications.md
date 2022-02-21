@@ -113,7 +113,7 @@ Yabin Zhu, **Chenglong Li**, Bin Luo, Jin Tang, and Xiao Wang. Dense Feature Agg
 
 Yuan Gao, **Chenglong Li**, Yabin Zhu, Jin Tang, Tao He, and Futian Wang. Deep Adaptive Fusion Network for High Performance RGBT Tracking. International Conference on Computer Vision Workshops (**ICCVW**), 2019.
     
-Chao Fan, Yulong Wang, **Chenglong Li***, and Jin Tang. Visual Tracking via Siamese Network with Global Similarity. IEEE International Conference on Image Processing (**ICIP**), 2019. 
+Chao Fan, Yulong Wang, **Chenglong Li**, and Jin Tang. Visual Tracking via Siamese Network with Global Similarity. IEEE International Conference on Image Processing (**ICIP**), 2019. 
 
 **Chenglong Li**, Liang Lin, Wangmeng Zuo, Jin Tang, and Ming-Hsuan Yang. Visual Tracking via Dynamic Graph Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 41(11): 2770-2782, 2019.
 
