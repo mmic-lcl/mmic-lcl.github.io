@@ -18,17 +18,21 @@ Note: * indicates that I am the corresponding author.
 
 ### Preprint
 
-Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), major revisions.
 
-**Chenglong Li**, Yu Xie, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Multi-type Occlusion-aware Network for Vehicle Keypoint Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), major revisions.
+
+**Chenglong Li**, Yu Xie, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Multi-type Occlusion-aware Network for Vehicle Keypoint Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), minor revisions.
+
+Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Submitted to IEEE Transactions on Multimedia (**T-MM**), major revisions.
 
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
+**Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
+Aihua Zheng, Weijun Zhang, Hongchao Li, **Chenglong Li***, Shuping He, and Bin Luo. Keypoint Guiding Network for Cross-resolution Vehicle Re-identification. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
 Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and State Guided Structural Embedding Network for Vehicle Re-identification. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
-Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Submitted to IEEE Transactions on Multimedia (**T-MM**).
+
 
 
 ### 2022
@@ -42,6 +46,8 @@ Zi Wang, **Chenglong Li**, Aihua Zheng, Ran He, and Jin Tang. Interact, Embed an
 **Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 392-404, 2022.
 
 Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 85-98, 2022.
+
+Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2022.
 
 Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 24: 567-580, 2022.
 
