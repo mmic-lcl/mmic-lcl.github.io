@@ -24,7 +24,7 @@ Note: * indicates that I am the corresponding author.
 
 Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Submitted to IEEE Transactions on Multimedia (**T-MM**), major revisions.
 
-Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. Submitted to IEEE Transactions on Image Processing (**T-IP**).
+Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. IEEE Transactions on Image Processing (**T-IP**), major revisions.
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
@@ -56,6 +56,8 @@ Yabin Zhu, **Chenglong Li***, Jin Tang, Bin Luo, and Liang Wang. RGBT Tracking b
 Aihua Zheng, Ming Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 1-14, 2022.
 
 Zhengzheng Tu, Chao Wang, **Chenglong Li***, Minghao Fan, Haifeng Zhao, and Bin Luo. ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 1-13, 2022.
+
+Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT Tracking via Reliable Feature Configuration. SCIENCE CHINA Information Sciences (**SCIS**), 65(4): 142101, 2022.
   
   
 ### 2021
@@ -89,7 +91,6 @@ Qiuyu Kong (Undergraduate student), Jin Tang, **Chenglong Li**, Xin Wang, and Ji
 
 Futian Wang, Xiaoping Wang, Jin Tang, Bin Luo, and **Chenglong Li***. VTAAN: Visual Tracking with Attentive Adversarial Network. Cognitive Computation (**COGN**), 13: 646–656, 2021.
 
-Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT Tracking via Reliable Feature Configuration. SCIENCE CHINA Information Sciences (**SCIS**), 2021.
 
 Aihua Zheng, Zihan Chen, **Chenglong Li***, Jin Tang, and Bin Luo. Learning Deep RGBT Representations for Robust Person Re-identification. International Journal of Automation and Computing (**IJAC**), 18: 443–456, 2021.
    
