@@ -53,9 +53,9 @@ Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bi
 
 Yabin Zhu, **Chenglong Li***, Jin Tang, Bin Luo, and Liang Wang. RGBT Tracking by Trident Fusion Network. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 32(2): 1051-8215, 2022.
 
-Aihua Zheng, Ming Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 1-14, 2022.
+Aihua Zheng, Ming Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 5405614, 2022.
 
-Zhengzheng Tu, Chao Wang, **Chenglong Li***, Minghao Fan, Haifeng Zhao, and Bin Luo. ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 1-13, 2022.
+Zhengzheng Tu, Chao Wang, **Chenglong Li***, Minghao Fan, Haifeng Zhao, and Bin Luo. ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 5607913, 2022.
 
 Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT Tracking via Reliable Feature Configuration. SCIENCE CHINA Information Sciences (**SCIS**), 65(4): 142101, 2022.
   
