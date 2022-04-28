@@ -22,8 +22,6 @@ Note: * indicates that I am the corresponding author.
 
 **Chenglong Li**, Yu Xie, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Multi-type Occlusion-aware Network for Vehicle Keypoint Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), minor revisions.
 
-
-
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. IEEE Transactions on Image Processing (**T-IP**), major revisions.
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Submitted to IEEE Transactions on Image Processing (**T-IP**).
@@ -74,6 +72,10 @@ Zhengzheng Tu, Chao Wang, **Chenglong Li***, Minghao Fan, Haifeng Zhao, and Bin 
 Qiuyu Kong (Undergraduate student), Jin Tang, **Chenglong Li**, Xin Wang, and Jian Zhang. An Ensemble of Complementary Models for Deep Tracking. Cognitive Computation (**COGN**), 2021.
 
 Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT Tracking via Reliable Feature Configuration. SCIENCE CHINA Information Sciences (**SCIS**), 65(4): 142101, 2022.
+
+Hongchao Li, Xianmin Lin, Aihua Zheng, **Chenglong Li**, Bin Luo, Ran He and Amir Hussain. Attributes Guided Feature Learning for Vehicle Re-identification. IEEE Transactions on Emerging Topics in Computational Intelligence, 2022.
+
+郑爱华, 冯孟雅, **李成龙***, 汤进, 罗斌. 面向跨模态行人重识别的双向动态交互网络. 计算机辅助设计与图形学学报, 2022.
   
   
 ### 2021
