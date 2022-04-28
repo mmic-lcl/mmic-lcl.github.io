@@ -22,7 +22,7 @@ Note: * indicates that I am the corresponding author.
 
 **Chenglong Li**, Yu Xie, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Multi-type Occlusion-aware Network for Vehicle Keypoint Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), minor revisions.
 
-Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Submitted to IEEE Transactions on Multimedia (**T-MM**), major revisions.
+
 
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. IEEE Transactions on Image Processing (**T-IP**), major revisions.
 
@@ -49,13 +49,29 @@ Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-M
 
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2022.
 
+**Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021.
+
+
+
+Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Submitted to IEEE Transactions on Multimedia (**T-MM**), 2022.
+
 Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 24: 567-580, 2022.
 
+
+Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2022.
+
 Yabin Zhu, **Chenglong Li***, Jin Tang, Bin Luo, and Liang Wang. RGBT Tracking by Trident Fusion Network. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 32(2): 1051-8215, 2022.
+
+Aihua Zheng, Xia Sun, **Chenglong Li***, and Jin Tang. Viewpoint-aware Progressive Clustering for Unsupervised Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2022.
+
+
+Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. MsKAT: Multi-scale Knowledge-Aware Transformer for Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2022.
 
 Aihua Zheng, Ming Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 5405614, 2022.
 
 Zhengzheng Tu, Chao Wang, **Chenglong Li***, Minghao Fan, Haifeng Zhao, and Bin Luo. ORSI Salient Object Detection via Multiscale Joint Region and Boundary Model. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 5607913, 2022.
+
+Qiuyu Kong (Undergraduate student), Jin Tang, **Chenglong Li**, Xin Wang, and Jian Zhang. An Ensemble of Complementary Models for Deep Tracking. Cognitive Computation (**COGN**), 2021.
 
 Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT Tracking via Reliable Feature Configuration. SCIENCE CHINA Information Sciences (**SCIS**), 65(4): 142101, 2022.
   
@@ -70,14 +86,8 @@ Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking v
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), 30: 5678-5691, 2021.
 
 
-
 **Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night: Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 32(7): 3069-3082, 2021. 
 
-**Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2021.
-
-Aihua Zheng, Xia Sun, **Chenglong Li***, and Jin Tang. Viewpoint-aware Progressive Clustering for Unsupervised Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2021.
-
-Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2021.
 
 Zhengzheng Tu, Yan Ma, **Chenglong Li***, Jin Tang, Bin Luo. Edge-guided Non-local Fully Convolutional Network for Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 31(2): 582-593, 2021.
 
@@ -87,7 +97,6 @@ Rui Yang, Xiao Wang, **Chenglong Li***, Jinmin Hu, and Jin Tang. RGBT Tracking v
 
 Youmin Yan (Undergraduate student), Xixian Guo, Jin Tang, **Chenglong Li**, and Xin Wang. Learning Spatio-temporal Correlation Filter for Visual Tracking. Neurocomputing (**NEUCOM**), 436: 273-282, 2021.
 
-Qiuyu Kong (Undergraduate student), Jin Tang, **Chenglong Li**, Xin Wang, and Jian Zhang. An Ensemble of Complementary Models for Deep Tracking. Cognitive Computation (**COGN**), 2021.
 
 Futian Wang, Xiaoping Wang, Jin Tang, Bin Luo, and **Chenglong Li***. VTAAN: Visual Tracking with Attentive Adversarial Network. Cognitive Computation (**COGN**), 13: 646–656, 2021.
 
