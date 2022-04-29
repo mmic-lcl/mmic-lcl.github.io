@@ -51,7 +51,7 @@ Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated 
 
 
 
-Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. Submitted to IEEE Transactions on Multimedia (**T-MM**), 2022.
+Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2022.
 
 Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 24: 567-580, 2022.
 
