@@ -22,7 +22,7 @@ Note: * indicates that I am the corresponding author.
 
 **Chenglong Li**, Yu Xie, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Multi-type Occlusion-aware Network for Vehicle Keypoint Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), minor revisions.
 
-Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. IEEE Transactions on Image Processing (**T-IP**), major revisions.
+
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Submitted to IEEE Transactions on Image Processing (**T-IP**).
 
@@ -42,6 +42,8 @@ Yun Xiao, Mengmeng Yang, **Chenglong Li***, Lei Liu, and Jin Tang. Attribute-bas
 Zi Wang, **Chenglong Li**, Aihua Zheng, Ran He, and Jin Tang. Interact, Embed and EnlargE: Boosting Modality-specific Representations for Multi-Modal Person Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
 
 **Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 392-404, 2022.
+
+Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. IEEE Transactions on Image Processing (**T-IP**), 2022.
 
 Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 85-98, 2022.
 
