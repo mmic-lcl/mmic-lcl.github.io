@@ -45,6 +45,8 @@ Yun Xiao, Mengmeng Yang, **Chenglong Li***, Lei Liu, and Jin Tang. Attribute-bas
 
 Zi Wang, **Chenglong Li**, Aihua Zheng, Ran He, and Jin Tang. Interact, Embed and EnlargE: Boosting Modality-specific Representations for Multi-Modal Person Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2022.
 
+Aihua Zheng, Peng Pan, Hongchao Li, **Chenglong Li***, Bin Luo, Chang Tan, Ruoran Jia. Progressive Attribute Embedding for Accurate Cross-modality Person Re-ID. ACM International Conference on Multimedia, 2022.
+
 **Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 392-404, 2022.
 
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. IEEE Transactions on Image Processing (**T-IP**), 31: 3752-3764, 2022.
