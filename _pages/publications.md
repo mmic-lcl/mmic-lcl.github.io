@@ -24,14 +24,13 @@ Note: * indicates that I am the corresponding author.
 
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), major revisions.
 
-Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and State Guided Structural Embedding Network for Vehicle Re-identification. Submitted to IEEE Transactions on Image Processing (**T-IP**), minor revisions.
-
 Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Looking and Hearing into Details:  Dual-enhanced Siamese Adversarial Network for Audio-visual Matching. IEEE Transactions on Multimedia (**T-MM**), major revisions.
 
-**Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Submitted to IEEE Transactions on Image Processing (**T-IP**).
+**Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. IEEE Transactions on Image Processing (**T-IP**), major revisions.
 
-Aihua Zheng, Weijun Zhang, Hongchao Li, **Chenglong Li***, Shuping He, and Bin Luo. Keypoint Guiding Network for Cross-resolution Vehicle Re-identification. Submitted to IEEE Transactions on Image Processing (**T-IP**).
+Lei Liu, **Chenglong Li***, Yuqing Yan, Yun Xiao, and Jin Tang. Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Submitted to IEEE Transactions on Image Processing (**T-NNLS**).
 
+Aihua Zheng, Weijun Zhang, Hongchao Li, **Chenglong Li***, Shuping He, and Bin Luo. Keypoint Guiding Network for Cross-resolution Vehicle Re-identification. Submitted to IEEE Transactions on Image Processing (**T-NNLS**).
 
 Aihua Zheng, Fan Yuan, Jiaxiang Wang, **Chenglong Li***, Chao Tao, and Jin Tang. Public-private Attributes-based Variational Adversarial Network for Audio-Visual Cross-Modal Matching. Submitted to IEEE Transactions on Multimedia (**T-MM**).
 
@@ -54,9 +53,11 @@ Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free R
 
 Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 85-98, 2022.
 
+Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and State Guided Structural Embedding Network for Vehicle Re-identification. IEEE Transactions on Image Processing (**T-IP**), 2022.
+
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2022.
 
-**Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2022.
+**Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 33(9): 5019-5031, 2022.
 
 
 
@@ -69,7 +70,7 @@ Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li**
 
 Yabin Zhu, **Chenglong Li***, Jin Tang, Bin Luo, and Liang Wang. RGBT Tracking by Trident Fusion Network. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 32(2): 1051-8215, 2022.
 
-Aihua Zheng, Xia Sun, **Chenglong Li***, and Jin Tang. Viewpoint-aware Progressive Clustering for Unsupervised Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2022.
+Aihua Zheng, Xia Sun, **Chenglong Li***, and Jin Tang. Viewpoint-aware Progressive Clustering for Unsupervised Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 23(8): 11422-11435, 2022.
 
 
 Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. MsKAT: Multi-scale Knowledge-Aware Transformer for Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2022.
