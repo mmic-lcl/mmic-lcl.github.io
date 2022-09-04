@@ -28,9 +28,9 @@ Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Looking and
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. IEEE Transactions on Image Processing (**T-IP**), major revisions.
 
-Lei Liu, **Chenglong Li***, Yuqing Yan, Yun Xiao, and Jin Tang. Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Submitted to IEEE Transactions on Image Processing (**T-NNLS**).
+Lei Liu, **Chenglong Li***, Yuqing Yan, Yun Xiao, and Jin Tang. Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Submitted to IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**).
 
-Aihua Zheng, Weijun Zhang, Hongchao Li, **Chenglong Li***, Shuping He, and Bin Luo. Keypoint Guiding Network for Cross-resolution Vehicle Re-identification. Submitted to IEEE Transactions on Image Processing (**T-NNLS**).
+Aihua Zheng, Weijun Zhang, Hongchao Li, **Chenglong Li***, Shuping He, and Bin Luo. Keypoint Guiding Network for Cross-resolution Vehicle Re-identification. Submitted to IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**).
 
 Aihua Zheng, Fan Yuan, Jiaxiang Wang, **Chenglong Li***, Chao Tao, and Jin Tang. Public-private Attributes-based Variational Adversarial Network for Audio-Visual Cross-Modal Matching. Submitted to IEEE Transactions on Multimedia (**T-MM**).
 
