@@ -77,6 +77,8 @@ Futian Wang, Yin Guo, **Chenglong Li**, Andong Lu, Zhongfeng Ding, Jin Tang and 
 
 Hongchao Li, Xianmin Lin, Aihua Zheng, **Chenglong Li**, Bin Luo, Ran He and Amir Hussain. Attributes Guided Feature Learning for Vehicle Re-identification. IEEE Transactions on Emerging Topics in Computational Intelligence, 2022.
 
+Yifei Deng, **Chenglong Li**, Andong Lu, Wenjie, and Bin Luo. Factory Extraction from Satellite Images: Benchmark and Baseline. Remote Sensing, 2022.
+
 Shangze Li, Andong Lu, Yan Huang, **Chenglong Li*** and Liang Wang. Joint Token and Feature Alignment Framework for Text-Based Person Search. IEEE Signal Processing Letters (**SPL**), 29: 2238-2242, 2022.
 
 郑爱华, 冯孟雅, **李成龙***, 汤进, 罗斌. 面向跨模态行人重识别的双向动态交互网络. 计算机辅助设计与图形学学报, 2022.
