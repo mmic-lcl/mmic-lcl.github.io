@@ -14,9 +14,9 @@ Note: * indicates that I am the corresponding author.
 
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), major revisions.
 
-Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Looking and Hearing into Details:  Dual-enhanced Siamese Adversarial Network for Audio-visual Matching. IEEE Transactions on Multimedia (**T-MM**), major revisions.
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. IEEE Transactions on Image Processing (**T-IP**), major revisions.
+
 
 Lei Liu, **Chenglong Li***, Yuqing Yan, Yun Xiao, and Jin Tang. Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Submitted to IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**).
 
