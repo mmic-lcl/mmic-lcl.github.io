@@ -6,16 +6,6 @@ permalink: /publications/
 
 Note: * indicates that I am the corresponding author.
 
-部分期刊和会议类型：
-
-**CCF A类会议，国际顶级会议**：**CVPR**，**AAAI**，**ACM MM**
-
-**CCF B类会议，国际顶级会议**：**ECCV**
-
-**CCF A类期刊，中科院TOP期刊**：**TPAMI**，**TIP**
-
-**CCF B类期刊，中科院TOP期刊**：**TNNLS**，**TCYB**，**TSMCS**，**PR**，**TMM**，**TCSVT**，**TGRS**，**TITS**
-
 ### Preprint
 
 
@@ -53,13 +43,13 @@ Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free R
 
 Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-Modal Multi-Margin Metric Learning for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 85-98, 2022.
 
-Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and State Guided Structural Embedding Network for Vehicle Re-identification. IEEE Transactions on Image Processing (**T-IP**), 2022.
+Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and State Guided Structural Embedding Network for Vehicle Re-identification. IEEE Transactions on Image Processing (**T-IP**), 31: 5949-5962, 2022.
 
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2022.
 
 **Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 33(9): 5019-5031, 2022.
 
-
+Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, Bin Luo. Looking and Hearing into Details:  Dual-enhanced Siamese Adversarial Network for Audio-visual Matching. IEEE Transactions on Multimedia (**T-MM**), 2022.
 
 Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2022.
 
@@ -73,7 +63,7 @@ Yabin Zhu, **Chenglong Li***, Jin Tang, Bin Luo, and Liang Wang. RGBT Tracking b
 Aihua Zheng, Xia Sun, **Chenglong Li***, and Jin Tang. Viewpoint-aware Progressive Clustering for Unsupervised Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 23(8): 11422-11435, 2022.
 
 
-Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. MsKAT: Multi-scale Knowledge-Aware Transformer for Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2022.
+Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. MsKAT: Multi-scale Knowledge-Aware Transformer for Vehicle Re-identification. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 23(10): 19557-19568, 2022.
 
 Aihua Zheng, Ming Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Entropy Guided Adversarial Domain Adaptation for Aerial Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 5405614, 2022.
 
@@ -83,9 +73,15 @@ Qiuyu Kong (Undergraduate student), Jin Tang, **Chenglong Li**, Xin Wang, and Ji
 
 Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT Tracking via Reliable Feature Configuration. SCIENCE CHINA Information Sciences (**SCIS**), 65(4): 142101, 2022.
 
+Futian Wang, Yin Guo, **Chenglong Li**, Andong Lu, Zhongfeng Ding, Jin Tang and Bin Luo. Electrical Thermal Image Semantic Segmentation: Large-Scale Dataset and Baseline. IEEE Transactions on Instrumentation and Measurement (**TIM**), 71: 1-13, 2022.
+
 Hongchao Li, Xianmin Lin, Aihua Zheng, **Chenglong Li**, Bin Luo, Ran He and Amir Hussain. Attributes Guided Feature Learning for Vehicle Re-identification. IEEE Transactions on Emerging Topics in Computational Intelligence, 2022.
 
+Shangze Li, Andong Lu, Yan Huang, **Chenglong Li*** and Liang Wang. Joint Token and Feature Alignment Framework for Text-Based Person Search. IEEE Signal Processing Letters (**SPL**), 29: 2238-2242, 2022.
+
 郑爱华, 冯孟雅, **李成龙***, 汤进, 罗斌. 面向跨模态行人重识别的双向动态交互网络. 计算机辅助设计与图形学学报, 2022.
+
+**李成龙**, 鹿安东, 刘磊, 汤进. 多模态视觉跟踪方法综述. 中国图象图形学报, 2022.
   
   
 ### 2021
