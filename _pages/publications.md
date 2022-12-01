@@ -15,7 +15,7 @@ Note: * indicates that I am the corresponding author.
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), major revisions.
 
 
-**Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. IEEE Transactions on Image Processing (**T-IP**), major revisions.
+**Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. IEEE Transactions on Image Processing (**T-IP**), minor revisions.
 
 
 Lei Liu, **Chenglong Li***, Yuqing Yan, Yun Xiao, and Jin Tang. Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Submitted to IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**).
@@ -25,6 +25,13 @@ Aihua Zheng, Weijun Zhang, Hongchao Li, **Chenglong Li***, Shuping He, and Bin L
 Aihua Zheng, Fan Yuan, Jiaxiang Wang, **Chenglong Li***, Chao Tao, and Jin Tang. Public-private Attributes-based Variational Adversarial Network for Audio-Visual Cross-Modal Matching. Submitted to IEEE Transactions on Multimedia (**T-MM**).
 
 
+### 2023
+
+Aihua Zheng, Jinbo He, Ming Wang, **Chenglong Li***, and Bin Luo. Category-wise Fusion and Enhancement Learning for Multi-Modal Remote Sensing Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2023.
+
+Zhengzheng Tu, Wenfang Yang, Kunpeng Wang, Amir Hussain, Bin Luo, and **Chenglong Li***. Multimodal Salient Object Detection via Adversarial Learning with Collaborative Generator. Engineering Applications of Artificial Intelligence (**EAAI**), 2023.
+
+**李成龙**, 鹿安东, 刘磊, 汤进. 多模态视觉跟踪方法综述. 中国图象图形学报, 2023.
 
 
 ### 2022
@@ -83,7 +90,9 @@ Shangze Li, Andong Lu, Yan Huang, **Chenglong Li*** and Liang Wang. Joint Token 
 
 郑爱华, 冯孟雅, **李成龙***, 汤进, 罗斌. 面向跨模态行人重识别的双向动态交互网络. 计算机辅助设计与图形学学报, 2022.
 
-**李成龙**, 鹿安东, 刘磊, 汤进. 多模态视觉跟踪方法综述. 中国图象图形学报, 2022.
+王福田, 张淑云, **李成龙***, 罗斌. 动态模态交互和特征自适应融合的RGBT跟踪. 中国图象图形学报, 27(10): 3010-3021, 2022.
+
+
   
   
 ### 2021
