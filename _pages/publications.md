@@ -39,6 +39,8 @@ Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li**
 
 Zhengzheng Tu, Wenfang Yang, Kunpeng Wang, Amir Hussain, Bin Luo, and **Chenglong Li***. Multimodal Salient Object Detection via Adversarial Learning with Collaborative Generator. Engineering Applications of Artificial Intelligence (**EAAI**), 2023.
 
+郑爱华, 冯孟雅, **李成龙***, 汤进, 罗斌. 面向跨模态行人重识别的双向动态交互网络. 计算机辅助设计与图形学学报, 2023.
+
 **李成龙**, 鹿安东, 刘磊, 汤进. 多模态视觉跟踪方法综述. 中国图象图形学报, 2023.
 
 
@@ -82,13 +84,11 @@ Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT T
 
 Futian Wang, Yin Guo, **Chenglong Li**, Andong Lu, Zhongfeng Ding, Jin Tang and Bin Luo. Electrical Thermal Image Semantic Segmentation: Large-Scale Dataset and Baseline. IEEE Transactions on Instrumentation and Measurement (**TIM**), 71: 1-13, 2022.
 
-Hongchao Li, Xianmin Lin, Aihua Zheng, **Chenglong Li**, Bin Luo, Ran He and Amir Hussain. Attributes Guided Feature Learning for Vehicle Re-identification. IEEE Transactions on Emerging Topics in Computational Intelligence, 2022.
+Hongchao Li, Xianmin Lin, Aihua Zheng, **Chenglong Li**, Bin Luo, Ran He and Amir Hussain. Attributes Guided Feature Learning for Vehicle Re-identification. IEEE Transactions on Emerging Topics in Computational Intelligence, 6(5): 1211-1221, 2022.
 
 Yifei Deng, **Chenglong Li**, Andong Lu, Wenjie Li, and Bin Luo. Factory Extraction from Satellite Images: Benchmark and Baseline. Remote Sensing, 14(2): 5657, 2022.
 
 Shangze Li, Andong Lu, Yan Huang, **Chenglong Li*** and Liang Wang. Joint Token and Feature Alignment Framework for Text-Based Person Search. IEEE Signal Processing Letters (**SPL**), 29: 2238-2242, 2022.
-
-郑爱华, 冯孟雅, **李成龙***, 汤进, 罗斌. 面向跨模态行人重识别的双向动态交互网络. 计算机辅助设计与图形学学报, 2022.
 
 王福田, 张淑云, **李成龙***, 罗斌. 动态模态交互和特征自适应融合的RGBT跟踪. 中国图象图形学报, 27(10): 3010-3021, 2022.
 
