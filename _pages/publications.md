@@ -27,7 +27,15 @@ Aihua Zheng, Fan Yuan, Jiaxiang Wang, **Chenglong Li***, Chao Tao, and Jin Tang.
 
 ### 2023
 
+Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2023.
+
+Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, Bin Luo. Looking and Hearing into Details:  Dual-enhanced Siamese Adversarial Network for Audio-visual Matching. IEEE Transactions on Multimedia (**T-MM**), 2023.
+
+Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2023.
+
 Aihua Zheng, Jinbo He, Ming Wang, **Chenglong Li***, and Bin Luo. Category-wise Fusion and Enhancement Learning for Multi-Modal Remote Sensing Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2023.
+
+Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2023.
 
 Zhengzheng Tu, Wenfang Yang, Kunpeng Wang, Amir Hussain, Bin Luo, and **Chenglong Li***. Multimodal Salient Object Detection via Adversarial Learning with Collaborative Generator. Engineering Applications of Artificial Intelligence (**EAAI**), 2023.
 
@@ -52,18 +60,10 @@ Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-M
 
 Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and State Guided Structural Embedding Network for Vehicle Re-identification. IEEE Transactions on Image Processing (**T-IP**), 31: 5949-5962, 2022.
 
-Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2022.
-
 **Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 33(9): 5019-5031, 2022.
-
-Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, Bin Luo. Looking and Hearing into Details:  Dual-enhanced Siamese Adversarial Network for Audio-visual Matching. IEEE Transactions on Multimedia (**T-MM**), 2022.
-
-Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2022.
 
 Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 24: 567-580, 2022.
 
-
-Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2022.
 
 Yabin Zhu, **Chenglong Li***, Jin Tang, Bin Luo, and Liang Wang. RGBT Tracking by Trident Fusion Network. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 32(2): 1051-8215, 2022.
 
