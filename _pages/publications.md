@@ -9,9 +9,6 @@ Note: * indicates that I am the corresponding author.
 ### Preprint
 
 
-
-**Chenglong Li**, Yu Xie, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Multi-type Occlusion-aware Network for Vehicle Keypoint Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), minor revisions.
-
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), major revisions.
 
 
@@ -20,7 +17,6 @@ Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhi
 
 Lei Liu, **Chenglong Li***, Yuqing Yan, Yun Xiao, and Jin Tang. Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Submitted to IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**).
 
-Aihua Zheng, Weijun Zhang, Hongchao Li, **Chenglong Li***, Shuping He, and Bin Luo. Keypoint Guiding Network for Cross-resolution Vehicle Re-identification. Submitted to IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**).
 
 Aihua Zheng, Fan Yuan, Jiaxiang Wang, **Chenglong Li***, Chao Tao, and Jin Tang. Public-private Attributes-based Variational Adversarial Network for Audio-Visual Cross-Modal Matching. Submitted to IEEE Transactions on Multimedia (**T-MM**).
 
@@ -34,6 +30,8 @@ Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, Bin Luo. Looking and Hea
 Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2023.
 
 Aihua Zheng, Jinbo He, Ming Wang, **Chenglong Li***, and Bin Luo. Category-wise Fusion and Enhancement Learning for Multi-Modal Remote Sensing Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2023.
+
+Zhicheng Zhao, Yong Zhang, **Chenglong Li***, Yun Xiao, and Jin Tang. Thermal UAV Image Super-Resolution Guided by Multiple Visible Cues. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2023.
 
 Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2023.
 
