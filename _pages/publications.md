@@ -6,24 +6,13 @@ permalink: /publications/
 
 Note: * indicates that I am the corresponding author.
 
-### Preprint
-
-
-Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), major revisions.
-
-
-**Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, Ruoran Jia, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. IEEE Transactions on Image Processing (**T-IP**), minor revisions.
-
-
-Lei Liu, **Chenglong Li***, Yuqing Yan, Yun Xiao, and Jin Tang. Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. Submitted to IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**).
-
-
-Aihua Zheng, Fan Yuan, Jiaxiang Wang, **Chenglong Li***, Chao Tao, and Jin Tang. Public-private Attributes-based Variational Adversarial Network for Audio-Visual Cross-Modal Matching. Submitted to IEEE Transactions on Multimedia (**T-MM**).
 
 
 ### 2023
 
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2023.
+
+Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2023.
 
 Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, Bin Luo. Looking and Hearing into Details:  Dual-enhanced Siamese Adversarial Network for Audio-visual Matching. IEEE Transactions on Multimedia (**T-MM**), 2023.
 
