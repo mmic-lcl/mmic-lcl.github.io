@@ -14,7 +14,9 @@ Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated 
 
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2023.
 
-Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, Bin Luo. Looking and Hearing into Details:  Dual-enhanced Siamese Adversarial Network for Audio-visual Matching. IEEE Transactions on Multimedia (**T-MM**), 2023.
+Andong Lu, Zhang Zhang, Yan Huang, Yifan Zhang, **Chenglong Li***, Jin Tang, and Liang Wang. Illumination Distillation Framework for Nighttime Person Re-Identification and A New Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2023.
+
+Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Looking and Hearing into Details:  Dual-enhanced Siamese Adversarial Network for Audio-visual Matching. IEEE Transactions on Multimedia (**T-MM**), 2023.
 
 Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2023.
 
