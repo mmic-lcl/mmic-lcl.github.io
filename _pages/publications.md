@@ -4,7 +4,7 @@ title: "Selected Publications"
 permalink: /publications/
 ---
 ```diff
--Note: * indicates that I am the corresponding <font color=red>黑色</font> author.
++Note: * indicates that I am the corresponding <font color=red>黑色</font> author.
 ```
 
 
