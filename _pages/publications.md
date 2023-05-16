@@ -30,6 +30,8 @@ Shuangqing Zhang, **Chenglong Li***, Zhen Jia, Lei Liu, Zhang Zhang, and Liang W
 
 Zhengzheng Tu, Wenfang Yang, Kunpeng Wang, Amir Hussain, Bin Luo, and **Chenglong Li***. Multimodal Salient Object Detection via Adversarial Learning with Collaborative Generator. Engineering Applications of Artificial Intelligence (**EAAI**), 2023.
 
+Yun Xiao, Yameng Huang, **Chenglong Li***, Lei Liu, Aiwu Zhou, and Jin Tang. Lightweight Multi-modal Representation Learning for RGB Salient Object Detection. Cognitive Computation (**COGN**), 2023.
+
 郑爱华, 冯孟雅, **李成龙***, 汤进, 罗斌. 面向跨模态行人重识别的双向动态交互网络. 计算机辅助设计与图形学学报, 2023.
 
 **李成龙**, 鹿安东, 刘磊, 汤进. 多模态视觉跟踪方法综述. 中国图象图形学报, 2023.
