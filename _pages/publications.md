@@ -3,9 +3,9 @@ layout: archive
 title: "Selected Publications"
 permalink: /publications/
 ---
-
-Note: * indicates that I am the corresponding <font color=red>黑色</font> author.
-
+```diff
+-Note: * indicates that I am the corresponding <font color=red>黑色</font> author.
+```
 
 
 ### 2023
