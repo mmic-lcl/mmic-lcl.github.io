@@ -26,7 +26,7 @@ Zhicheng Zhao, Yong Zhang, **Chenglong Li***, Yun Xiao, and Jin Tang. Thermal UA
 
 Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 33(1): 186-199, 2023. \[**ESI Highly Cited Paper**\] 
 
-Shuangqing Zhang, **Chenglong Li***, Zhen Jia*, Lei Liu, Zhang Zhang, and Liang Wang. Diag-IoU Loss for Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2023.
+Shuangqing Zhang, **Chenglong Li***, Zhen Jia, Lei Liu, Zhang Zhang, and Liang Wang. Diag-IoU Loss for Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2023.
 
 Zhengzheng Tu, Wenfang Yang, Kunpeng Wang, Amir Hussain, Bin Luo, and **Chenglong Li***. Multimodal Salient Object Detection via Adversarial Learning with Collaborative Generator. Engineering Applications of Artificial Intelligence (**EAAI**), 2023.
 
