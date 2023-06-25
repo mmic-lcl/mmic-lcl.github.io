@@ -26,6 +26,8 @@ Aihua Zheng, Jinbo He, Ming Wang, **Chenglong Li***, and Bin Luo. Category-wise 
 
 Zhicheng Zhao, Yong Zhang, **Chenglong Li***, Yun Xiao, and Jin Tang. Thermal UAV Image Super-Resolution Guided by Multiple Visible Cues. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2023.
 
+Chao Wang, Rui Ruan, Zhicheng Zhao, **Chenglong Li***, and Jin Tang. Category-guided Localization Distillation for SAR Object Detection and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2023.
+
 Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 33(1): 186-199, 2023. \[**ESI Highly Cited Paper**\] 
 
 Shuangqing Zhang, **Chenglong Li***, Zhen Jia, Lei Liu, Zhang Zhang, and Liang Wang. Diag-IoU Loss for Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2023.
