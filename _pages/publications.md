@@ -10,6 +10,10 @@ Note: * indicates that I am the corresponding author.
 
 ### 2023
 
+Lei Liu, **Chenglong Li***, Yun Xiao, Jin Tang. Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. ACM International Conference on Multimedia (**ACM MM**), 2023.
+
+Lei Liu, **Chenglong Li***, Aihua Zheng, Jin Tang and Yanping Xiang. Non-aligned RGBT Tracking via Joint Temporal-iterated Homography Estimation and Multimodal Transformer Fusion. International Conference on Computational Science/ Intelligence & Applied Informatics (**CSII**), 2023. (**Best Paper Award**)
+
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2023.
 
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2023.
