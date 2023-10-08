@@ -175,27 +175,27 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+#  teaching:
+#    output: true
+#    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+#  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
+#  talks:
+#    output: true
+#    permalink: /:collection/:path/
   code-dataset:
     output: true
     permalink: /:collection/:path/
-  adlu-test:
-    output: true
-    permalink: /:collection/:path/
-  training:
-    output: true
-    permalink: /:collection/:path/
+#  adlu-test:
+#    output: true
+#    permalink: /:collection/:path/
+#  training:
+#    output: true
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
