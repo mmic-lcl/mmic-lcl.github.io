@@ -40,6 +40,8 @@ Shuangqing Zhang, **Chenglong Li***, Zhen Jia, Lei Liu, Zhang Zhang, and Liang W
 
 Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2023.
 
+**Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Computer Vision and Image Understanding (**CVIU**), 2023.
+
 Zhengzheng Tu, Wenfang Yang, Kunpeng Wang, Amir Hussain, Bin Luo, and **Chenglong Li***. Multimodal Salient Object Detection via Adversarial Learning with Collaborative Generator. Engineering Applications of Artificial Intelligence (**EAAI**), 2023.
 
 Yun Xiao, Yameng Huang, **Chenglong Li***, Lei Liu, Aiwu Zhou, and Jin Tang. Lightweight Multi-modal Representation Learning for RGB Salient Object Detection. Cognitive Computation (**COGN**), 2023.
