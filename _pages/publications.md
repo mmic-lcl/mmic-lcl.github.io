@@ -26,13 +26,11 @@ Andong Lu, Zhang Zhang, Yan Huang, Yifan Zhang, **Chenglong Li***, Jin Tang, and
 
 Jiaxiang Wang, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Looking and Hearing into Details:  Dual-enhanced Siamese Adversarial Network for Audio-visual Matching. IEEE Transactions on Multimedia (**T-MM**), 2023.
 
-Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2023.
+Aihua Zheng, Jinbo He, Ming Wang, **Chenglong Li***, and Bin Luo. Category-wise Fusion and Enhancement Learning for Multi-Modal Remote Sensing Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 4416212, 2023.
 
-Aihua Zheng, Jinbo He, Ming Wang, **Chenglong Li***, and Bin Luo. Category-wise Fusion and Enhancement Learning for Multi-Modal Remote Sensing Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2023.
+Zhicheng Zhao, Yong Zhang, **Chenglong Li***, Yun Xiao, and Jin Tang. Thermal UAV Image Super-Resolution Guided by Multiple Visible Cues. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 61: 5000314, 2023.
 
-Zhicheng Zhao, Yong Zhang, **Chenglong Li***, Yun Xiao, and Jin Tang. Thermal UAV Image Super-Resolution Guided by Multiple Visible Cues. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2023.
-
-Chao Wang, Rui Ruan, Zhicheng Zhao, **Chenglong Li***, and Jin Tang. Category-guided Localization Distillation for SAR Object Detection and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2023.
+Chao Wang, Rui Ruan, Zhicheng Zhao, **Chenglong Li***, and Jin Tang. Category-guided Localization Distillation for SAR Object Detection and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 61: 5211314, 2023.
 
 Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 33(1): 186-199, 2023. \[**ESI Highly Cited Paper**\] 
 
@@ -42,13 +40,13 @@ Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. U
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Computer Vision and Image Understanding (**CVIU**), 2023.
 
-Zhengzheng Tu, Wenfang Yang, Kunpeng Wang, Amir Hussain, Bin Luo, and **Chenglong Li***. Multimodal Salient Object Detection via Adversarial Learning with Collaborative Generator. Engineering Applications of Artificial Intelligence (**EAAI**), 2023.
+Zhengzheng Tu, Wenfang Yang, Kunpeng Wang, Amir Hussain, Bin Luo, and **Chenglong Li***. Multimodal Salient Object Detection via Adversarial Learning with Collaborative Generator. Engineering Applications of Artificial Intelligence (**EAAI**), 119: 105707, 2023.
 
 Yun Xiao, Yameng Huang, **Chenglong Li***, Lei Liu, Aiwu Zhou, and Jin Tang. Lightweight Multi-modal Representation Learning for RGB Salient Object Detection. Cognitive Computation (**COGN**), 2023.
 
-郑爱华, 冯孟雅, **李成龙***, 汤进, 罗斌. 面向跨模态行人重识别的双向动态交互网络. 计算机辅助设计与图形学学报, 2023.
+郑爱华, 冯孟雅, **李成龙***, 汤进, 罗斌. 面向跨模态行人重识别的双向动态交互网络. 计算机辅助设计与图形学学报, 35(3): 371-382, 2023.
 
-**李成龙**, 鹿安东, 刘磊, 汤进. 多模态视觉跟踪方法综述. 中国图象图形学报, 2023.
+**李成龙**, 鹿安东, 刘磊, 汤进. 多模态视觉跟踪方法综述. 中国图象图形学报, 28(1): 37-56, 2023.
 
 
 ### 2022
@@ -70,6 +68,8 @@ Zhengzheng Tu, Chun Lin, Wei Zhao, **Chenglong Li***, and Jin Tang. M5L: Multi-M
 Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and State Guided Structural Embedding Network for Vehicle Re-identification. IEEE Transactions on Image Processing (**T-IP**), 31: 5949-5962, 2022.
 
 **Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 33(9): 5019-5031, 2022.
+
+Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. IEEE Transactions on Multimedia (**T-MM**), 25: 4163 - 4176, 2022.
 
 Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 24: 567-580, 2022.
 
