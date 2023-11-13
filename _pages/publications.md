@@ -228,7 +228,7 @@ Liang Lin, Wei Yang,  **Chenglong Li**, Jin Tang, and Xiaochun Cao. Inference wi
 
 **Chenglong Li**, Liang Lin, Wangmeng Zuo, Shuicheng Yan, and Jin Tang. SOLD: Sub-Optimal Low-Rank Decomposition for Efficient Video Segmentation.  IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), Boston, 2015. 
 
-Keze Wang, Liang Lin, Jiangbo Lu, **Chenglong Li**, and Keyang Shi.PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures with Edge-Preserving Coherence. IEEE Transactions on Image Processing (**T-IP**), 24(10): 3019-3033, 2015. \[[Project page](http://vision.sysu.edu.cn/project/PISA/) with code and dataset\] \[**ESI Highly Cited Paper**\] 
+Keze Wang, Liang Lin, Jiangbo Lu, **Chenglong Li**, and Keyang Shi.PISA: Pixelwise Image Saliency by Aggregating Complementary Appearance Contrast Measures with Edge-Preserving Coherence. IEEE Transactions on Image Processing (**T-IP**), 24(10): 3019-3033, 2015. \[[Project page](http://vision.sysu.edu.cn/project/PISA/) with code and dataset\] ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
 
 
