@@ -32,7 +32,7 @@ Zhicheng Zhao, Yong Zhang, **Chenglong Li***, Yun Xiao, and Jin Tang. Thermal UA
 
 Chao Wang, Rui Ruan, Zhicheng Zhao, **Chenglong Li***, and Jin Tang. Category-guided Localization Distillation for SAR Object Detection and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 61: 5211314, 2023.
 
-Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 33(1): 186-199, 2023. \[$\color{#FF0000}{ESI Highly Cited Paper}$\] 
+Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 33(1): 186-199, 2023. ($\color{#FF0000}{ESI Highly Cited Paper}$)
 
 Shuangqing Zhang, **Chenglong Li***, Zhen Jia, Lei Liu, Zhang Zhang, and Liang Wang. Diag-IoU Loss for Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2023.
 
