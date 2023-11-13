@@ -12,7 +12,7 @@ Note: * indicates that I am the corresponding author.
 
 Lei Liu, **Chenglong Li***, Yun Xiao, Jin Tang. Quality-Aware RGBT Tracking via Supervised Reliability Learning and Weighted Residual Guidance. ACM International Conference on Multimedia (**ACM MM**), 2023.
 
-Lei Liu, **Chenglong Li***, Aihua Zheng, Jin Tang and Yanping Xiang. Non-aligned RGBT Tracking via Joint Temporal-iterated Homography Estimation and Multimodal Transformer Fusion. International Conference on Computational Science/ Intelligence & Applied Informatics (**CSII**), 2023. ($\color{#FF0000}{Best\ Paper Award}$)
+Lei Liu, **Chenglong Li***, Aihua Zheng, Jin Tang and Yanping Xiang. Non-aligned RGBT Tracking via Joint Temporal-iterated Homography Estimation and Multimodal Transformer Fusion. International Conference on Computational Science/ Intelligence & Applied Informatics (**CSII**), 2023. ($\color{#FF0000}{Best\ Paper\ Award}$)
 
 Aihua Zheng, Chaobin Zhang, **Chenglong Li***, Jin Tang, Chang Tan. Multi-query Vehicle Re-identification: Viewpoint-conditioned Network, Unified Dataset and New Metric. IEEE Transactions on Image Processing (**T-IP**), 2023.
 
@@ -32,7 +32,7 @@ Zhicheng Zhao, Yong Zhang, **Chenglong Li***, Yun Xiao, and Jin Tang. Thermal UA
 
 Chao Wang, Rui Ruan, Zhicheng Zhao, **Chenglong Li***, and Jin Tang. Category-guided Localization Distillation for SAR Object Detection and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 61: 5211314, 2023.
 
-Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 33(1): 186-199, 2023. ($\color{#FF0000}{ESI Highly Cited Paper}$)
+Chao Fan, Hongyuan Yu, Yan Huang, Caifeng Shan, Liang Wang, and **Chenglong Li***. SiamON: Siamese Occlusion-aware Network for Visual Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 33(1): 186-199, 2023. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
 Shuangqing Zhang, **Chenglong Li***, Zhen Jia, Lei Liu, Zhang Zhang, and Liang Wang. Diag-IoU Loss for Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2023.
 
@@ -159,7 +159,7 @@ Chao Fan, Yulong Wang, **Chenglong Li**, and Jin Tang. Visual Tracking via Siame
 
 **Chenglong Li**, Liang Lin, Wangmeng Zuo, Jin Tang, and Ming-Hsuan Yang. Visual Tracking via Dynamic Graph Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**), 41(11): 2770-2782, 2019.
 
-**Chenglong Li**, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang. RGB-T Object Tracking: Benchmark and Baseline. Pattern Recognition (**PR**), 96: 106977, 2019. \[$\color{#FF0000}{ESI Highly Cited Paper}$\]
+**Chenglong Li**, Xinyan Liang, Yijuan Lu, Nan Zhao, and Jin Tang. RGB-T Object Tracking: Benchmark and Baseline. Pattern Recognition (**PR**), 96: 106977, 2019. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
 **Chenglong Li**, Chengli Zhu, Jian Zhang, Bin Luo, Xiaohao Wu, and Jin Tang. Learning Local-Global Multi-Graph Descriptors for RGB-T Object Tracking. IEEE Transactions on Circuits and Systems for Video Technology  (**T-CSVT**), 29(10): 2913-2926, 2019.
 
