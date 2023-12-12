@@ -6,7 +6,9 @@ permalink: /publications/
 
 Note: * indicates that I am the corresponding author.
 
+### 2024
 
+Xiao Wang, Wentao Wu, **Chenglong Li***, Zhicheng Zhao, Zhe Chen, Yukai Shi, Jin Tang. Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception. AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
 ### 2023
 
