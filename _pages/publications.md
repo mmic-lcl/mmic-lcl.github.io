@@ -22,9 +22,9 @@ Aihua Zheng, Xianpeng Zhu, Zhiqi Ma, **Chenglong Li***, Jin Tang, and Jixin Ma. 
 
 Andong Lu, Zhang Zhang, Yan Huang, Yifan Zhang, **Chenglong Li***, Jin Tang, and Liang Wang. Illumination Distillation Framework for Nighttime Person Re-Identification and A New Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
 
-Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2023.
+Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
 
-**Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Computer Vision and Image Understanding (**CVIU**), 238: 103880, 2023.
+**Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Computer Vision and Image Understanding (**CVIU**), 238: 103880, 2024.
 
 ### 2023
 
