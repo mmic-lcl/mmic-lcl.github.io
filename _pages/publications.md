@@ -10,9 +10,9 @@ Note: * indicates that I am the corresponding author.
 
 Xiao Wang, Wentao Wu, **Chenglong Li***, Zhicheng Zhao, Zhe Chen, Yukai Shi, Jin Tang. Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception. AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
-Zi Wang, Huaibo Huang, Aihua Zheng, **Chenglong Li**, Ran He. PARALLEL AUGMENTATION AND DUAL ENHANCEMENT FOR OCCLUDED PERSON RE-IDENTIFICATION. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
+Zi Wang, Huaibo Huang, Aihua Zheng, **Chenglong Li**, Ran He. Parallel Augmentation and Dual Enhancement for Occluded Person Re-Identification. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
-Jianfei Jiang, Mingwei Cao, Jun Yi, **Chenglong Li**. DI-MVS: LEARNING EFFICIENT MULTI-VIEW STEREO WITH DEPTH-AWARE ITERATIONS. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
+Jianfei Jiang, Mingwei Cao, Jun Yi, **Chenglong Li**. DI-MVS: Learning Efficient Multi-View Stereo with Depth-Aware Iterations. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
 ### 2023
 
