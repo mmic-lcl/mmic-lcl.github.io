@@ -20,6 +20,8 @@ Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhi
 
 Aihua Zheng, Xianpeng Zhu, Zhiqi Ma, **Chenglong Li***, Jin Tang, and Jixin Ma. Multi-spectral Vehicle Re-identification with Cross-directional Consistency Network and A High-quality Benchmark. Information Fusion (**INFFUS**), 2024.
 
+Leqi Ding, Lei Liu, Yan Huang, **Chenglong Li***, Wei Wang, Cheng Zhang, Liang Wang. Text-to-Image Vehicle Re-Identification: Multi-scale Multi-view Cross-modal Alignment Network and A Unified Benchmark. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2024.
+
 Andong Lu, Zhang Zhang, Yan Huang, Yifan Zhang, **Chenglong Li***, Jin Tang, and Liang Wang. Illumination Distillation Framework for Nighttime Person Re-Identification and A New Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
 
 Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
