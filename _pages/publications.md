@@ -75,7 +75,7 @@ Hongchao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. Attribute and
 
 **Chenglong Li**, Zhiqiang Xiang, Jin Tang, Bin Luo, and Futian Wang. RGBT Tracking via Noise-Robust Cross-Modal Ranking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 33(9): 5019-5031, 2022.
 
-Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. IEEE Transactions on Multimedia (**T-MM**), 25: 4163 - 4176, 2022.
+Zhengzheng Tu, Yan Ma, Zhun Li, **Chenglong Li***, Jieming Xu, and Yongtao Liu. RGBT Salient Object Detection: A Large-scale Dataset and Benchmark. IEEE Transactions on Multimedia (**T-MM**), 25: 4163 - 4176, 2022. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
 Qin Xu, Yiming Mei, Jinpei Liu, and **Chenglong Li***. Multimodal Cross-Layer Bilinear Pooling for RGBT Tracking. IEEE Transactions on Multimedia (**T-MM**), 24: 567-580, 2022.
 
