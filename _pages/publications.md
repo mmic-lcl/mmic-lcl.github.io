@@ -22,8 +22,6 @@ Aihua Zheng, Xianpeng Zhu, Zhiqi Ma, **Chenglong Li***, Jin Tang, and Jixin Ma. 
 
 Leqi Ding, Lei Liu, Yan Huang, **Chenglong Li***, Wei Wang, Cheng Zhang, Liang Wang. Text-to-Image Vehicle Re-Identification: Multi-scale Multi-view Cross-modal Alignment Network and A Unified Benchmark. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2024.
 
-Andong Lu, Zhang Zhang, Yan Huang, Yifan Zhang, **Chenglong Li***, Jin Tang, and Liang Wang. Illumination Distillation Framework for Nighttime Person Re-Identification and A New Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
-
 Zhicheng Zhao, Chun Wang, **Chenglong Li***, Yong Zhang, and Jin Tang. Modality Conversion Meets Super-Resolution: A Collaborative Framework for High-Resolution Thermal UAV Image Generation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2024.
 
 Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao and Jin Tang. Dense Tiny Object Detection: A Scene Context Guided Approach and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2024.
@@ -39,6 +37,8 @@ Lei Liu, **Chenglong Li***, Yun Xiao, Jin Tang. Quality-Aware RGBT Tracking via 
 Lei Liu, **Chenglong Li***, Aihua Zheng, Jin Tang and Yanping Xiang. Non-aligned RGBT Tracking via Joint Temporal-iterated Homography Estimation and Multimodal Transformer Fusion. International Conference on Computational Science/ Intelligence & Applied Informatics (**CSII**), 2023. ($\color{#FF0000}{Best\ Paper\ Award}$)
 
 Aihua Zheng, Chaobin Zhang, **Chenglong Li***, Jin Tang, Chang Tan. Multi-query Vehicle Re-identification: Viewpoint-conditioned Network, Unified Dataset and New Metric. IEEE Transactions on Image Processing (**T-IP**), 32: 5948-5960, 2023.
+
+Andong Lu, Zhang Zhang, Yan Huang, Yifan Zhang, **Chenglong Li***, Jin Tang, and Liang Wang. Illumination Distillation Framework for Nighttime Person Re-Identification and A New Benchmark. IEEE Transactions on Multimedia (**T-MM**), 26: 406-419, 2023.
 
 Aihua Zheng, Jinbo He, Ming Wang, **Chenglong Li***, and Bin Luo. Category-wise Fusion and Enhancement Learning for Multi-Modal Remote Sensing Image Semantic Segmentation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 60: 4416212, 2023.
 
