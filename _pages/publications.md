@@ -24,6 +24,10 @@ Leqi Ding, Lei Liu, Yan Huang, **Chenglong Li***, Wei Wang, Cheng Zhang, Liang W
 
 Andong Lu, Zhang Zhang, Yan Huang, Yifan Zhang, **Chenglong Li***, Jin Tang, and Liang Wang. Illumination Distillation Framework for Nighttime Person Re-Identification and A New Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
 
+Zhicheng Zhao, Chun Wang, **Chenglong Li***, Yong Zhang, and Jin Tang. Modality Conversion Meets Super-Resolution: A Collaborative Framework for High-Resolution Thermal UAV Image Generation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2024.
+
+Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao and Jin Tang. Dense Tiny Object Detection: A Scene Context Guided Approach and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2024.
+
 Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Computer Vision and Image Understanding (**CVIU**), 238: 103880, 2024.
@@ -185,7 +189,7 @@ Xiao Wang, **Chenglong Li**, Jin Tang, and Bin Luo. SINT++: Robust Visual Tracki
     
 Ran Zhong, Wenzhong Wang, **Chenglong Li**, Aihua Zheng, and Jin Tang. Exploring Scene Geometry For Scale Adaptive Object Tracking In Surveillance Videos. IEEE International Conference on Image Processing (**ICIP**), 2018.
 
-Aihua Zheng, Yumiao Zhao, **Chenglong Li***, Jin Tang, and Bin Luo. Moving Object Detection via Robust Low-Rank and Sparse Separating with High-Order Structural Constraint, IEEE Fourth International Conference on Multimedia Big Data (**BigMM**), 2018. (**Oral**)
+Aihua Zheng, Yumiao Zhao, **Chenglong Li***, Jin Tang, and Bin Luo. Moving Object Detection via Robust Low-Rank and Sparse Separating with High-Order Structural Constraint. IEEE Fourth International Conference on Multimedia Big Data (**BigMM**), 2018. (**Oral**)
 
 Sen Yang, Bin Luo, **Chenglong Li***. Guizhao Wang, and Jin Tang. Fast Grayscale-Thermal Foreground Detection with Collaborative Low-Rank Decomposition. IEEE Transactions on Circuits and Systems for Video Technology  (**T-CSVT**), 28(10): 2574 - 2585, 2018. 
 
