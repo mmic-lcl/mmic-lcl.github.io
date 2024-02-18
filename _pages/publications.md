@@ -8,11 +8,13 @@ Note: * indicates that I am the corresponding author.
 
 ### 2024
 
-Xiao Wang, Wentao Wu, **Chenglong Li***, Zhicheng Zhao, Zhe Chen, Yukai Shi, Jin Tang. Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception. AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
+Xiao Wang, Wentao Wu, **Chenglong Li***, Zhicheng Zhao, Zhe Chen, Yukai Shi, and Jin Tang. Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception. AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
-Zi Wang, Huaibo Huang, Aihua Zheng, **Chenglong Li**, Ran He. Parallel Augmentation and Dual Enhancement for Occluded Person Re-Identification. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
+Zi Wang, Huaibo Huang, Aihua Zheng, **Chenglong Li**, and Ran He. Parallel Augmentation and Dual Enhancement for Occluded Person Re-Identification. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
-Jianfei Jiang, Mingwei Cao, Jun Yi, **Chenglong Li**. DI-MVS: Learning Efficient Multi-View Stereo with Depth-Aware Iterations. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
+Jianfei Jiang, Mingwei Cao, Jun Yi, and **Chenglong Li**. DI-MVS: Learning Efficient Multi-View Stereo with Depth-Aware Iterations. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
+
+Lei Liu, **Chenglong Li***, Yun Xiao, Rui Ruan, and Minghao Fan. RGBT Tracking via Challenge-based Appearance Disentanglement and Interaction. IEEE Transactions on Image Processing (**T-IP**), 2024.
 
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
 
