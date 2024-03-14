@@ -28,6 +28,8 @@ Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao and Jin Tang. D
 
 Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
 
+Kunpeng Wang, Zhengzheng Tu, **Chenglong Li**, Cheng Zhang, and Bin Luo. Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
+
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Computer Vision and Image Understanding (**CVIU**), 238: 103880, 2024.
 
 ### 2023
