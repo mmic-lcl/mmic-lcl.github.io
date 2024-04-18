@@ -20,11 +20,17 @@ Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated 
 
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
 
+Lixiang Xu, Qingzhe Cui, Richang Hong, Wei Xu, Enhong Chen, Xin Yuan, **Chenglong Li**, and Yuanyan Tang. Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding. IEEE Transactions on Multimedia (**T-MM**), 2024.
+
 Leqi Ding, Lei Liu, Yan Huang, **Chenglong Li***, Wei Wang, Cheng Zhang, Liang Wang. Text-to-Image Vehicle Re-Identification: Multi-scale Multi-view Cross-modal Alignment Network and A Unified Benchmark. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2024.
 
 Zhicheng Zhao, Chun Wang, **Chenglong Li***, Yong Zhang, and Jin Tang. Modality Conversion Meets Super-Resolution: A Collaborative Framework for High-Resolution Thermal UAV Image Generation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2024.
 
-Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao and Jin Tang. Dense Tiny Object Detection: A Scene Context Guided Approach and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2024.
+Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao, and Jin Tang. Dense Tiny Object Detection: A Scene Context Guided Approach and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2024.
+
+Yabin Zhu, **Chenglong Li***, Xiao Wang, Jin Tang, and Zhixiang Huang. RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
+
+Aihua Zheng, Fan Yuan, Haichuan Zhang, Jiaxiang Wang, Chao Tang, and **Chenglong Li***. Public-private Attributes-based Variational Adversarial Network for Audio-Visual Cross-Modal Matching. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
 
 Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
 
