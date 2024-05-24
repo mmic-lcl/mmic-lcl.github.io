@@ -16,6 +16,8 @@ Jianfei Jiang, Mingwei Cao, Jun Yi, and **Chenglong Li**. DI-MVS: Learning Effic
 
 Lei Liu, **Chenglong Li***, Yun Xiao, Rui Ruan, and Minghao Fan. RGBT Tracking via Challenge-based Appearance Disentanglement and Interaction. IEEE Transactions on Image Processing (**T-IP**), 2024.
 
+Lei Liu, Mengya Feng, Cheng Li, **Chenglong Li***, and Jin Tang. Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
+
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
 
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
