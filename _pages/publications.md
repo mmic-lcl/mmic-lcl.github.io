@@ -22,6 +22,8 @@ Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated 
 
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
 
+Yifei Deng, Guohao Wang, **Chenglong Li***, Wei Wang, Cheng Zhang, and Jin Tang. Collaborative License Plate Recognition via Association Enhancement Network with Auxiliary Learning and A Unified Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
+
 Lixiang Xu, Qingzhe Cui, Richang Hong, Wei Xu, Enhong Chen, Xin Yuan, **Chenglong Li**, and Yuanyan Tang. Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding. IEEE Transactions on Multimedia (**T-MM**), 2024.
 
 Kunpeng Wang, Danying Lin, **Chenglong Li**, Zhengzheng Tu, and Bin Luo. Alignment-Free RGBT Salient Object Detection: Semantics-Guided Asymmetric Correlation Network and a Unified Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
@@ -31,6 +33,8 @@ Leqi Ding, Lei Liu, Yan Huang, **Chenglong Li***, Wei Wang, Cheng Zhang, Liang W
 Zhicheng Zhao, Chun Wang, **Chenglong Li***, Yong Zhang, and Jin Tang. Modality Conversion Meets Super-Resolution: A Collaborative Framework for High-Resolution Thermal UAV Image Generation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 62: 5001314, 2024.
 
 Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao, and Jin Tang. Dense Tiny Object Detection: A Scene Context Guided Approach and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 62: 5606913, 2024.
+
+Yabin Zhu, Xingle Zhao, **Chenglong Li***, Jin Tang, and Zhixiang Huang. Long-term Motion Assisted Remote Sensing Object Tracking. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2024.
 
 Yabin Zhu, **Chenglong Li***, Xiao Wang, Jin Tang, and Zhixiang Huang. RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
 
