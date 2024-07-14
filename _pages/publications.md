@@ -32,9 +32,9 @@ Leqi Ding, Lei Liu, Yan Huang, **Chenglong Li***, Wei Wang, Cheng Zhang, Liang W
 
 Zhicheng Zhao, Chun Wang, **Chenglong Li***, Yong Zhang, and Jin Tang. Modality Conversion Meets Super-Resolution: A Collaborative Framework for High-Resolution Thermal UAV Image Generation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 62: 5001314, 2024.
 
-Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao, and Jin Tang. Dense Tiny Object Detection: A Scene Context Guided Approach and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 62: 5606913, 2024.
-
 Yabin Zhu, Xingle Zhao, **Chenglong Li***, Jin Tang, and Zhixiang Huang. Long-term Motion Assisted Remote Sensing Object Tracking. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2024.
+
+Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao, and Jin Tang. Dense Tiny Object Detection: A Scene Context Guided Approach and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 62: 5606913, 2024.
 
 Yabin Zhu, **Chenglong Li***, Xiao Wang, Jin Tang, and Zhixiang Huang. RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
 
