@@ -8,6 +8,8 @@ Note: * indicates that I am the corresponding author.
 
 ### 2024
 
+Andong Lu, Jiacong Zhao, **Chenglong Li***, Yun Xiao, and Bin Luo. Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation. ACM International Conference on Multimedia (**ACM MM**), 2024.
+
 Xiao Wang, Wentao Wu, **Chenglong Li***, Zhicheng Zhao, Zhe Chen, Yukai Shi, and Jin Tang. Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception. AAAI Conference on Artificial Intelligence (**AAAI**), 2024.
 
 Zi Wang, Huaibo Huang, Aihua Zheng, **Chenglong Li**, and Ran He. Parallel Augmentation and Dual Enhancement for Occluded Person Re-Identification. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
@@ -47,6 +49,8 @@ Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. U
 Kunpeng Wang, Zhengzheng Tu, **Chenglong Li**, Cheng Zhang, and Bin Luo. Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Computer Vision and Image Understanding (**CVIU**), 238: 103880, 2024.
+
+Shuangqing Zhang, Zhang Zhang, Da Li, Zhen Jia, **Chenglong Li***, Liang Wang, Hanyu Zhao, and Duo Wang. Class Hierarchy Guided Generalized Few-shot Ship Detection in Remote Sensing Images. Geoscience and Remote Sensing Letters (**GRSL**), 2024.
 
 ### 2023
 
