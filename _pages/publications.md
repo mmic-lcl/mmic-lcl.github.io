@@ -22,7 +22,7 @@ Lei Liu, Mengya Feng, Cheng Li, **Chenglong Li***, and Jin Tang. Cross-Modal Obj
 
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
 
-Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
+Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 35(8): 10273-10287, 2024.
 
 Lili Huang, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2024.
 
@@ -36,7 +36,7 @@ Leqi Ding, Lei Liu, Yan Huang, **Chenglong Li***, Wei Wang, Cheng Zhang, Liang W
 
 Zhicheng Zhao, Chun Wang, **Chenglong Li***, Yong Zhang, and Jin Tang. Modality Conversion Meets Super-Resolution: A Collaborative Framework for High-Resolution Thermal UAV Image Generation. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 62: 5001314, 2024.
 
-Yabin Zhu, Xingle Zhao, **Chenglong Li***, Jin Tang, and Zhixiang Huang. Long-term Motion Assisted Remote Sensing Object Tracking. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2024.
+Yabin Zhu, Xingle Zhao, **Chenglong Li***, Jin Tang, and Zhixiang Huang. Long-term Motion Assisted Remote Sensing Object Tracking. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 62: 5407514, 2024.
 
 Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao, and Jin Tang. Dense Tiny Object Detection: A Scene Context Guided Approach and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 62: 5606913, 2024.
 
@@ -50,11 +50,11 @@ Aihua Zheng, Fan Yuan, Haichuan Zhang, Jiaxiang Wang, Chao Tang, and **Chenglong
 
 Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(5): 3619-3632, 2024.
 
-Kunpeng Wang, Zhengzheng Tu, **Chenglong Li**, Cheng Zhang, and Bin Luo. Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
+Kunpeng Wang, Zhengzheng Tu, **Chenglong Li**, Cheng Zhang, and Bin Luo. Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(8): 7344-7358, 2024.
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Computer Vision and Image Understanding (**CVIU**), 238: 103880, 2024.
 
-Shuangqing Zhang, Zhang Zhang, Da Li, Zhen Jia, **Chenglong Li***, Liang Wang, Hanyu Zhao, and Duo Wang. Class Hierarchy Guided Generalized Few-shot Ship Detection in Remote Sensing Images. Geoscience and Remote Sensing Letters (**GRSL**), 2024.
+Shuangqing Zhang, Zhang Zhang, Da Li, Zhen Jia, **Chenglong Li***, Liang Wang, Hanyu Zhao, and Duo Wang. Class Hierarchy Guided Generalized Few-shot Ship Detection in Remote Sensing Images. Geoscience and Remote Sensing Letters (**GRSL**), 21: 6013005, 2024.
 
 ### 2023
 
