@@ -24,7 +24,7 @@ Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated 
 
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 35(8): 10273-10287, 2024.
 
-Lili Huang, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2024.
+Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2024.
 
 Yifei Deng, Guohao Wang, **Chenglong Li***, Wei Wang, Cheng Zhang, and Jin Tang. Collaborative License Plate Recognition via Association Enhancement Network with Auxiliary Learning and A Unified Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
 
