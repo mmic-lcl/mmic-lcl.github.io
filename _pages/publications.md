@@ -16,6 +16,8 @@ Zi Wang, Huaibo Huang, Aihua Zheng, **Chenglong Li**, and Ran He. Parallel Augme
 
 Jianfei Jiang, Mingwei Cao, Jun Yi, and **Chenglong Li**. DI-MVS: Learning Efficient Multi-View Stereo with Depth-Aware Iterations. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
+Qishun Wang, Zhengzheng Tu*, **Chenglong Li***, and Jin Tang. High Performance RGB-Thermal Video Object Detection via Hybrid Fusion with Progressive Interaction and Temporal-Modal Difference. Information Fusion (**INFFUS**), 2024.
+
 Lei Liu, **Chenglong Li***, Yun Xiao, Rui Ruan, and Minghao Fan. RGBT Tracking via Challenge-based Appearance Disentanglement and Interaction. IEEE Transactions on Image Processing (**T-IP**), 33: 1753-1767, 2024.
 
 Lei Liu, Mengya Feng, Cheng Li, **Chenglong Li***, and Jin Tang. Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
@@ -62,9 +64,9 @@ Lei Liu, **Chenglong Li***, Yun Xiao, Jin Tang. Quality-Aware RGBT Tracking via 
 
 Lei Liu, **Chenglong Li***, Aihua Zheng, Jin Tang and Yanping Xiang. Non-aligned RGBT Tracking via Joint Temporal-iterated Homography Estimation and Multimodal Transformer Fusion. International Conference on Computational Science/ Intelligence & Applied Informatics (**CSII**), 2023. ($\color{#FF0000}{Best\ Paper\ Award}$)
 
-Aihua Zheng, Chaobin Zhang, **Chenglong Li***, Jin Tang, Chang Tan. Multi-query Vehicle Re-identification: Viewpoint-conditioned Network, Unified Dataset and New Metric. IEEE Transactions on Image Processing (**T-IP**), 32: 5948-5960, 2023.
-
 Aihua Zheng, Xianpeng Zhu, Zhiqi Ma, **Chenglong Li***, Jin Tang, and Jixin Ma. Multi-spectral Vehicle Re-identification with Cross-directional Consistency Network and A High-quality Benchmark. Information Fusion (**INFFUS**), 100: 101901, 2023.
+
+Aihua Zheng, Chaobin Zhang, **Chenglong Li***, Jin Tang, Chang Tan. Multi-query Vehicle Re-identification: Viewpoint-conditioned Network, Unified Dataset and New Metric. IEEE Transactions on Image Processing (**T-IP**), 32: 5948-5960, 2023.
 
 Andong Lu, Zhang Zhang, Yan Huang, Yifan Zhang, **Chenglong Li***, Jin Tang, and Liang Wang. Illumination Distillation Framework for Nighttime Person Re-Identification and A New Benchmark. IEEE Transactions on Multimedia (**T-MM**), 26: 406-419, 2023.
 
