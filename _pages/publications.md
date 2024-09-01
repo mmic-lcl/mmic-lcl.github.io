@@ -16,7 +16,7 @@ Zi Wang, Huaibo Huang, Aihua Zheng, **Chenglong Li**, and Ran He. Parallel Augme
 
 Jianfei Jiang, Mingwei Cao, Jun Yi, and **Chenglong Li**. DI-MVS: Learning Efficient Multi-View Stereo with Depth-Aware Iterations. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
-Qishun Wang, Zhengzheng Tu*, **Chenglong Li***, and Jin Tang. High Performance RGB-Thermal Video Object Detection via Hybrid Fusion with Progressive Interaction and Temporal-Modal Difference. Information Fusion (**INFFUS**), 2024.
+Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, and Jin Tang. High Performance RGB-Thermal Video Object Detection via Hybrid Fusion with Progressive Interaction and Temporal-Modal Difference. Information Fusion (**INFFUS**), 2024.
 
 Lei Liu, **Chenglong Li***, Yun Xiao, Rui Ruan, and Minghao Fan. RGBT Tracking via Challenge-based Appearance Disentanglement and Interaction. IEEE Transactions on Image Processing (**T-IP**), 33: 1753-1767, 2024.
 
