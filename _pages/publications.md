@@ -30,7 +30,7 @@ Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu 
 
 Yifei Deng, Guohao Wang, **Chenglong Li***, Wei Wang, Cheng Zhang, and Jin Tang. Collaborative License Plate Recognition via Association Enhancement Network with Auxiliary Learning and A Unified Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
 
-Lixiang Xu, Qingzhe Cui, Richang Hong, Wei Xu, Enhong Chen, Xin Yuan, **Chenglong Li**, and Yuanyan Tang. Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding. IEEE Transactions on Multimedia (**T-MM**), 2024.
+Lixiang Xu, Qingzhe Cui, Richang Hong, Wei Xu, Enhong Chen, Xin Yuan, **Chenglong Li**, and Yuanyan Tang. Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding. IEEE Transactions on Multimedia (**T-MM**), 26: 9450-9463, 2024.
 
 Kunpeng Wang, Danying Lin, **Chenglong Li**, Zhengzheng Tu, and Bin Luo. Alignment-Free RGBT Salient Object Detection: Semantics-Guided Asymmetric Correlation Network and a Unified Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
 
@@ -44,15 +44,17 @@ Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao, and Jin Tang. 
 
 Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang. Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
 
-Yabin Zhu, **Chenglong Li***, Xiao Wang, Jin Tang, and Zhixiang Huang. RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
+Yabin Zhu, **Chenglong Li***, Xiao Wang, Jin Tang, and Zhixiang Huang. RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(9): 8722-8735, 2024.
 
 Dengdi Sun, Yajie Pan, Andong Lu, **Chenglong Li***, and Bin Luo. Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
 
-Aihua Zheng, Fan Yuan, Haichuan Zhang, Jiaxiang Wang, Chao Tang, and **Chenglong Li***. Public-private Attributes-based Variational Adversarial Network for Audio-Visual Cross-Modal Matching. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
+Aihua Zheng, Fan Yuan, Haichuan Zhang, Jiaxiang Wang, Chao Tang, and **Chenglong Li***. Public-private Attributes-based Variational Adversarial Network for Audio-Visual Cross-Modal Matching. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(9): 8698-8709, 2024.
 
 Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(5): 3619-3632, 2024.
 
 Kunpeng Wang, Zhengzheng Tu, **Chenglong Li**, Cheng Zhang, and Bin Luo. Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(8): 7344-7358, 2024.
+
+Zhaodong Ding, Yifei Deng, **Chenglong Li**, Rui Ruan, and Jin Tang. Lane Detection via Disentangled Representation Network with Slope Consistency Loss. Engineering Applications of Artificial Intelligence, 238: 109449, 2024.
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Computer Vision and Image Understanding (**CVIU**), 238: 103880, 2024.
 
@@ -64,7 +66,7 @@ Lei Liu, **Chenglong Li***, Yun Xiao, Jin Tang. Quality-Aware RGBT Tracking via 
 
 Lei Liu, **Chenglong Li***, Aihua Zheng, Jin Tang and Yanping Xiang. Non-aligned RGBT Tracking via Joint Temporal-iterated Homography Estimation and Multimodal Transformer Fusion. International Conference on Computational Science/ Intelligence & Applied Informatics (**CSII**), 2023. ($\color{#FF0000}{Best\ Paper\ Award}$)
 
-Aihua Zheng, Xianpeng Zhu, Zhiqi Ma, **Chenglong Li***, Jin Tang, and Jixin Ma. Multi-spectral Vehicle Re-identification with Cross-directional Consistency Network and A High-quality Benchmark. Information Fusion (**INFFUS**), 100: 101901, 2023.
+Aihua Zheng, Xianpeng Zhu, Zhiqi Ma, **Chenglong Li***, Jin Tang, and Jixin Ma. Cross-directional Consistency Network with Adaptive Layer Normalization for Multi-spectral Vehicle Re-identification and A High-quality Benchmark. Information Fusion (**INFFUS**), 100: 101901, 2023.
 
 Aihua Zheng, Chaobin Zhang, **Chenglong Li***, Jin Tang, Chang Tan. Multi-query Vehicle Re-identification: Viewpoint-conditioned Network, Unified Dataset and New Metric. IEEE Transactions on Image Processing (**T-IP**), 32: 5948-5960, 2023.
 
