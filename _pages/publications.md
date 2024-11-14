@@ -18,6 +18,8 @@ Jianfei Jiang, Mingwei Cao, Jun Yi, and **Chenglong Li**. DI-MVS: Learning Effic
 
 Andong Lu, **Chenglong Li***, Jiacong Zhao, Jin Tang, and Bin Luo. Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. International Journal of Computer Vision (**IJCV**), 2024.
 
+Aihua Zheng, Zhiqi Ma, Yongqi Sun, Zi Wang, **Chenglong Li***, and Jin Tang. Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification. Information Fusion (**INFFUS**), 2024.
+
 Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, and Jin Tang. High Performance RGB-Thermal Video Object Detection via Hybrid Fusion with Progressive Interaction and Temporal-Modal Difference. Information Fusion (**INFFUS**), 2024.
 
 Lei Liu, **Chenglong Li***, Yun Xiao, Rui Ruan, and Minghao Fan. RGBT Tracking via Challenge-based Appearance Disentanglement and Interaction. IEEE Transactions on Image Processing (**T-IP**), 33: 1753-1767, 2024.
