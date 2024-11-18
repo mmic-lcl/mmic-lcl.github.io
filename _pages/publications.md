@@ -105,7 +105,7 @@ Zi Wang, **Chenglong Li**, Aihua Zheng, Ran He, and Jin Tang. Interact, Embed an
 
 Aihua Zheng, Peng Pan, Hongchao Li, **Chenglong Li***, Bin Luo, Chang Tan, Ruoran Jia. Progressive Attribute Embedding for Accurate Cross-modality Person Re-ID. ACM International Conference on Multimedia (**ACM MM**), 2022.
 
-**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 392-404, 2022.
+**Chenglong Li**, Wanlin Xue, Yaqing Jia, Zhichen Qu, Bin Luo, Jin Tang, and Dengdi Sun. LasHeR: A Large-scale High-diversity Benchmark for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 31: 392-404, 2022. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
 Zhengzheng Tu, Zhun Li, **Chenglong Li***, and Jin Tang. Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network. IEEE Transactions on Image Processing (**T-IP**), 31: 3752-3764, 2022.
 
