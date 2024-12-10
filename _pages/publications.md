@@ -12,7 +12,7 @@ Andong Lu, Wanyu Wang, **Chenglong Li***, Jin Tang, and Bin Luo. RGBT Tracking v
 
 Yun Xiao, Jiacong Zhao, Andong Lu, **Chenglong Li***, Bing Yin, Yin Lin, and Cong Liu. Cross-modulated Attention Transformer for RGBT Tracking. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
-Jiandong Jin, Xiao Wang*, Qian Zhu, Haiyang Wang, and **Chenglong Li***. Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+Jiandong Jin, Xiao Wang\*, Qian Zhu, Haiyang Wang, and **Chenglong Li***. Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 Kunpeng Wang, Keke Chen, **Chenglong Li**, Zhengzheng Tu, and Bin Luo. Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
