@@ -6,6 +6,19 @@ permalink: /publications/
 
 Note: * indicates that I am the corresponding author.
 
+### 2025
+
+Andong Lu, Wanyu Wang, **Chenglong Li***, Jin Tang, and Bin Luo. RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+
+Yun Xiao, Jiacong Zhao, Andong Lu, **Chenglong Li***, Bing Yin, Yin Lin, and Cong Liu. Cross-modulated Attention Transformer for RGBT Tracking. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+
+Jiandong Jin, Xiao Wang*, Qian Zhu, Haiyang Wang, and **Chenglong Li***. Pedestrian Attribute Recognition: A New Benchmark Dataset and A Large Language Model Augmented Framework. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+
+Kunpeng Wang, Keke Chen, **Chenglong Li**, Zhengzheng Tu, and Bin Luo. Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
+
+Andong Lu, **Chenglong Li***, Jiacong Zhao, Jin Tang, and Bin Luo. Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. International Journal of Computer Vision (**IJCV**), 2025.
+
+
 ### 2024
 
 Andong Lu, Jiacong Zhao, **Chenglong Li***, Yun Xiao, and Bin Luo. Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation. ACM International Conference on Multimedia (**ACM MM**), 2024.
@@ -15,8 +28,6 @@ Xiao Wang, Wentao Wu, **Chenglong Li***, Zhicheng Zhao, Zhe Chen, Yukai Shi, and
 Zi Wang, Huaibo Huang, Aihua Zheng, **Chenglong Li**, and Ran He. Parallel Augmentation and Dual Enhancement for Occluded Person Re-Identification. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
 Jianfei Jiang, Mingwei Cao, Jun Yi, and **Chenglong Li**. DI-MVS: Learning Efficient Multi-View Stereo with Depth-Aware Iterations. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
-
-Andong Lu, **Chenglong Li***, Jiacong Zhao, Jin Tang, and Bin Luo. Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. International Journal of Computer Vision (**IJCV**), 2024.
 
 Aihua Zheng, Zhiqi Ma, Yongqi Sun, Zi Wang, **Chenglong Li***, and Jin Tang. Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification. Information Fusion (**INFFUS**), 2024.
 
