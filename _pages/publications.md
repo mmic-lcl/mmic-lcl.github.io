@@ -18,7 +18,19 @@ Kunpeng Wang, Keke Chen, **Chenglong Li**, Zhengzheng Tu, and Bin Luo\*. Alignme
 
 Andong Lu, **Chenglong Li***, Jiacong Zhao, Jin Tang, and Bin Luo. Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. International Journal of Computer Vision (**IJCV**), 2025.
 
+Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, and Jin Tang. High Performance RGB-Thermal Video Object Detection via Hybrid Fusion with Progressive Interaction and Temporal-Modal Difference. Information Fusion (**INFFUS**), 114: 102665, 2025.
+
+Aihua Zheng, Zhiqi Ma, Yongqi Sun, Zi Wang, **Chenglong Li***, and Jin Tang. Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification. Information Fusion (**INFFUS**), 2025.
+
+Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2025.
+
+Lei Liu, Mengya Feng, Cheng Li, **Chenglong Li***, and Jin Tang. Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2025.
+
 Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and ZhiXiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 2025.
+
+Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2025.
+
+Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang. Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2025.
 
 Bowen Zhou, Xingbo Dong, Xiaowei Zhao, **Chenglong Li**, Zhe Jin, and Huabin Wang. FCT-Net: Efficient Bridge Fusion Incorporating CNN-Transformer Network for Medical Image Segmentation. IEEE Transactions on Radiation and Plasma Medical Sciences (**T-RPMS**), 2025.
 
@@ -32,25 +44,15 @@ Zi Wang, Huaibo Huang, Aihua Zheng, **Chenglong Li**, and Ran He. Parallel Augme
 
 Jianfei Jiang, Mingwei Cao, Jun Yi, and **Chenglong Li**. DI-MVS: Learning Efficient Multi-View Stereo with Depth-Aware Iterations. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
-Aihua Zheng, Zhiqi Ma, Yongqi Sun, Zi Wang, **Chenglong Li***, and Jin Tang. Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification. Information Fusion (**INFFUS**), 2024.
-
-Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, and Jin Tang. High Performance RGB-Thermal Video Object Detection via Hybrid Fusion with Progressive Interaction and Temporal-Modal Difference. Information Fusion (**INFFUS**), 2024.
-
 Lei Liu, **Chenglong Li***, Yun Xiao, Rui Ruan, and Minghao Fan. RGBT Tracking via Challenge-based Appearance Disentanglement and Interaction. IEEE Transactions on Image Processing (**T-IP**), 33: 1753-1767, 2024.
-
-Lei Liu, Mengya Feng, Cheng Li, **Chenglong Li***, and Jin Tang. Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
-
-Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2024.
 
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 35(8): 10273-10287, 2024.
 
-Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2024.
-
-Yifei Deng, Guohao Wang, **Chenglong Li***, Wei Wang, Cheng Zhang, and Jin Tang. Collaborative License Plate Recognition via Association Enhancement Network with Auxiliary Learning and A Unified Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
+Yifei Deng, Guohao Wang, **Chenglong Li***, Wei Wang, Cheng Zhang, and Jin Tang. Collaborative License Plate Recognition via Association Enhancement Network with Auxiliary Learning and A Unified Benchmark. IEEE Transactions on Multimedia (**T-MM**), 26: 11402-11414, 2024.
 
 Lixiang Xu, Qingzhe Cui, Richang Hong, Wei Xu, Enhong Chen, Xin Yuan, **Chenglong Li**, and Yuanyan Tang. Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding. IEEE Transactions on Multimedia (**T-MM**), 26: 9450-9463, 2024.
 
-Kunpeng Wang, Danying Lin, **Chenglong Li**, Zhengzheng Tu, and Bin Luo. Alignment-Free RGBT Salient Object Detection: Semantics-Guided Asymmetric Correlation Network and a Unified Benchmark. IEEE Transactions on Multimedia (**T-MM**), 2024.
+Kunpeng Wang, Danying Lin, **Chenglong Li**, Zhengzheng Tu, and Bin Luo. Alignment-Free RGBT Salient Object Detection: Semantics-Guided Asymmetric Correlation Network and a Unified Benchmark. IEEE Transactions on Multimedia (**T-MM**), 26: 10692-10707, 2024.
 
 Leqi Ding, Lei Liu, Yan Huang, **Chenglong Li***, Wei Wang, Cheng Zhang, Liang Wang. Text-to-Image Vehicle Re-Identification: Multi-scale Multi-view Cross-modal Alignment Network and A Unified Benchmark. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 25(7): 7673-7686, 2024.
 
@@ -60,11 +62,9 @@ Yabin Zhu, Xingle Zhao, **Chenglong Li***, Jin Tang, and Zhixiang Huang. Long-te
 
 Zhicheng Zhao, Jiaxin Du, **Chenglong Li**, Xiang Fang, Yun Xiao, and Jin Tang. Dense Tiny Object Detection: A Scene Context Guided Approach and A Unified Benchmark. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 62: 5606913, 2024.
 
-Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang. Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
-
 Yabin Zhu, **Chenglong Li***, Xiao Wang, Jin Tang, and Zhixiang Huang. RGBT Tracking via Progressive Fusion Transformer with Dynamically Guided Learning. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(9): 8722-8735, 2024.
 
-Dengdi Sun, Yajie Pan, Andong Lu, **Chenglong Li***, and Bin Luo. Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2024.
+Dengdi Sun, Yajie Pan, Andong Lu, **Chenglong Li***, and Bin Luo. Transformer RGBT Tracking with Spatio-Temporal Multimodal Tokens. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(11): 12059-12072, 2024.
 
 Aihua Zheng, Fan Yuan, Haichuan Zhang, Jiaxiang Wang, Chao Tang, and **Chenglong Li***. Public-private Attributes-based Variational Adversarial Network for Audio-Visual Cross-Modal Matching. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(9): 8698-8709, 2024.
 
@@ -72,7 +72,7 @@ Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. U
 
 Kunpeng Wang, Zhengzheng Tu, **Chenglong Li**, Cheng Zhang, and Bin Luo. Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(8): 7344-7358, 2024.
 
-Zhaodong Ding, Yifei Deng, **Chenglong Li**, Rui Ruan, and Jin Tang. Lane Detection via Disentangled Representation Network with Slope Consistency Loss. Engineering Applications of Artificial Intelligence, 238: 109449, 2024.
+Zhaodong Ding, Yifei Deng, **Chenglong Li**, Rui Ruan, and Jin Tang. Lane Detection via Disentangled Representation Network with Slope Consistency Loss. Engineering Applications of Artificial Intelligence (**EAAI**), 238: 109449, 2024.
 
 **Chenglong Li**, Xiaobin Yang, Guohao Wang, Aihua Zheng, Chang Tan, and Jin Tang. Disentangled Generation Network for Enlarged License Plate Recognition and A Unified Dataset. Computer Vision and Image Understanding (**CVIU**), 238: 103880, 2024.
 
