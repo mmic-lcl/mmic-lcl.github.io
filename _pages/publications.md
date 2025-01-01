@@ -26,6 +26,8 @@ Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated 
 
 Lei Liu, Mengya Feng, Cheng Li, **Chenglong Li***, and Jin Tang. Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2025.
 
+Andong Lu, **Chenglong Li***, Tianrui Zha, Xiaofeng Wang, Jin Tang, and Bin Luo. Nighttime Person Re-Identification via Collaborative Enhancement Network with Multi-domain Learning. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
+
 Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and ZhiXiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 2025.
 
 Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2025.
