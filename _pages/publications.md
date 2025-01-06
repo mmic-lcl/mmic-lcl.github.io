@@ -18,6 +18,8 @@ Kunpeng Wang, Keke Chen, **Chenglong Li**, Zhengzheng Tu, and Bin Luo. Alignment
 
 Andong Lu, **Chenglong Li***, Jiacong Zhao, Jin Tang, and Bin Luo. Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. International Journal of Computer Vision (**IJCV**), 2025.
 
+Lei Liu, **Chenglong Li***, Futian Wang, Longfeng Shen, and Jin Tang. Prototype-based Cross-Modal Object Tracking. Information Fusion (**INFFUS**), 2025.
+
 Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, and Jin Tang. High Performance RGB-Thermal Video Object Detection via Hybrid Fusion with Progressive Interaction and Temporal-Modal Difference. Information Fusion (**INFFUS**), 114: 102665, 2025.
 
 Aihua Zheng, Zhiqi Ma, Yongqi Sun, Zi Wang, **Chenglong Li***, and Jin Tang. Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification. Information Fusion (**INFFUS**), 2025.
