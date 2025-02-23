@@ -22,17 +22,23 @@ Lei Liu, **Chenglong Li***, Futian Wang, Longfeng Shen, and Jin Tang. Prototype-
 
 Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, and Jin Tang. High Performance RGB-Thermal Video Object Detection via Hybrid Fusion with Progressive Interaction and Temporal-Modal Difference. Information Fusion (**INFFUS**), 114: 102665, 2025.
 
+Sulan Zhai, Chengzhuang Liu, Zhengzheng Tu\*, **Chenglong Li***, and Liuxuanqi Gao. Weakly Supervised RGBT Salient Object Detection via SAM-Guided Label Optimization and Progressive Cross-modal Cross-scale Fusion. Information Fusion (**INFFUS**), 2025.
+
 Aihua Zheng, Zhiqi Ma, Yongqi Sun, Zi Wang, **Chenglong Li***, and Jin Tang. Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification. Information Fusion (**INFFUS**), 2025.
 
 Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2025.
 
 Lei Liu, Mengya Feng, Cheng Li, **Chenglong Li***, and Jin Tang. Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2025.
 
+Guyue Hu, Yukun Kang, Gangming Zhao, Zhe Jin, **Chenglong Li***, and Jin Tang. Morphology-aware Convolution Plugin for Medical Anatomy Segmentation. IEEE Transactions on Medical Imaging (**T-MI**), 2025.
+
 Andong Lu, **Chenglong Li***, Tianrui Zha, Xiaofeng Wang, Jin Tang, and Bin Luo\*. Nighttime Person Re-Identification via Collaborative Enhancement Network with Multi-domain Learning. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
 
 Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and ZhiXiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 2025.
 
 Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2025.
+
+Yun Xiao, Jinfa Wang, Zhicheng Zhao, Bo Jiang, **Chenglong Li***, and Jin Tang. UAV Video Vehicle Detection: Benchmark and Baseline. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2025.
 
 Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang. Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2025.
 
