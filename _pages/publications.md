@@ -44,7 +44,7 @@ Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang.
 
 Bowen Zhou, Xingbo Dong, Xiaowei Zhao, **Chenglong Li**, Zhe Jin, and Huabin Wang. FCT-Net: Efficient Bridge Fusion Incorporating CNN-Transformer Network for Medical Image Segmentation. IEEE Transactions on Radiation and Plasma Medical Sciences (**T-RPMS**), 2025.
 
-Aihua Zheng, Longfei Zhang, Weijun Zhang, Zi Wang, **Chenglong Li***, Xiaofei Sheng. Keypoint-guided feature enhancement and alignment for cross-resolution vehicle re-identification. Engineering Applications of Artificial Intelligence (**EAAI**), 150: 110557, 2025.
+Aihua Zheng, Longfei Zhang, Weijun Zhang, Zi Wang, **Chenglong Li***, Xiaofei Sheng. Keypoint-guided Feature Enhancement and Alignment for Cross-resolution Vehicle Re-identification. Engineering Applications of Artificial Intelligence (**EAAI**), 150: 110557, 2025.
 
 ### 2024
 
