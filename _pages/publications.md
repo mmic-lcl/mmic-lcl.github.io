@@ -44,6 +44,8 @@ Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang.
 
 Bowen Zhou, Xingbo Dong, Xiaowei Zhao, **Chenglong Li**, Zhe Jin, and Huabin Wang. FCT-Net: Efficient Bridge Fusion Incorporating CNN-Transformer Network for Medical Image Segmentation. IEEE Transactions on Radiation and Plasma Medical Sciences (**T-RPMS**), 2025.
 
+Aihua Zheng, Longfei Zhang, Weijun Zhang, Zi Wang, **Chenglong Li***, Xiaofei Sheng. Keypoint-guided feature enhancement and alignment for cross-resolution vehicle re-identification. Engineering Applications of Artificial Intelligence (**EAAI**), 150: 110557, 2025.
+
 ### 2024
 
 Andong Lu, Jiacong Zhao, **Chenglong Li***, Yun Xiao, and Bin Luo. Breaking Modality Gap in RGBT Tracking: Coupled Knowledge Distillation. ACM International Conference on Multimedia (**ACM MM**), 2024.
@@ -285,7 +287,7 @@ Aihua Zheng, Lei Zhang, Wei Zhang, **Chenglong Li**, Jin Tang, and Bin Luo. Loca
 
 **Chenglong Li**, Shiyi Hu, Sihan Gao, and Jin Tang. Real-time Grayscale-thermal Tracking  via Laplacian Sparse Representation. International Conference on Multimedia Modelling  (**MMM**), Miami, 2016.
 
-**Chenglong Li**, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, and Liang Lin.Learning Collaborative Sparse Representation for Grayscale-thermal Tracking.  IEEE Transactions on Image Processing (**T-IP**), 25(12): 5743-5756, 2016.  
+**Chenglong Li**, Hui Cheng, Shiyi Hu, Xiaobai Liu, Jin Tang, and Liang Lin.Learning Collaborative Sparse Representation for Grayscale-thermal Tracking.  IEEE Transactions on Image Processing (**T-IP**), 25(12): 5743-5756, 2016. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$) 
  
 **Chenglong Li**, Liang Lin, Wangmeng Zuo, Wenzhong Wang, and Jin Tang.An Approach to Streaming Video Segmentation with Sub-Optimal Low-rank Decomposition. IEEE Transactions on Image Processing (**T-IP**), 25(5): 1947-1960, 2016. 
 
