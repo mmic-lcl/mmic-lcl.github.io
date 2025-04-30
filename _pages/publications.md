@@ -8,6 +8,8 @@ Note: * indicates that I am the corresponding author.
 
 ### 2025
 
+Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking. International Joint Conference on Artificial Intelligence (**IJCAI**), 2025.
+
 Andong Lu, Wanyu Wang, **Chenglong Li***, Jin Tang, and Bin Luo\*. RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 Yun Xiao, Jiacong Zhao, Andong Lu, **Chenglong Li***, Bing Yin, Yin Lin, and Cong Liu. Cross-modulated Attention Transformer for RGBT Tracking. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
@@ -45,6 +47,8 @@ Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang.
 Bowen Zhou, Xingbo Dong, Xiaowei Zhao, **Chenglong Li**, Zhe Jin, and Huabin Wang. FCT-Net: Efficient Bridge Fusion Incorporating CNN-Transformer Network for Medical Image Segmentation. IEEE Transactions on Radiation and Plasma Medical Sciences (**T-RPMS**), 2025.
 
 Aihua Zheng, Longfei Zhang, Weijun Zhang, Zi Wang, **Chenglong Li***, Xiaofei Sheng. Keypoint-guided Feature Enhancement and Alignment for Cross-resolution Vehicle Re-identification. Engineering Applications of Artificial Intelligence (**EAAI**), 150: 110557, 2025.
+
+Yifei Deng, Zhengyu Chen, **Chenglong Li***, and Jin Tang. Uncertainty-aware Coarse-to-fine Alignment for Text-image Person Retrieval. Visual Intelligence, 3(6), 2025.
 
 ### 2024
 
