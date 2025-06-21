@@ -48,6 +48,8 @@ Bowen Zhou, Xingbo Dong, Xiaowei Zhao, **Chenglong Li**, Zhe Jin, and Huabin Wan
 
 Aihua Zheng, Longfei Zhang, Weijun Zhang, Zi Wang, **Chenglong Li***, Xiaofei Sheng. Keypoint-guided Feature Enhancement and Alignment for Cross-resolution Vehicle Re-identification. Engineering Applications of Artificial Intelligence (**EAAI**), 150: 110557, 2025.
 
+Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, Hongshun Wang, Kunpeng Wang. Erasure-based Interaction Network for Red-Green-Blue and Thermal Object Detection and A Unified Benchmark. Engineering Applications of Artificial Intelligence (**EAAI**), 157: 111155, 2025.
+
 Yifei Deng, Zhengyu Chen, **Chenglong Li***, and Jin Tang. Uncertainty-aware Coarse-to-fine Alignment for Text-image Person Retrieval. Visual Intelligence, 3(6), 2025.
 
 ### 2024
