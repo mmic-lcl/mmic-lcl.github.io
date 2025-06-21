@@ -36,11 +36,17 @@ Guyue Hu, Yukun Kang, Gangming Zhao, Zhe Jin, **Chenglong Li***, and Jin Tang. M
 
 Andong Lu, **Chenglong Li***, Tianrui Zha, Xiaofeng Wang, Jin Tang, and Bin Luo\*. Nighttime Person Re-Identification via Collaborative Enhancement Network with Multi-domain Learning. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
 
+Guyue Hu, Siyuan Song, Yukun Kang, Zhu Yin, Gangming Zhao, **Chenglong Li***. Federated Client-tailored Adapter for Medical Image Segmentation. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
+
+Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025.
+
 Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and ZhiXiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 2025.
 
 Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2025.
 
 Yun Xiao, Jinfa Wang, Zhicheng Zhao, Bo Jiang, **Chenglong Li***, and Jin Tang. UAV Video Vehicle Detection: Benchmark and Baseline. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2025.
+
+Zhicheng Zhao, Wei Zhang, Yun Xiao, **Chenglong Li**, Jin Tang. Reflectance-Guided Progressive Feature Alignment Network for All-Day UAV Object Detection. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 63: 5404215, 2025. 
 
 Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang. Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2025.
 
@@ -51,6 +57,9 @@ Aihua Zheng, Longfei Zhang, Weijun Zhang, Zi Wang, **Chenglong Li***, Xiaofei Sh
 Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, Hongshun Wang, Kunpeng Wang. Erasure-based Interaction Network for Red-Green-Blue and Thermal Object Detection and A Unified Benchmark. Engineering Applications of Artificial Intelligence (**EAAI**), 157: 111155, 2025.
 
 Yifei Deng, Zhengyu Chen, **Chenglong Li***, and Jin Tang. Uncertainty-aware Coarse-to-fine Alignment for Text-image Person Retrieval. Visual Intelligence, 3(6), 2025.
+
+Zhicheng Zhao, Qing Gao, Jinquan Yan, **Chenglong Li***, Jin Tang. HSFMamba: Hierarchical Selective Fusion Mamba Network for Optics-Guided Joint Super-Resolution and Denoising of Noise-Corrupted SAR Images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025.
+
 
 ### 2024
 
