@@ -18,12 +18,11 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 
 News
 ======
-Two papers were accepted by MICCAI 2025
+[2025-06] Two papers were accepted by MICCAI 2025
 
-One paper was accepted by IJCAI 2025
+[2025-06] One paper was accepted by IJCAI 2025
 
-One paper was accepted by IEEE TIFS
+[2025-06] One paper was accepted by IEEE TIFS
 
-One paper was accepted by ISPRS
+[2025-06] One paper was accepted by ISPRS
 
-Four papers were accepted by AAAI 2025
