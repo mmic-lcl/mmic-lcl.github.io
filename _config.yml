@@ -19,7 +19,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-projectmap_link             : false #change to true to add link to projectmap on projects page
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -184,7 +184,7 @@ collections:
 #  portfolio:
 #    output: true
 #    permalink: /:collection/:path/
-#  projects:
+#  talks:
 #    output: true
 #    permalink: /:collection/:path/
   code-dataset:
@@ -262,12 +262,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _projects
+  # _talks
   - scope:
       path: ""
-      type: projects
+      type: talks
     values:
-      layout: project
+      layout: talk
       author_profile: true
       share: true
 
