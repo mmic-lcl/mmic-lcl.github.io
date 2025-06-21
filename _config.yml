@@ -272,13 +272,13 @@ defaults:
       share: true
 
   # _adlu-test
-  - scope:
-      path: ""
-      type: adlu-test
-    values:
-      layout: single
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: adlu-test
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
 
 
 
