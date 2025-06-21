@@ -6,11 +6,11 @@ main:
   - title: "Code & Dataset"
     url: /code-dataset/
 
-  - title: "Talk"
+  - title: "Project"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Award"
     url: /teaching/ 
     
-  - title: "科研训练计划"
+  - title: "Others"
     url: /training/   
