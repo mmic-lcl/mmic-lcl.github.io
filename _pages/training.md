@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "科研训练计划"
+title: "人才培养情况"
 permalink: /training/
 author_profile: true
 ---
