@@ -184,7 +184,7 @@ collections:
 #  portfolio:
 #    output: true
 #    permalink: /:collection/:path/
-#  talks:
+#  projects:
 #    output: true
 #    permalink: /:collection/:path/
   code-dataset:
@@ -262,12 +262,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _projects
   - scope:
       path: ""
-      type: talks
+      type: projects
     values:
-      layout: talk
+      layout: project
       author_profile: true
       share: true
 
