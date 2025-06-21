@@ -18,6 +18,10 @@ Jiandong Jin, Xiao Wang\*, Qian Zhu, Haiyang Wang, and **Chenglong Li***. Pedest
 
 Kunpeng Wang, Keke Chen, **Chenglong Li**, Zhengzheng Tu, and Bin Luo. Alignment-Free RGB-T Salient Object Detection: A Large-scale Dataset and Progressive Correlation Network. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
+Xiaowei Zhao, **Chenglong Li***, Jin Tang, and Chuanfu Li. Learning with Explicit Topological Priors for Chest X-ray Rib Segmentation. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025.
+
+Bo Yu, Jianhua Yang, Zetao Du, Yan Huang, **Chenglong Li**, and Liang Wang. Frequency-domain Multi-modal Fusion for Language-guided Medical Image Segmentation. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025.
+
 Andong Lu, **Chenglong Li***, Jiacong Zhao, Jin Tang, and Bin Luo. Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. International Journal of Computer Vision (**IJCV**), 2025.
 
 Lei Liu, **Chenglong Li***, Futian Wang, Longfeng Shen, and Jin Tang. Prototype-based Cross-Modal Object Tracking. Information Fusion (**INFFUS**), 2025.
@@ -38,7 +42,7 @@ Andong Lu, **Chenglong Li***, Tianrui Zha, Xiaofeng Wang, Jin Tang, and Bin Luo\
 
 Guyue Hu, Siyuan Song, Yukun Kang, Zhu Yin, Gangming Zhao, **Chenglong Li***. Federated Client-tailored Adapter for Medical Image Segmentation. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
 
-Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025.
+Zhicheng Zhao, Juanjuan Gu, **Chenglong Li***, Chun Wang, and Jin Tang. Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025.
 
 Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and ZhiXiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 2025.
 
