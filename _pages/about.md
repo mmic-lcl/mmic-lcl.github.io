@@ -18,6 +18,8 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 
 News
 ======
+[2025-06] 团队研究生获得安徽省大学生课外学术科技作品竞赛一等奖
+
 [2025-06] One paper was accepted by IEEE TIP
 
 [2025-06] Two papers were accepted by MICCAI 2025
