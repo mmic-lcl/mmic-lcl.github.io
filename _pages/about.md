@@ -20,6 +20,8 @@ News
 ======
 [2025-06] 团队研究生获得安徽省大学生课外学术科技作品竞赛一等奖
 
+[2025-06] 团队研究生获得CCF技术公益马拉松AI助力海洋垃圾清理赛冠军及最佳创意奖
+
 [2025-06] One paper was accepted by IEEE TIP
 
 [2025-06] Two papers were accepted by MICCAI 2025
