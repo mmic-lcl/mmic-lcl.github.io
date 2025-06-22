@@ -24,6 +24,8 @@ Bo Yu, Jianhua Yang, Zetao Du, Yan Huang, **Chenglong Li**, and Liang Wang. Freq
 
 Andong Lu, **Chenglong Li***, Jiacong Zhao, Jin Tang, and Bin Luo. Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. International Journal of Computer Vision (**IJCV**), 2025.
 
+Andong Lu, Wanyu Wang, **Chenglong Li***, Jin Tang, and Bin Luo. AFTER: Attention-based Fusion Router for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2025.
+
 Lei Liu, **Chenglong Li***, Futian Wang, Longfeng Shen, and Jin Tang. Prototype-based Cross-Modal Object Tracking. Information Fusion (**INFFUS**), 2025.
 
 Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, and Jin Tang. High Performance RGB-Thermal Video Object Detection via Hybrid Fusion with Progressive Interaction and Temporal-Modal Difference. Information Fusion (**INFFUS**), 114: 102665, 2025.
