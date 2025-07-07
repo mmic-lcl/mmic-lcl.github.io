@@ -10,6 +10,10 @@ Note: * indicates that I am the corresponding author.
 
 Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking. International Joint Conference on Artificial Intelligence (**IJCAI**), 2025.
 
+Yifei Deng, **Chenglong Li***, Futian Wang, and Jin Tang. Learning Hierarchical Cross-modal Association with Intra-modal Context for Text-Image Person Retrieval. ACM International Conference on Multimedia (**ACM MM**), 2025.
+
+Wentao Wu, Xiao Wang\*, **Chenglong Li***, Bo Jiang, Jin Tang, Bin Luo, and Qi Liu. M3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework. ACM International Conference on Multimedia (**ACM MM**), 2025.
+
 Andong Lu, Wanyu Wang, **Chenglong Li***, Jin Tang, and Bin Luo\*. RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 Yun Xiao, Jiacong Zhao, Andong Lu, **Chenglong Li***, Bing Yin, Yin Lin, and Cong Liu. Cross-modulated Attention Transformer for RGBT Tracking. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
@@ -42,6 +46,8 @@ Guyue Hu, Yukun Kang, Gangming Zhao, Zhe Jin, **Chenglong Li***, and Jin Tang. M
 
 Andong Lu, **Chenglong Li***, Tianrui Zha, Xiaofeng Wang, Jin Tang, and Bin Luo\*. Nighttime Person Re-Identification via Collaborative Enhancement Network with Multi-domain Learning. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
 
+Jiaxiang Wang, Aihua Zheng, Lei Liu, **Chenglong Li**, Ran He, and Jin Tang. Adaptive Interaction and Correction AttentionNetwork for Audio-Visual Matching. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
+
 Guyue Hu, Siyuan Song, Yukun Kang, Zhu Yin, Gangming Zhao, **Chenglong Li***. Federated Client-tailored Adapter for Medical Image Segmentation. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
 
 Zhicheng Zhao, Juanjuan Gu, **Chenglong Li***, Chun Wang, and Jin Tang. Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025.
@@ -49,6 +55,8 @@ Zhicheng Zhao, Juanjuan Gu, **Chenglong Li***, Chun Wang, and Jin Tang. Guidance
 Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and ZhiXiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 2025.
 
 Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2025.
+
+Yabin Zhu, Xiao Wang, **Chenglong Li**, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, and Jin Tang. CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras. IEEE Transactions on Multimedia (**T-MM**), 2025.
 
 Yun Xiao, Jinfa Wang, Zhicheng Zhao, Bo Jiang, **Chenglong Li***, and Jin Tang. UAV Video Vehicle Detection: Benchmark and Baseline. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2025.
 
