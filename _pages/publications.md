@@ -211,7 +211,7 @@ Lingbo Liu, Jiaqi Chen, Hefeng Wu, Guanbin Li, **Chenglong Li**, and Liang Lin. 
 
 Andong Lu, **Chenglong Li***, Yuqing Yan, Jin Tang, and Bin Luo. RGBT Tracking via Multi-Adapter Network with Hierarchical Divergence Loss. IEEE Transactions on Image Processing (**T-IP**), 30: 5613-5625, 2021.
 
-Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), 30: 5678-5691, 2021.
+Zhengzheng Tu, Zhun Li, **Chenglong Li***, Yang Lang, Jin Tang. Multi-Interactive Dual-Decoder for RGB-Thermal Salient Object Detection. IEEE Transactions on Image Processing (**T-IP**), 30: 5678-5691, 2021.($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
 
 **Chenglong Li**, Wei Xia, Yan Yan, Bin Luo, and Jin Tang. Segmenting Objects in Day and Night: Edge-Conditioned CNN for Thermal Image Semantic Segmentation. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 32(7): 3069-3082, 2021. 
