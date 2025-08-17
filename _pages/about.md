@@ -18,6 +18,12 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 
 News
 ======
+[2025-08] 团队研究生获得中国国际大学生创新大赛省级金奖
+
+[2025-08] One paper was accepted by IEEE TMM
+
+[2025-08] One paper was accepted by PR
+
 [2025-07] 团队与中科星图数字地球合肥有限公司成立“空天地一体化智能计算联合实验室”
 
 [2025-07] One paper was accepted by IEEE TCSVT
