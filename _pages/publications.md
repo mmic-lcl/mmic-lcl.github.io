@@ -52,9 +52,13 @@ Guyue Hu, Siyuan Song, Yukun Kang, Zhu Yin, Gangming Zhao, **Chenglong Li***. Fe
 
 Zhicheng Zhao, Juanjuan Gu, **Chenglong Li***, Chun Wang, and Jin Tang. Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025.
 
+Lei Liu, **Chenglong Li***, Jin Tang, Changhe Li. RGBT Tracking via Supervised Mutual Guiding. Pattern Recognition (**PR**), 112295, 2025.
+
 Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and ZhiXiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 2025.
 
 Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2025.
+
+Shihao Li, **Chenglong Li**, Aihua Zheng∗, Jin Tang, Bin Luo. DEEP: Decoupled Semantic Prompt Learning, Guiding andEmbedding for Multi-Spectral Object Re-Identification. IEEE Transactions on Multimedia (**T-MM**), 2025.
 
 Yabin Zhu, Xiao Wang, **Chenglong Li**, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, and Jin Tang. CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras. IEEE Transactions on Multimedia (**T-MM**), 2025.
 
