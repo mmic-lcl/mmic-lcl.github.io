@@ -54,6 +54,8 @@ Zhicheng Zhao, Juanjuan Gu, **Chenglong Li***, Chun Wang, and Jin Tang. Guidance
 
 Lei Liu, **Chenglong Li***, Jin Tang, Changhe Li. RGBT Tracking via Supervised Mutual Guiding. Pattern Recognition (**PR**), 112295, 2025.
 
+Jiandong Jin, Xiao Wang\*, Yin Lin, **Chenglong Li***, Lili Huang, Aihua Zheng, and Jin Tang. SequencePAR: Understanding Pedestrian Attributes via A Sequence Generation Paradigm. Pattern Recognition (**PR**), 2025.
+
 Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and ZhiXiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 2025.
 
 Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2025.
