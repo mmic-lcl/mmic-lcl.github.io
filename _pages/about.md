@@ -18,6 +18,14 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 
 News
 ======
+[2025-09] 连续四年入选全球前2%顶尖科学家“年度科学影响力榜单”，首次入选全球前2%顶尖科学家“终身科学影响力榜单”
+
+[2025-09] 获批光电信息获取与防护技术全国重点实验室重大项目
+
+[2025-09] One paper was accepted by NeurIPS
+
+[2025-09] One paper was accepted by IEEE TIFS
+
 [2025-08] 团队老师获批国家自然科学基金面上项目1项、C类青年项目2项
 
 [2025-08] 团队研究生获得中国国际大学生创新大赛省级金奖
