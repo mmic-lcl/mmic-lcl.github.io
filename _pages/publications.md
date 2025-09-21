@@ -14,6 +14,8 @@ Yifei Deng, **Chenglong Li***, Futian Wang, and Jin Tang. Learning Hierarchical 
 
 Wentao Wu, Xiao Wang\*, **Chenglong Li***, Bo Jiang, Jin Tang, Bin Luo, and Qi Liu. M3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework. ACM International Conference on Multimedia (**ACM MM**), 2025.
 
+Xixi Wan, Aihua Zheng, Bo Jiang, Beibei Wang, **Chenglong Li**, Jin Tang. UGG-ReID: Uncertainty-Guided Graph Model for Multi-Modal Object Re-Identification. Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025.
+
 Andong Lu, Wanyu Wang, **Chenglong Li***, Jin Tang, and Bin Luo\*. RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
 
 Yun Xiao, Jiacong Zhao, Andong Lu, **Chenglong Li***, Bing Yin, Yin Lin, and Cong Liu. Cross-modulated Attention Transformer for RGBT Tracking. AAAI Conference on Artificial Intelligence (**AAAI**), 2025.
@@ -49,6 +51,8 @@ Andong Lu, **Chenglong Li***, Tianrui Zha, Xiaofeng Wang, Jin Tang, and Bin Luo\
 Jiaxiang Wang, Aihua Zheng, Lei Liu, **Chenglong Li**, Ran He, and Jin Tang. Adaptive Interaction and Correction AttentionNetwork for Audio-Visual Matching. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
 
 Guyue Hu, Siyuan Song, Yukun Kang, Zhu Yin, Gangming Zhao, **Chenglong Li***. Federated Client-tailored Adapter for Medical Image Segmentation. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
+
+Zi Wang, **Chenglong Li**, Pengyu Li, Aihua Zheng, Jin Tang, and Bin Luo. Prototype-Based Diversity and Integrity Learning for All-Day Multi-Modal Person Re-Identification. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
 
 Zhicheng Zhao, Changfu Zhou, Yu Zhang, **Chenglong Li***, Xiaoliang Ma, and Jin Tang. Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025.
 
