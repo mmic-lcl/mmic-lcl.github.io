@@ -203,7 +203,7 @@ Qiuyu Kong (Undergraduate student), Jin Tang, **Chenglong Li**, Xin Wang, and Ji
 
 Zhengzheng Tu, Wenli Pan, Yunsheng Duan, Jin Tang, and **Chenglong Li***. RGBT Tracking via Reliable Feature Configuration. SCIENCE CHINA Information Sciences (**SCIS**), 65(4): 142101, 2022.
 
-Futian Wang, Yin Guo, **Chenglong Li**, Andong Lu, Zhongfeng Ding, Jin Tang and Bin Luo. Electrical Thermal Image Semantic Segmentation: Large-Scale Dataset and Baseline. IEEE Transactions on Instrumentation and Measurement (**TIM**), 71: 1-13, 2022.
+Futian Wang, Yin Guo, **Chenglong Li**, Andong Lu, Zhongfeng Ding, Jin Tang and Bin Luo. Electrical Thermal Image Semantic Segmentation: Large-Scale Dataset and Baseline. IEEE Transactions on Instrumentation and Measurement (**T-IM**), 71: 1-13, 2022.
 
 Hongchao Li, Xianmin Lin, Aihua Zheng, **Chenglong Li**, Bin Luo, Ran He and Amir Hussain. Attributes Guided Feature Learning for Vehicle Re-identification. IEEE Transactions on Emerging Topics in Computational Intelligence, 6(5): 1211-1221, 2022.
 
