@@ -64,6 +64,8 @@ Jiandong Jin, Xiao Wang\*, Yin Lin, **Chenglong Li***, Lili Huang, Aihua Zheng, 
 
 Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and Zhixiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 2025.
 
+Shihao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification. IEEE Transactions on Multimedia (**T-MM**), 2025.
+
 Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2025.
 
 Shihao Li, **Chenglong Li**, Aihua Zheng∗, Jin Tang, Bin Luo. DEEP: Decoupled Semantic Prompt Learning, Guiding andEmbedding for Multi-Spectral Object Re-Identification. IEEE Transactions on Multimedia (**T-MM**), 2025.
@@ -75,6 +77,8 @@ Yun Xiao, Jinfa Wang, Zhicheng Zhao, Bo Jiang, **Chenglong Li***, and Jin Tang. 
 Zhicheng Zhao, Wei Zhang, Yun Xiao, **Chenglong Li**, Jin Tang. Reflectance-Guided Progressive Feature Alignment Network for All-Day UAV Object Detection. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 63: 5404215, 2025. 
 
 Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang. Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2025.
+
+Zhicheng Zhao, Jinquan Yan, **Chenglong Li***, Xiao Wang, and Penghui Jiang. DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model. Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025.
 
 Bowen Zhou, Xingbo Dong, Xiaowei Zhao, **Chenglong Li**, Zhe Jin, and Huabin Wang. FCT-Net: Efficient Bridge Fusion Incorporating CNN-Transformer Network for Medical Image Segmentation. IEEE Transactions on Radiation and Plasma Medical Sciences (**T-RPMS**), 2025.
 
