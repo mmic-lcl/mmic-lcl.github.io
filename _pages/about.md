@@ -19,6 +19,8 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 News
 ======
 
+[2025-11] Three papers were accepted by AAAI 2026
+
 [2025-11] One paper was accepted by JSTARS
 
 [2025-10] One paper was accepted by IEEE TMM
@@ -27,7 +29,7 @@ News
 
 [2025-09] 获批光电信息获取与防护技术全国重点实验室重大项目
 
-[2025-09] One paper was accepted by NeurIPS
+[2025-09] One paper was accepted by NeurIPS 2025
 
 [2025-09] One paper was accepted by IEEE TIFS
 
