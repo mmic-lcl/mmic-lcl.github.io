@@ -6,6 +6,14 @@ permalink: /publications/
 
 Note: * indicates that I am the corresponding author.
 
+### 2026
+
+**Chenglong Li**, zhengyu chen, Yifei Deng, and Aihua Zheng. Dual-Teacher Interactive Knowledge Distillation Network for Text-to-Visible & Infrared Person Retrieval. AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
+
+Yun Xiao, Yuhang Wang, Jiandong Jin, Wankang Zhang, and **Chenglong Li***. Unaligned UAV RGBT Tracking: A Largescale Benchmark and A Novel Approach. AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
+
+Aihua Zheng, ZhaoJun Liu, Xixi Wan, **Chenglong Li***, Jin Tang, Yan Yan. ProxyTTT: Proxy-driven Test-Time Training for Multi-modal Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
+
 ### 2025
 
 Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking. International Joint Conference on Artificial Intelligence (**IJCAI**), 2025.
