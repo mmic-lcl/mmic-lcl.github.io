@@ -14,7 +14,7 @@ Yun Xiao, Yuhang Wang, Jiandong Jin, Wankang Zhang, and **Chenglong Li***. Unali
 
 Aihua Zheng, Zhaojun Liu, Xixi Wan, **Chenglong Li***, Jin Tang, and Yan Yan. ProxyTTT: Proxy-driven Test-Time Training for Multi-modal Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
-Yifei Denga, **Chenglong Li***, Zhengyu Chenb, Zihen Xu, and Jin Tang. Decoupled Cross-Modal Alignment Network for Text-RGBT Person Retrieval and A High-Quality Benchmark. Information Fusion (**INFFUS**), 2026.
+Yifei Denga, **Chenglong Li***, Zhengyu Chen, Zihen Xu, and Jin Tang. Decoupled Cross-Modal Alignment Network for Text-RGBT Person Retrieval and A High-Quality Benchmark. Information Fusion (**INFFUS**), 2026.
 
 ### 2025
 
