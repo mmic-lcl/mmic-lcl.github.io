@@ -19,6 +19,8 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 News
 ======
 
+[2025-11] 入选爱思唯尔“全球高被引科学家” 
+
 [2025-11] One paper was accepted by INFFUS
 
 [2025-11] Three papers were accepted by AAAI 2026
