@@ -19,7 +19,7 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 News
 ======
 
-[2025-11] 入选爱思唯尔“全球高被引科学家” 
+[2025-11] 入选科睿唯安“全球高被引科学家” （Highly Cited Researcher, Clarivate）
 
 [2025-11] One paper was accepted by INFFUS
 
@@ -29,7 +29,7 @@ News
 
 [2025-10] One paper was accepted by IEEE TMM
 
-[2025-09] 入选“全球前2%顶尖科学家”终身科学影响力榜单，连续四年入选“全球前2%顶尖科学家”年度科学影响力榜单
+[2025-09] 入选“全球前2%顶尖科学家”终身科学影响力榜单，连续四年入选“全球前2%顶尖科学家”年度科学影响力榜单（World Top 2% Scientists, Elsevier and Stanford University）
 
 [2025-09] 获批光电信息获取与防护技术全国重点实验室重大项目
 
