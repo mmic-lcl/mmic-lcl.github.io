@@ -96,7 +96,9 @@ Aihua Zheng, Longfei Zhang, Weijun Zhang, Zi Wang, **Chenglong Li***, Xiaofei Sh
 
 Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, Hongshun Wang, Kunpeng Wang. Erasure-based Interaction Network for Red-Green-Blue and Thermal Object Detection and A Unified Benchmark. Engineering Applications of Artificial Intelligence (**EAAI**), 157: 111155, 2025.
 
-Yifei Deng, Zhengyu Chen, **Chenglong Li***, and Jin Tang. Uncertainty-aware Coarse-to-fine Alignment for Text-image Person Retrieval. Visual Intelligence, 3(6), 2025.
+Aihua Zheng, Zhihao Fei, Yuhe Ding, **Chenglong Li***, Bin Luo. RULER: Source-free Domain Adaptive Person Re-identification via Uncertain Label Refinery. Machine Intelligence Research (**MIR**), 22(5): 900-916, 2025.
+
+Yifei Deng, Zhengyu Chen, **Chenglong Li***, and Jin Tang. Uncertainty-aware Coarse-to-fine Alignment for Text-image Person Retrieval. Visual Intelligence (**VI**), 3(6), 2025.
 
 Zhicheng Zhao, Qing Gao, Jinquan Yan, **Chenglong Li***, Jin Tang. HSFMamba: Hierarchical Selective Fusion Mamba Network for Optics-Guided Joint Super-Resolution and Denoising of Noise-Corrupted SAR Images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025.
 
