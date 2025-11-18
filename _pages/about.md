@@ -21,6 +21,10 @@ News
 
 [2025-11] 入选科睿唯安“全球高被引科学家” （Highly Cited Researcher, Clarivate）
 
+[2025-11] One paper was selected as ESI Highly Cited Paper, bring the total to eight
+
+[2025-11] One paper was accepted by IEEE TIP
+
 [2025-11] One paper was accepted by INFFUS
 
 [2025-11] Three papers were accepted by AAAI 2026
