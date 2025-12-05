@@ -16,6 +16,8 @@ Aihua Zheng, Zhaojun Liu, Xixi Wan, **Chenglong Li***, Jin Tang, and Yan Yan. Pr
 
 Yifei Deng, **Chenglong Li***, Zhengyu Chen, Zihen Xu, and Jin Tang. Decoupled Cross-Modal Alignment Network for Text-RGBT Person Retrieval and A High-Quality Benchmark. Information Fusion (**INFFUS**), 2026.
 
+Yun Xiao, Qi Li, Lei Liu, and **Chenglong Li***. Cross-modal Guiding Attention for RGBT Tracking. Information Fusion (**INFFUS**), 2026.
+
 ### 2025
 
 Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking. International Joint Conference on Artificial Intelligence (**IJCAI**), 2025.
