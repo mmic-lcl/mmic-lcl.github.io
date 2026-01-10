@@ -23,6 +23,8 @@ News
 
 [2026-01] I was selected as a Youth Editorial Member of the Machine Intelligence Research (MIR)
 
+[2025-12] 团队成立合肥国科智空科技有限公司
+
 [2025-12] I was selected as an IEEE Senior Member
 
 [2025-12] One paper was accepted by INFFUS
