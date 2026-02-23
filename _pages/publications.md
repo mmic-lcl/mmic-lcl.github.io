@@ -8,6 +8,16 @@ Note: * indicates that I am the corresponding author.
 
 ### 2026
 
+Jiandong Jin, **Chenglong Li***, Hao Feng, Andong Lu, Lili Huang, and Jin Tang. Progressive Multi-cue Alignment for Unaligned RGBT Tracking. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+
+Yifei Deng, **Chenglong Li***, Yuyang Zhang, Guyue Hu, and Jin Tang. Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+
+Andong Lu, Ziyi Zha, Jiandong Jin, Shihao Li, **Chenglong Li***, Jin Tang, and Bin Luo. Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+
+Ya Gao, Shihao Li, ZhaoJun Liu, Aihua Zheng\*, **Chenglong Li***, and Jin Tang. Chain-of-Thought Guided Multi-Modal Object Re-Identification. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+
+Xiao Wang, Haiyang Wang, Shiao Wang, Qiang Chen, Jiandong Jin, Haoyu Song, Bo Jiang, and **Chenglong Li**. RGB-Event based Pedestrian Attribute Recognition: A Benchmark Dataset and An Asymmetric RWKV Fusion Framework. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+
 **Chenglong Li**, Zhengyu Chen, Yifei Deng, and Aihua Zheng. Dual-Teacher Interactive Knowledge Distillation Network for Text-to-Visible&Infrared Person Retrieval. AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
 Yun Xiao, Yuhang Wang, Jiandong Jin, Wankang Zhang, and **Chenglong Li***. Unaligned UAV RGBT Tracking: A Largescale Benchmark and A Novel Approach. AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
