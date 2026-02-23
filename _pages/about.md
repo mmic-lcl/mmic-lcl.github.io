@@ -19,6 +19,12 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 News
 ======
 
+[2026-02] Five papers were accepted by CVPR 2026
+
+[2026-02] One paper was accepted by INFFUS
+
+[2026-02] Two papers were accepted by IEEE TCSVT
+
 [2026-01] I was selected as an Associate Editor of the IEEE Transactions on Image Processing (IEEE TIP)
 
 [2026-01] I was selected as a Youth Editorial Member of the Machine Intelligence Research (MIR)
