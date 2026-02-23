@@ -14,7 +14,7 @@ Yifei Deng, **Chenglong Li***, Yuyang Zhang, Guyue Hu, and Jin Tang. Cross-modal
 
 Andong Lu, Ziyi Zha, Jiandong Jin, Shihao Li, **Chenglong Li***, Jin Tang, and Bin Luo. Spatio-Temporal Conditional Denoising Transformer for Modality-Missing RGBT Tracking. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
-Ya Gao, Shihao Li, ZhaoJun Liu, Aihua Zheng\*, **Chenglong Li***, and Jin Tang. Chain-of-Thought Guided Multi-Modal Object Re-Identification. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+Ya Gao, Shihao Li, Zhaojun Liu, Aihua Zheng\*, **Chenglong Li***, and Jin Tang. Chain-of-Thought Guided Multi-Modal Object Re-Identification. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
 Xiao Wang, Haiyang Wang, Shiao Wang, Qiang Chen, Jiandong Jin, Haoyu Song, Bo Jiang, and **Chenglong Li**. RGB-Event based Pedestrian Attribute Recognition: A Benchmark Dataset and An Asymmetric RWKV Fusion Framework. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
