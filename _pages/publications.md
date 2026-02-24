@@ -28,6 +28,12 @@ Yifei Deng, **Chenglong Li***, Zhengyu Chen, Zihen Xu, and Jin Tang. Decoupled C
 
 Yun Xiao, Qi Li, Lei Liu, and **Chenglong Li***. Cross-modal Guiding Attention for RGBT Tracking. Information Fusion (**INFFUS**), 2026.
 
+Guyue Hu, Siyuan Song, Jingpeng Sun, Zhe Jin, **Chenglong Li***, and Jin Tang. Mix-modal Federated Learning for MRI Image Segmentation. Information Fusion (**INFFUS**), 2026.
+
+Wentao Wu, Xiao Wang\*, **Chenglong Li***, Jin Tang, and Bin Luo. Vehicle-centric Perception via Multimodal Structured Pretraining. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
+
+Guyue Hu, Yuxing Tong, Hongtao Liu, Dong Geng, and **Chenglong Li***. Revisiting Frequency Domain: Spatial-Frequency JointTuning for Referring Image Segmentation. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
+
 ### 2025
 
 Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Template-based Uncertainty Multimodal Fusion Network for RGBT Tracking. International Joint Conference on Artificial Intelligence (**IJCAI**), 2025.
