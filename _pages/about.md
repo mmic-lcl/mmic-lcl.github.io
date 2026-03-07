@@ -19,6 +19,8 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 News
 ======
 
+[2026-03] One paper was accepted by IEEE TIFS
+
 [2026-02] Five papers were accepted by CVPR 2026
 
 [2026-02] One paper was accepted by INFFUS
