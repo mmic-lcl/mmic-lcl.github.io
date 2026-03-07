@@ -30,6 +30,8 @@ Yun Xiao, Qi Li, Lei Liu, and **Chenglong Li***. Cross-modal Guiding Attention f
 
 Guyue Hu, Siyuan Song, Jingpeng Sun, Zhe Jin, **Chenglong Li***, and Jin Tang. Mix-modal Federated Learning for MRI Image Segmentation. Information Fusion (**INFFUS**), 2026.
 
+Weizhe Kong, Xiao Wang\*, Ruichong Gao, **Chenglong Li***, Yu Zhang, Xing Yang, Yaowei Wang, and Jin Tang. Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2026.
+
 Wentao Wu, Xiao Wang\*, **Chenglong Li***, Jin Tang, and Bin Luo. Vehicle-centric Perception via Multimodal Structured Pretraining. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
 
 Guyue Hu, Yuxing Tong, Hongtao Liu, Dong Geng, and **Chenglong Li***. Revisiting Frequency Domain: Spatial-Frequency JointTuning for Referring Image Segmentation. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
