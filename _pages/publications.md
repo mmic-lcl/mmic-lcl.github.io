@@ -24,6 +24,8 @@ Yun Xiao, Yuhang Wang, Jiandong Jin, Wankang Zhang, and **Chenglong Li***. Unali
 
 Aihua Zheng, Zhaojun Liu, Xixi Wan, **Chenglong Li***, Jin Tang, and Yan Yan. ProxyTTT: Proxy-driven Test-Time Training for Multi-modal Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
+Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Causality-based Modality&Platform-invariant Representation Learning for Dynamic RGBT Tracking and A Benchmark. IEEE Transactions on Image Processing (**T-IP**), 2026.
+
 Yifei Deng, **Chenglong Li***, Zhengyu Chen, Zihen Xu, and Jin Tang. Decoupled Cross-Modal Alignment Network for Text-RGBT Person Retrieval and A High-Quality Benchmark. Information Fusion (**INFFUS**), 2026.
 
 Yun Xiao, Qi Li, Lei Liu, and **Chenglong Li***. Cross-modal Guiding Attention for RGBT Tracking. Information Fusion (**INFFUS**), 2026.
