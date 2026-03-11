@@ -8,7 +8,7 @@ Note: * indicates that I am the corresponding author.
 
 ### 2026
 
-Jiandong Jin, **Chenglong Li***, Hao Feng, Andong Lu, Lili Huang, and Jin Tang. Progressive Multi-cue Alignment for Unaligned RGBT Tracking. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+Jiandong Jin, **Chenglong Li***, Hao Feng, Andong Lu, Lili Huang\*, and Jin Tang. Progressive Multi-cue Alignment for Unaligned RGBT Tracking. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
 Yifei Deng, **Chenglong Li***, Yuyang Zhang, Guyue Hu, and Jin Tang. Cross-modal Fuzzy Alignment Network for Text-Aerial Person Retrieval and A Large-scale Benchmark. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
