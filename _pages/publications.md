@@ -74,7 +74,7 @@ Sulan Zhai, Chengzhuang Liu, Zhengzheng Tu\*, **Chenglong Li***, and Liuxuanqi G
 
 Aihua Zheng, Zhiqi Ma, Yongqi Sun, Zi Wang, **Chenglong Li***, and Jin Tang. Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification. Information Fusion (**INFFUS**), 2025.
 
-Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2025.
+Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2025. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
 Lei Liu, Mengya Feng, Cheng Li, **Chenglong Li***, and Jin Tang. Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2025.
 
