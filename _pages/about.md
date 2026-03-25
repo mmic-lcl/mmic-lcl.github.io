@@ -25,6 +25,8 @@ News
 
 [2026-03] One paper was accepted by IEEE TIFS
 
+[2026-03] One paper was accepted by IEEE TITS
+
 [2026-02] Five papers were accepted by CVPR 2026
 
 [2026-02] One paper was accepted by INFFUS
