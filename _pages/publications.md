@@ -16,7 +16,7 @@ Andong Lu, Ziyi Zha, Jiandong Jin, Shihao Li, **Chenglong Li***, Jin Tang, and B
 
 Ya Gao, Shihao Li, Zhaojun Liu, Aihua Zheng\*, **Chenglong Li***, and Jin Tang. Chain-of-Thought Guided Multi-Modal Object Re-Identification. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
-Xiao Wang, Haiyang Wang, Shiao Wang, Qiang Chen, Jiandong Jin, Haoyu Song, Bo Jiang, and **Chenglong Li**. RGB-Event based Pedestrian Attribute Recognition: A Benchmark Dataset and An Asymmetric RWKV Fusion Framework. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
+Xiao Wang, Haiyang Wang, Shiao Wang, Qiang Chen, Jiandong Jin, Haoyu Song, Bo Jiang, and **Chenglong Li***. RGB-Event based Pedestrian Attribute Recognition: A Benchmark Dataset and An Asymmetric RWKV Fusion Framework. IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2026.
 
 **Chenglong Li**, Zhengyu Chen, Yifei Deng, and Aihua Zheng. Dual-Teacher Interactive Knowledge Distillation Network for Text-to-Visible&Infrared Person Retrieval. AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
@@ -33,6 +33,8 @@ Yun Xiao, Qi Li, Lei Liu, and **Chenglong Li***. Cross-modal Guiding Attention f
 Guyue Hu, Siyuan Song, Jingpeng Sun, Zhe Jin, **Chenglong Li***, and Jin Tang. Mix-modal Federated Learning for MRI Image Segmentation. Information Fusion (**INFFUS**), 2026.
 
 Weizhe Kong, Xiao Wang\*, Ruichong Gao, **Chenglong Li***, Yu Zhang, Xing Yang, Yaowei Wang, and Jin Tang. Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2026.
+
+Wentao Wu, Fanghua Hong, Xiao Wang\*, **Chenglong Li***, and Jin Tang. Attribute-Guided Semantic Alignment with Pre-trained Foundation Models for Vehicle Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2026.
 
 Wentao Wu, Xiao Wang\*, **Chenglong Li***, Jin Tang, and Bin Luo. Vehicle-centric Perception via Multimodal Structured Pretraining. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
 
