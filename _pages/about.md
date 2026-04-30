@@ -19,6 +19,10 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 News
 ======
 
+[2026-04] One paper was accepted by IEEE TIFS
+
+[2026-04] Three papers were accepted by PR
+
 [2026-03] One additional paper was selected as ESI Highly Cited Paper, bring the total to nine
 
 [2026-03] One paper was accepted by IEEE TIP
