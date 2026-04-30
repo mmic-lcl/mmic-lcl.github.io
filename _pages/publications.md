@@ -32,6 +32,8 @@ Yun Xiao, Qi Li, Lei Liu, and **Chenglong Li***. Cross-modal Guiding Attention f
 
 Guyue Hu, Siyuan Song, Jingpeng Sun, Zhe Jin, **Chenglong Li***, and Jin Tang. Mix-modal Federated Learning for MRI Image Segmentation. Information Fusion (**INFFUS**), 2026.
 
+Yifei Deng, Ziheng Xu, **Chenglong Li***, Guyue Hu, and Jin Tang. Cross-modal Person Retrieval with One-to-Many Relation Modeling. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2026.
+
 Weizhe Kong, Xiao Wang\*, Ruichong Gao, **Chenglong Li***, Yu Zhang, Xing Yang, Yaowei Wang, and Jin Tang. Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2026.
 
 Wentao Wu, Fanghua Hong, Xiao Wang\*, **Chenglong Li***, and Jin Tang. Attribute-Guided Semantic Alignment with Pre-trained Foundation Models for Vehicle Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2026.
@@ -39,6 +41,12 @@ Wentao Wu, Fanghua Hong, Xiao Wang\*, **Chenglong Li***, and Jin Tang. Attribute
 Wentao Wu, Xiao Wang\*, **Chenglong Li***, Jin Tang, and Bin Luo. Vehicle-centric Perception via Multimodal Structured Pretraining. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
 
 Guyue Hu, Yuxing Tong, Hongtao Liu, Dong Geng, and **Chenglong Li***. Revisiting Frequency Domain: Spatial-Frequency JointTuning for Referring Image Segmentation. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
+
+Xiaowei Zhao, **Chenglong Li***, Jin Tang, and Chuanfu Li. Medical Image Segmentation via Attention-enhanced Mamba with Learnable Symmetry Scan and A Benchmark. Pattern Recognition (**PR**), 179: 113680, 2026.
+
+Siyuan Song, Guyue Hu, **Chenglong Li**, Dengdi Sun, Zhe Jin, and Jin Tang. Structure and Progress Aware Diffusion for Medical Image Segmentation. Pattern Recognition (**PR**), 179: 113733, 2026.
+
+Jiaxiang Wang, Aihua Zheng, Dequan Li, **Chenglong Li**, Wenjuan Cheng, and Ran He. Bidirectional Intervention Attention Network for Audio–visual Matching. Pattern Recognition (**PR**), 179: 113840, 2026.
 
 ### 2025
 
