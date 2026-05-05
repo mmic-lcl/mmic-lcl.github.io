@@ -40,6 +40,8 @@ Yifei Deng, Ziheng Xu, **Chenglong Li***, Guyue Hu, and Jin Tang. Cross-modal Pe
 
 Weizhe Kong, Xiao Wang\*, Ruichong Gao, **Chenglong Li***, Yu Zhang, Xing Yang, Yaowei Wang, and Jin Tang. Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2026.
 
+Shihao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, Bin Luo. DEEP: Decoupled Semantic Prompt Learning, Guiding and Embedding for Multi-Spectral Object Re-Identification. IEEE Transactions on Multimedia (**T-MM**), 2026.
+
 Fengling Jiang, Yujin Cao, Le Zou, Erfu Yang, and **Chenglong Li**. SMART: Semantic Merging Adaptive Regional Transformer for Image Captioning. IEEE Transactions on Multimedia (**T-MM**), 2026.
 
 Wentao Wu, Fanghua Hong, Xiao Wang\*, **Chenglong Li***, and Jin Tang. Attribute-Guided Semantic Alignment with Pre-trained Foundation Models for Vehicle Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2026.
@@ -53,6 +55,8 @@ Xiaowei Zhao, **Chenglong Li***, Jin Tang, and Chuanfu Li. Medical Image Segment
 Siyuan Song, Guyue Hu, **Chenglong Li**, Dengdi Sun, Zhe Jin, and Jin Tang. Structure and Progress Aware Diffusion for Medical Image Segmentation. Pattern Recognition (**PR**), 179: 113733, 2026.
 
 Jiaxiang Wang, Aihua Zheng, Dequan Li, **Chenglong Li**, Wenjuan Cheng, and Ran He. Bidirectional Intervention Attention Network for Audio–visual Matching. Pattern Recognition (**PR**), 179: 113840, 2026.
+
+Jiandong Jin, Xiao Wang\*, Yin Lin, **Chenglong Li***, Lili Huang, Aihua Zheng, and Jin Tang. SequencePAR: Understanding Pedestrian Attributes via A Sequence Generation Paradigm. Pattern Recognition (**PR**), 172: 112356, 2026.
 
 ### 2025
 
@@ -76,61 +80,57 @@ Xiaowei Zhao, **Chenglong Li***, Jin Tang, and Chuanfu Li. Learning with Explici
 
 Bo Yu, Jianhua Yang, Zetao Du, Yan Huang, **Chenglong Li**, and Liang Wang. Frequency-domain Multi-modal Fusion for Language-guided Medical Image Segmentation. International Conference on Medical Image Computing and Computer Assisted Intervention (**MICCAI**), 2025.
 
-Andong Lu, **Chenglong Li***, Jiacong Zhao, Jin Tang, and Bin Luo. Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. International Journal of Computer Vision (**IJCV**), 2025.
+Andong Lu, **Chenglong Li***, Jiacong Zhao, Jin Tang, and Bin Luo. Modality-missing RGBT Tracking: Invertible Prompt Learning and High-quality Benchmarks. International Journal of Computer Vision (**IJCV**), 133: 2599–2619, 2025.
 
-Zhaodong Ding, **Chenglong Li***, Tao Wang, and Futian Wang. Quality-aware Spatio-temporal Transformer Network for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2025.
+Zhaodong Ding, **Chenglong Li***, Tao Wang, and Futian Wang. Quality-aware Spatio-temporal Transformer Network for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 34: 7845-7858, 2025.
 
-Andong Lu, Wanyu Wang, **Chenglong Li***, Jin Tang, and Bin Luo. AFTER: Attention-based Fusion Router for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2025.
+Andong Lu, Wanyu Wang, **Chenglong Li***, Jin Tang, and Bin Luo. AFTER: Attention-based Fusion Router for RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 34: 4386-4401, 2025.
 
-Lei Liu, **Chenglong Li***, Futian Wang, Longfeng Shen, and Jin Tang. Prototype-based Cross-Modal Object Tracking. Information Fusion (**INFFUS**), 2025.
+Lei Liu, **Chenglong Li***, Futian Wang, Longfeng Shen, and Jin Tang. Prototype-based Cross-Modal Object Tracking. Information Fusion (**INFFUS**), 118: 102941, 2025.
 
 Qishun Wang, Zhengzheng Tu\*, **Chenglong Li***, and Jin Tang. High Performance RGB-Thermal Video Object Detection via Hybrid Fusion with Progressive Interaction and Temporal-Modal Difference. Information Fusion (**INFFUS**), 114: 102665, 2025.
 
-Sulan Zhai, Chengzhuang Liu, Zhengzheng Tu\*, **Chenglong Li***, and Liuxuanqi Gao. Weakly Supervised RGBT Salient Object Detection via SAM-Guided Label Optimization and Progressive Cross-modal Cross-scale Fusion. Information Fusion (**INFFUS**), 2025.
+Sulan Zhai, Chengzhuang Liu, Zhengzheng Tu\*, **Chenglong Li***, and Liuxuanqi Gao. Weakly Supervised RGBT Salient Object Detection via SAM-Guided Label Optimization and Progressive Cross-modal Cross-scale Fusion. Information Fusion (**INFFUS**), 120: 103048, 2025.
 
-Aihua Zheng, Zhiqi Ma, Yongqi Sun, Zi Wang, **Chenglong Li***, and Jin Tang. Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification. Information Fusion (**INFFUS**), 2025.
+Aihua Zheng, Zhiqi Ma, Yongqi Sun, Zi Wang, **Chenglong Li***, and Jin Tang. Flare-Aware Cross-modal Enhancement Network for Multi-spectral Vehicle Re-identification. Information Fusion (**INFFUS**), 116: 102800, 2025.
 
-Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2025. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
+Andong Lu, Cun Qian, **Chenglong Li***, Jin Tang, and Liang Wang. Duality-Gated Mutual Condition Network for RGBT Tracking. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 36(3): 4118-4131, 2025. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
-Lei Liu, Mengya Feng, Cheng Li, **Chenglong Li***, and Jin Tang. Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 2025.
+Lei Liu, Mengya Feng, Cheng Li, **Chenglong Li***, and Jin Tang. Cross-Modal Object Tracking via Modality-Aware Fusion Network and A Large-Scale Dataset. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 36(4): 6981-6994, 2025.
 
-Guyue Hu, Yukun Kang, Gangming Zhao, Zhe Jin, **Chenglong Li***, and Jin Tang. Morphology-aware Convolution Plugin for Medical Anatomy Segmentation. IEEE Transactions on Medical Imaging (**T-MI**), 2025.
+Guyue Hu, Yukun Kang, Gangming Zhao, Zhe Jin, **Chenglong Li***, and Jin Tang. Dynamic Strip Convolution and Adaptive Morphology Perception Plugin for Medical Anatomy Segmentation. IEEE Transactions on Medical Imaging (**T-MI**), 44(6): 2541-2552, 2025.
 
-Andong Lu, **Chenglong Li***, Tianrui Zha, Xiaofeng Wang, Jin Tang, and Bin Luo\*. Nighttime Person Re-Identification via Collaborative Enhancement Network with Multi-domain Learning. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
+Andong Lu, **Chenglong Li***, Tianrui Zha, Xiaofeng Wang, Jin Tang, and Bin Luo\*. Nighttime Person Re-Identification via Collaborative Enhancement Network with Multi-domain Learning. IEEE Transactions on Information Forensics and Security (**T-IFS**), 20: 1305-1319, 2025.
 
-Jiaxiang Wang, Aihua Zheng, Lei Liu, **Chenglong Li**, Ran He, and Jin Tang. Adaptive Interaction and Correction AttentionNetwork for Audio-Visual Matching. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
+Jiaxiang Wang, Aihua Zheng, Lei Liu, **Chenglong Li**, Ran He, and Jin Tang. Adaptive Interaction and Correction Attention Network for Audio-Visual Matching. IEEE Transactions on Information Forensics and Security (**T-IFS**), 20: 7558-7571, 2025.
 
-Guyue Hu, Siyuan Song, Yukun Kang, Zhu Yin, Gangming Zhao, **Chenglong Li***. Federated Client-tailored Adapter for Medical Image Segmentation. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
+Guyue Hu, Siyuan Song, Yukun Kang, Zhu Yin, Gangming Zhao, **Chenglong Li***. Federated Client-tailored Adapter for Medical Image Segmentation. IEEE Transactions on Information Forensics and Security (**T-IFS**), 20: 6490-6501, 2025.
 
-Zi Wang, **Chenglong Li**, Pengyu Li, Aihua Zheng, Jin Tang, and Bin Luo. Prototype-Based Diversity and Integrity Learning for All-Day Multi-Modal Person Re-Identification. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025.
+Zi Wang, **Chenglong Li**, Pengyu Li, Aihua Zheng, Jin Tang, and Bin Luo. Prototype-Based Diversity and Integrity Learning for All-Day Multi-Modal Person Re-Identification. IEEE Transactions on Information Forensics and Security (**T-IFS**), 20: 11385-11400, 2025.
 
-Zhicheng Zhao, Changfu Zhou, Yu Zhang, **Chenglong Li***, Xiaoliang Ma, and Jin Tang. Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025.
+Zhicheng Zhao, Changfu Zhou, Yu Zhang, **Chenglong Li***, Xiaoliang Ma, and Jin Tang. Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 230: 1-17, 2025.
 
-Zhicheng Zhao, Juanjuan Gu, **Chenglong Li***, Chun Wang, and Jin Tang. Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 2025.
+Zhicheng Zhao, Juanjuan Gu, **Chenglong Li***, Chun Wang, and Jin Tang. Guidance Disentanglement Network for Optics-Guided Thermal UAV Image Super-Resolution. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 228: 64-82, 2025.
 
-Lei Liu, **Chenglong Li***, Jin Tang, Changhe Li. RGBT Tracking via Supervised Mutual Guiding. Pattern Recognition (**PR**), 112295, 2025.
+Lei Liu, **Chenglong Li***, Jin Tang, Changhe Li. RGBT Tracking via Supervised Mutual Guiding. Pattern Recognition (**PR**), 171: 112295, 2025.
 
-Jiandong Jin, Xiao Wang\*, Yin Lin, **Chenglong Li***, Lili Huang, Aihua Zheng, and Jin Tang. SequencePAR: Understanding Pedestrian Attributes via A Sequence Generation Paradigm. Pattern Recognition (**PR**), 2025.
+Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and Zhixiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 161: 111330, 2025.
 
-Yabin Zhu, Qianwu Wang, **Chenglong Li***, Jin Tang, and Zhixiang Huang. Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach. Pattern Recognition (**PR**), 2025.
+Shihao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification. IEEE Transactions on Multimedia (**T-MM**), 28: 599-613, 2025.
 
-Shihao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, and Bin Luo. ICPL-ReID: Identity-Conditional Prompt Learning for Multi-Spectral Object Re-Identification. IEEE Transactions on Multimedia (**T-MM**), 2025.
 
-Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 2025.
 
-Shihao Li, **Chenglong Li**, Aihua Zheng∗, Jin Tang, Bin Luo. DEEP: Decoupled Semantic Prompt Learning, Guiding andEmbedding for Multi-Spectral Object Re-Identification. IEEE Transactions on Multimedia (**T-MM**), 2025.
+Yabin Zhu, Xiao Wang, **Chenglong Li**, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, and Jin Tang. CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras. IEEE Transactions on Multimedia (**T-MM**), 27: 6529-6542, 2025.
 
-Yabin Zhu, Xiao Wang, **Chenglong Li**, Bo Jiang, Lin Zhu, Zhixiang Huang, Yonghong Tian, and Jin Tang. CRSOT: Cross-Resolution Object Tracking using Unaligned Frame and Event Cameras. IEEE Transactions on Multimedia (**T-MM**), 2025.
-
-Yun Xiao, Jinfa Wang, Zhicheng Zhao, Bo Jiang, **Chenglong Li***, and Jin Tang. UAV Video Vehicle Detection: Benchmark and Baseline. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2025.
+Yun Xiao, Jinfa Wang, Zhicheng Zhao, Bo Jiang, **Chenglong Li***, and Jin Tang. UAV Video Vehicle Detection: Benchmark and Baseline. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 63: 5609814, 2025.
 
 Zhicheng Zhao, Wei Zhang, Yun Xiao, **Chenglong Li**, Jin Tang. Reflectance-Guided Progressive Feature Alignment Network for All-Day UAV Object Detection. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 63: 5404215, 2025. 
 
-Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang. Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2025.
+Xiao Wang, Jiandong Jin, **Chenglong Li***, Jin Tang, Cheng Zhang, and Wei Wang. Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 35(1): 148-161, 2025.
 
-Zhicheng Zhao, Jinquan Yan, **Chenglong Li***, Xiao Wang, and Penghui Jiang. DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model. Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025.
+Zhicheng Zhao, Jinquan Yan, **Chenglong Li***, Xiao Wang, and Penghui Jiang. DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model. Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 19: 778-794, 2025.
 
-Bowen Zhou, Xingbo Dong, Xiaowei Zhao, **Chenglong Li**, Zhe Jin, and Huabin Wang. FCT-Net: Efficient Bridge Fusion Incorporating CNN-Transformer Network for Medical Image Segmentation. IEEE Transactions on Radiation and Plasma Medical Sciences (**T-RPMS**), 2025.
+Zhicheng Zhao, Qing Gao, Jinquan Yan, **Chenglong Li***, Jin Tang. HSFMamba: Hierarchical Selective Fusion Mamba Network for Optics-Guided Joint Super-Resolution and Denoising of Noise-Corrupted SAR Images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 18: 16445-16461, 2025.
 
 Aihua Zheng, Longfei Zhang, Weijun Zhang, Zi Wang, **Chenglong Li***, Xiaofei Sheng. Keypoint-guided Feature Enhancement and Alignment for Cross-resolution Vehicle Re-identification. Engineering Applications of Artificial Intelligence (**EAAI**), 150: 110557, 2025.
 
@@ -140,7 +140,6 @@ Aihua Zheng, Zhihao Fei, Yuhe Ding, **Chenglong Li***, Bin Luo. RULER: Source-fr
 
 Yifei Deng, Zhengyu Chen, **Chenglong Li***, and Jin Tang. Uncertainty-aware Coarse-to-fine Alignment for Text-image Person Retrieval. Visual Intelligence (**VI**), 3(6), 2025.
 
-Zhicheng Zhao, Qing Gao, Jinquan Yan, **Chenglong Li***, Jin Tang. HSFMamba: Hierarchical Selective Fusion Mamba Network for Optics-Guided Joint Super-Resolution and Denoising of Noise-Corrupted SAR Images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (**JSTARS**), 2025.
 
 
 ### 2024
@@ -158,6 +157,8 @@ Lei Liu, **Chenglong Li***, Yun Xiao, Rui Ruan, and Minghao Fan. RGBT Tracking v
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 35(8): 10273-10287, 2024.
 
 Yifei Deng, Guohao Wang, **Chenglong Li***, Wei Wang, Cheng Zhang, and Jin Tang. Collaborative License Plate Recognition via Association Enhancement Network with Auxiliary Learning and A Unified Benchmark. IEEE Transactions on Multimedia (**T-MM**), 26: 11402-11414, 2024.
+
+Lili Huang, Yiming Cao, Pengcheng Jia, **Chenglong Li***, Jin Tang, and Chuanfu Li. Knowledge-guided Cross-modal Alignment and Progressive Fusion for Chest X-ray Report Generation. IEEE Transactions on Multimedia (**T-MM**), 27: 557-567, 2024.
 
 Lixiang Xu, Qingzhe Cui, Richang Hong, Wei Xu, Enhong Chen, Xin Yuan, **Chenglong Li**, and Yuanyan Tang. Group Multi-View Transformer for 3D Shape Analysis with Spatial Encoding. IEEE Transactions on Multimedia (**T-MM**), 26: 9450-9463, 2024.
 
@@ -180,6 +181,8 @@ Aihua Zheng, Fan Yuan, Haichuan Zhang, Jiaxiang Wang, Chao Tang, and **Chenglong
 Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(5): 3619-3632, 2024.
 
 Kunpeng Wang, Zhengzheng Tu, **Chenglong Li**, Cheng Zhang, and Bin Luo. Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(8): 7344-7358, 2024.
+
+Bowen Zhou, Xingbo Dong, Xiaowei Zhao, **Chenglong Li**, Zhe Jin, and Huabin Wang. FCT-Net: Efficient Bridge Fusion Incorporating CNN-Transformer Network for Medical Image Segmentation. IEEE Transactions on Radiation and Plasma Medical Sciences (**T-RPMS**), 9(6): 762-775, 2024.
 
 Zhaodong Ding, Yifei Deng, **Chenglong Li**, Rui Ruan, and Jin Tang. Lane Detection via Disentangled Representation Network with Slope Consistency Loss. Engineering Applications of Artificial Intelligence (**EAAI**), 238: 109449, 2024.
 
