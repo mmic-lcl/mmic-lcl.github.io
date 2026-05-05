@@ -19,7 +19,13 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 News
 ======
 
+[2026-05] One paper was accepted by IJCV
+
+[2026-05] One paper was accepted by IEEE TIP
+
 [2026-04] One paper was accepted by IEEE TIFS
+
+[2026-04] One paper was accepted by IEEE TMM
 
 [2026-04] Three papers were accepted by PR
 
