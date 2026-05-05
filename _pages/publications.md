@@ -40,6 +40,8 @@ Yifei Deng, Ziheng Xu, **Chenglong Li***, Guyue Hu, and Jin Tang. Cross-modal Pe
 
 Weizhe Kong, Xiao Wang\*, Ruichong Gao, **Chenglong Li***, Yu Zhang, Xing Yang, Yaowei Wang, and Jin Tang. Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2026.
 
+Fengling Jiang, Yujin Cao, Le Zou, Erfu Yang, and **Chenglong Li**. SMART: Semantic Merging Adaptive Regional Transformer for Image Captioning. IEEE Transactions on Multimedia (**T-MM**), 2026.
+
 Wentao Wu, Fanghua Hong, Xiao Wang\*, **Chenglong Li***, and Jin Tang. Attribute-Guided Semantic Alignment with Pre-trained Foundation Models for Vehicle Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2026.
 
 Wentao Wu, Xiao Wang\*, **Chenglong Li***, Jin Tang, and Bin Luo. Vehicle-centric Perception via Multimodal Structured Pretraining. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
