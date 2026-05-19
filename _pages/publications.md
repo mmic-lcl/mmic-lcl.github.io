@@ -152,7 +152,7 @@ Zi Wang, Huaibo Huang, Aihua Zheng, **Chenglong Li**, and Ran He. Parallel Augme
 
 Jianfei Jiang, Mingwei Cao, Jun Yi, and **Chenglong Li**. DI-MVS: Learning Efficient Multi-View Stereo with Depth-Aware Iterations. International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.
 
-Lei Liu, **Chenglong Li***, Yun Xiao, Rui Ruan, and Minghao Fan. RGBT Tracking via Challenge-based Appearance Disentanglement and Interaction. IEEE Transactions on Image Processing (**T-IP**), 33: 1753-1767, 2024.
+Lei Liu, **Chenglong Li***, Yun Xiao, Rui Ruan, and Minghao Fan. RGBT Tracking via Challenge-based Appearance Disentanglement and Interaction. IEEE Transactions on Image Processing (**T-IP**), 33: 1753-1767, 2024. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
 Yabin Zhu, **Chenglong Li***, Yao Liu, Xiao Wang, Jin Tang, and Bin Luo, and Zhixiang Huang. Tiny Object Tracking: A Large-scale Dataset and A Baseline. IEEE Transactions on Neural Networks and Learning Systems (**T-NNLS**), 35(8): 10273-10287, 2024.
 
