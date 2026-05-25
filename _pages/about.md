@@ -21,9 +21,13 @@ News
 
 [2026-05] One additional paper was selected as ESI Highly Cited Paper, bring the total to 10
 
+[2026-05] One paper won the Best Paper Award, and the workshop we organized won the Best Workshop Award in ICIVIS 2026
+
 [2026-05] One paper was accepted by IJCV
 
 [2026-05] One paper was accepted by IEEE TIP
+
+[2026-05] One paper was accepted by IEEE TGRS
 
 [2026-05] One paper was accepted by IEEE PR
 
