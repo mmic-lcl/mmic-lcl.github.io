@@ -30,6 +30,8 @@ Zhaodong Ding, **Chenglong Li***, Futian Wang, and Jin Tang. Uncertainty-aware 
 
 Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Causality-based Modality&Platform-invariant Representation Learning for Dynamic RGBT Tracking and A Benchmark. IEEE Transactions on Image Processing (**T-IP**), 2026.
 
+Lei Liu, **Chenglong Li***, Andong Lu, Yabin Zhu, Shoufei Han, Xinye Cai, and Changhe Li\*. Unveiling the Power of Multi-modal Template Update in RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2026.
+
 Yifei Deng, **Chenglong Li***, Zhengyu Chen, Zihen Xu, and Jin Tang. Decoupled Cross-Modal Alignment Network for Text-RGBT Person Retrieval and A High-Quality Benchmark. Information Fusion (**INFFUS**), 2026.
 
 Yun Xiao, Qi Li, Lei Liu, and **Chenglong Li***. Cross-modal Guiding Attention for RGBT Tracking. Information Fusion (**INFFUS**), 2026.
