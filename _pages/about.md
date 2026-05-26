@@ -25,7 +25,7 @@ News
 
 [2026-05] One paper was accepted by IJCV
 
-[2026-05] One paper was accepted by IEEE TIP
+[2026-05] Two papers were accepted by IEEE TIP
 
 [2026-05] One paper was accepted by IEEE TGRS
 
