@@ -29,7 +29,7 @@ News
 
 [2026-05] One paper was accepted by IEEE TGRS
 
-[2026-05] One paper was accepted by IEEE PR
+[2026-05] One paper was accepted by PR
 
 [2026-04] One paper was accepted by IEEE TIFS
 
