@@ -30,6 +30,8 @@ Zhaodong Ding, **Chenglong Li***, Futian Wang, and Jin Tang. Uncertainty-aware 
 
 Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Causality-based Modality&Platform-invariant Representation Learning for Dynamic RGBT Tracking and A Benchmark. IEEE Transactions on Image Processing (**T-IP**), 2026.
 
+Wentao Wu, **Chenglong Li***, Xiao Wang, and Bin Luo. Large Language Model Guided Progressive FeatureAlignment for Multimodal UAV Object Detection. IEEE Transactions on Image Processing (**T-IP**), 2026.
+
 Lei Liu, **Chenglong Li***, Andong Lu, Yabin Zhu, Shoufei Han, Xinye Cai, and Changhe Li\*. Unveiling the Power of Multi-modal Template Update in RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2026.
 
 Yifei Deng, **Chenglong Li***, Zhengyu Chen, Zihen Xu, and Jin Tang. Decoupled Cross-Modal Alignment Network for Text-RGBT Person Retrieval and A High-Quality Benchmark. Information Fusion (**INFFUS**), 2026.
@@ -59,6 +61,8 @@ Siyuan Song, Guyue Hu, **Chenglong Li**, Dengdi Sun, Zhe Jin, and Jin Tang. Stru
 Jiaxiang Wang, Aihua Zheng, Dequan Li, **Chenglong Li**, Wenjuan Cheng, and Ran He. Bidirectional Intervention Attention Network for Audio–visual Matching. Pattern Recognition (**PR**), 179: 113840, 2026.
 
 Jiandong Jin, Xiao Wang\*, Yin Lin, **Chenglong Li***, Lili Huang, Aihua Zheng, and Jin Tang. SequencePAR: Understanding Pedestrian Attributes via A Sequence Generation Paradigm. Pattern Recognition (**PR**), 172: 112356, 2026.
+
+Qishun Wang, Zhengzheng Tu, **Chenglong Li**, ChuanwangGuo, and Zhicheng Zhao. Spatio-temporal Phased Fusion Network for 2 RGBT Video Object Detection.Machine Intelligence Research(**MIR**), 2026.
 
 ### 2025
 
