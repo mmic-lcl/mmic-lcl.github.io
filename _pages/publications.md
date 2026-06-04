@@ -62,7 +62,7 @@ Jiaxiang Wang, Aihua Zheng, Dequan Li, **Chenglong Li**, Wenjuan Cheng, and Ran 
 
 Jiandong Jin, Xiao Wang\*, Yin Lin, **Chenglong Li***, Lili Huang, Aihua Zheng, and Jin Tang. SequencePAR: Understanding Pedestrian Attributes via A Sequence Generation Paradigm. Pattern Recognition (**PR**), 172: 112356, 2026.
 
-Qishun Wang, Zhengzheng Tu, **Chenglong Li**, ChuanwangGuo, and Zhicheng Zhao. Spatio-temporal Phased Fusion Network for 2 RGBT Video Object Detection.Machine Intelligence Research(**MIR**), 2026.
+Qishun Wang, Zhengzheng Tu, **Chenglong Li**, ChuanwangGuo, and Zhicheng Zhao. Spatio-temporal Phased Fusion Network for 2 RGBT Video Object Detection. Machine Intelligence Research (**MIR**), 2026.
 
 ### 2025
 
