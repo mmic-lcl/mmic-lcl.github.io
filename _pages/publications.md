@@ -26,11 +26,13 @@ Aihua Zheng, Zhaojun Liu, Xixi Wan, **Chenglong Li***, Jin Tang, and Yan Yan. Pr
 
 Zhaodong Ding, **Chenglong Li***, Futian Wang, and Jin Tang. Uncertainty-aware RGBT Tracking. International Journal of Computer Vision (**IJCV**), 2026.
 
-**Chenglong Li**, Ziheng Xu, Yifei Deng, Aihua Zheng, and Jin Tang. Text-Visible/Infrared Person Retrieval: Attribute-Guided FeatureDecoupling and Collaborative Alignment and A Unified Benchmark. IEEE Transactions on Image Processing (**T-IP**), 2026.
+**Chenglong Li**, Ziheng Xu, Yifei Deng, Aihua Zheng, and Jin Tang. Text-Visible/Infrared Person Retrieval: Attribute-Guided Feature Decoupling and Collaborative Alignment and A Unified Benchmark. IEEE Transactions on Image Processing (**T-IP**), 2026.
 
 Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Causality-based Modality&Platform-invariant Representation Learning for Dynamic RGBT Tracking and A Benchmark. IEEE Transactions on Image Processing (**T-IP**), 2026.
 
 Wentao Wu, **Chenglong Li***, Xiao Wang, and Bin Luo. Large Language Model Guided Progressive FeatureAlignment for Multimodal UAV Object Detection. IEEE Transactions on Image Processing (**T-IP**), 2026.
+
+Andong Lu, Yuanzhi Guo, Kunpeng Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Pixel-level RGBT Fusion Tracking via Heterogeneous Multi-expert Distillation and Decoupled Representation Learning. IEEE Transactions on Image Processing (**T-IP**), 2026.
 
 Lei Liu, **Chenglong Li***, Andong Lu, Yabin Zhu, Shoufei Han, Xinye Cai, and Changhe Li\*. Unveiling the Power of Multi-modal Template Update in RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2026.
 
