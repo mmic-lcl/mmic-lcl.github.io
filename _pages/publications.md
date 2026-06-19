@@ -26,6 +26,8 @@ Aihua Zheng, Zhaojun Liu, Xixi Wan, **Chenglong Li***, Jin Tang, and Yan Yan. Pr
 
 Zhaodong Ding, **Chenglong Li***, Futian Wang, and Jin Tang. Uncertainty-aware RGBT Tracking. International Journal of Computer Vision (**IJCV**), 2026.
 
+Zhengzheng Tu, Chuanwang Guo, Qishun Wang, **Chenglong Li***, and Jin Tang. ImageBind Guided Progressive Transformation Network for Alignment-free RGBT Video Object Detection. International Journal of Computer Vision (**IJCV**), 2026.
+
 **Chenglong Li**, Ziheng Xu, Yifei Deng, Aihua Zheng, and Jin Tang. Text-Visible/Infrared Person Retrieval: Attribute-Guided Feature Decoupling and Collaborative Alignment and A Unified Benchmark. IEEE Transactions on Image Processing (**T-IP**), 2026.
 
 Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Causality-based Modality&Platform-invariant Representation Learning for Dynamic RGBT Tracking and A Benchmark. IEEE Transactions on Image Processing (**T-IP**), 2026.
