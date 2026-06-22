@@ -58,6 +58,8 @@ Wentao Wu, Xiao Wang\*, **Chenglong Li***, Jin Tang, and Bin Luo. Vehicle-centri
 
 Guyue Hu, Yuxing Tong, Hongtao Liu, Dong Geng, and **Chenglong Li***. Revisiting Frequency Domain: Spatial-Frequency JointTuning for Referring Image Segmentation. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
 
+Xiao Wang, Ziwen Wang, Wentao Wu, Anjie Wang, Jiashu Wu, Yantao Pan, and **Chenglong Li***. Segment Any Vehicle: Semantic and Visual Context Driven SAM and A Benchmark. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
+
 Xiaowei Zhao, **Chenglong Li***, Jin Tang, and Chuanfu Li. Medical Image Segmentation via Attention-enhanced Mamba with Learnable Symmetry Scan and A Benchmark. Pattern Recognition (**PR**), 179: 113680, 2026.
 
 Siyuan Song, Guyue Hu, **Chenglong Li**, Dengdi Sun, Zhe Jin, and Jin Tang. Structure and Progress Aware Diffusion for Medical Image Segmentation. Pattern Recognition (**PR**), 179: 113733, 2026.
