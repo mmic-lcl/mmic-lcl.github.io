@@ -22,6 +22,8 @@ News
 
 [2026-06] Two papers were accepted by IEEE TIP
 
+[2026-06] One paper was accepted by IEEE TGRS
+
 [2026-06] One paper was accepted by IEEE TCSVT
 
 [2026-06] One paper was accepted by MIR
