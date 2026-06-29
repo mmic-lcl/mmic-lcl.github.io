@@ -60,7 +60,7 @@ Guyue Hu, Yuxing Tong, Hongtao Liu, Dong Geng, and **Chenglong Li***. Revisiting
 
 Xiao Wang, Ziwen Wang, Wentao Wu, Anjie Wang, Jiashu Wu, Yantao Pan, and **Chenglong Li***. Segment Any Vehicle: Semantic and Visual Context Driven SAM and A Benchmark. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
 
-Zhicheng Zhao, Xuanang Fan, Lingma Sun, **Chenglong Li**, and Jin Tang. Learning Where to Focus: Density-Driven Guidancefor Detecting Dense Tiny Objects. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2026.
+Zhicheng Zhao, Xuanang Fan, Lingma Sun, **Chenglong Li**, and Jin Tang. Learning Where to Focus: Density-Driven Guidance for Detecting Dense Tiny Objects. IEEE Transactions on Geoscience and Remote Sensing (**T-GRS**), 2026.
 
 Xiaowei Zhao, **Chenglong Li***, Jin Tang, and Chuanfu Li. Medical Image Segmentation via Attention-enhanced Mamba with Learnable Symmetry Scan and A Benchmark. Pattern Recognition (**PR**), 179: 113680, 2026.
 
