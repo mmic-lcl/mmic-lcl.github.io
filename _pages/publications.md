@@ -24,6 +24,8 @@ Yun Xiao, Yuhang Wang, Jiandong Jin, Wankang Zhang, and **Chenglong Li***. Unali
 
 Aihua Zheng, Zhaojun Liu, Xixi Wan, **Chenglong Li***, Jin Tang, and Yan Yan. ProxyTTT: Proxy-driven Test-Time Training for Multi-modal Re-identification. AAAI Conference on Artificial Intelligence (**AAAI**), 2026.
 
+Shihao Li, **Chenglong Li**, AIHUA ZHENG, Jin Tang, and Bin Luo. Hyper-ReID: Granularity-Aware Hyperbolic Graph Learning for Multi-Modal Object Re-Identification. ACM International Conference on Multimedia (**ACM MM**), 2026.
+
 Zhaodong Ding, **Chenglong Li***, Futian Wang, and Jin Tang. Uncertainty-aware RGBT Tracking. International Journal of Computer Vision (**IJCV**), 2026.
 
 Zhengzheng Tu, Chuanwang Guo, Qishun Wang, **Chenglong Li***, and Jin Tang. ImageBind Guided Progressive Transformation Network for Alignment-free RGBT Video Object Detection. International Journal of Computer Vision (**IJCV**), 2026.
@@ -55,6 +57,8 @@ Shihao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, Bin Luo. DEEP: Decoupled Sem
 Fengling Jiang, Yujin Cao, Le Zou, Erfu Yang, and **Chenglong Li**. SMART: Semantic Merging Adaptive Regional Transformer for Image Captioning. IEEE Transactions on Multimedia (**T-MM**), 2026.
 
 Wentao Wu, Fanghua Hong, Xiao Wang\*, **Chenglong Li***, and Jin Tang. Attribute-Guided Semantic Alignment with Pre-trained Foundation Models for Vehicle Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2026.
+
+Aihua Zheng, Ya Gao, Shihao Li, **Chenglong Li***, IEEE, Jin Tang. DCG ReID: Disentangling Collaboration and Guidance Fusion Representations for Multi-modal Vehicle Re-Identification. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
 
 Wentao Wu, Xiao Wang\*, **Chenglong Li***, Jin Tang, and Bin Luo. Vehicle-centric Perception via Multimodal Structured Pretraining. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
 
