@@ -18,6 +18,8 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 
 News
 ======
+[2026-07] One paper was accepted by TIP
+
 [2026-07] One paper was accepted by ACM MM
 
 [2026-07] One paper was accepted by TCSVT
