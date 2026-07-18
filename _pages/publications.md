@@ -34,6 +34,8 @@ Zhaodong Ding, **Chenglong Li***, Shengqing Miao, and Jin Tang. Causality-based 
 
 Wentao Wu, **Chenglong Li***, Xiao Wang, and Bin Luo. Large Language Model Guided Progressive FeatureAlignment for Multimodal UAV Object Detection. IEEE Transactions on Image Processing (**T-IP**), 2026.
 
+Zhendong Xu, Zi Wang, Aihua Zheng, **Chenglong Li**, Jin Tang. REMIND: Retrieval-Augmented Reconstruction With Dual Memories for Modality-Missing Object Re-Identification. IEEE Transactions on Image Processing (**T-IP**), 2026.
+
 Andong Lu, Yuanzhi Guo, Kunpeng Wang, **Chenglong Li***, Jin Tang, and Bin Luo. Pixel-level RGBT Fusion Tracking via Heterogeneous Multi-expert Distillation and Decoupled Representation Learning. IEEE Transactions on Image Processing (**T-IP**), 2026.
 
 Lei Liu, **Chenglong Li***, Andong Lu, Yabin Zhu, Shoufei Han, Xinye Cai, and Changhe Li\*. Unveiling the Power of Multi-modal Template Update in RGBT Tracking. IEEE Transactions on Image Processing (**T-IP**), 2026.
