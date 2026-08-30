@@ -18,6 +18,13 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 
 News
 ======
+
+[2026-08] 团队老师获批国家自然科学基金面上项目1项、C类青年项目2项
+
+[2026-08] One paper was accepted by ISPRS
+
+[2026-08] One paper was accepted by SCIS
+
 [2026-07] One paper was accepted by TIP
 
 [2026-07] One paper was accepted by ACM MM
