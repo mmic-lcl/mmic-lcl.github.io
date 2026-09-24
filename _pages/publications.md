@@ -52,6 +52,8 @@ Yifei Deng, Ziheng Xu, **Chenglong Li***, Guyue Hu, and Jin Tang. Cross-modal Pe
 
 Weizhe Kong, Xiao Wang\*, Ruichong Gao, **Chenglong Li***, Yu Zhang, Xing Yang, Yaowei Wang, and Jin Tang. Adversarial Semantic and Label Perturbation Attack for Pedestrian Attribute Recognition. IEEE Transactions on Information Forensics and Security (**T-IFS**), 2026.
 
+Zhicheng Zhao, Fengjiao Peng, Jinquan Yan, Wei Lu, **Chenglong Li***, and Jin Tang. Physics-constrained Cross-resolution Enhancement Network for Optics-guided Thermal UAV Image Super-resolution. ISPRS Journal of Photogrammetry and Remote Sensing (**ISPRS**), 242: 90-106, 2026.
+
 Shihao Li, **Chenglong Li**, Aihua Zheng, Jin Tang, Bin Luo. DEEP: Decoupled Semantic Prompt Learning, Guiding and Embedding for Multi-Spectral Object Re-Identification. IEEE Transactions on Multimedia (**T-MM**), 2026.
 
 Fengling Jiang, Yujin Cao, Le Zou, Erfu Yang, and **Chenglong Li**. SMART: Semantic Merging Adaptive Regional Transformer for Image Captioning. IEEE Transactions on Multimedia (**T-MM**), 2026.
@@ -76,9 +78,13 @@ Xiaowei Zhao, **Chenglong Li***, Jin Tang, and Chuanfu Li. Medical Image Segment
 
 Siyuan Song, Guyue Hu, **Chenglong Li**, Dengdi Sun, Zhe Jin, and Jin Tang. Structure and Progress Aware Diffusion for Medical Image Segmentation. Pattern Recognition (**PR**), 179: 113733, 2026.
 
+Lili Huang, Zewei Li, Xiaowei Zhao, **Chenglong Li**, and Jin Tang. Frequency-domain Guided Attention-Differential Enhancement Network for medical image segmentation. Pattern Recognition (**PR**), 183: 114965, 2026.
+
 Jiaxiang Wang, Aihua Zheng, Dequan Li, **Chenglong Li**, Wenjuan Cheng, and Ran He. Bidirectional Intervention Attention Network for Audio–visual Matching. Pattern Recognition (**PR**), 179: 113840, 2026.
 
 Jiandong Jin, Xiao Wang\*, Yin Lin, **Chenglong Li***, Lili Huang, Aihua Zheng, and Jin Tang. SequencePAR: Understanding Pedestrian Attributes via A Sequence Generation Paradigm. Pattern Recognition (**PR**), 172: 112356, 2026.
+
+Xiaowei Zhao, **Chenglong Li***, and Jin Tang. Language-guided Mix of Adapters based Segment Anythingmodel for Medical Image Lesion Segmentation. SCIENCE CHINA Information Sciences (**SCIS**), 2026.
 
 Qishun Wang, Zhengzheng Tu, **Chenglong Li**, ChuanwangGuo, and Zhicheng Zhao. Spatio-temporal Phased Fusion Network for 2 RGBT Video Object Detection. Machine Intelligence Research (**MIR**), 2026.
 
@@ -204,7 +210,7 @@ Aihua Zheng, Fan Yuan, Haichuan Zhang, Jiaxiang Wang, Chao Tang, and **Chenglong
 
 Dengdi Sun, Leilei Cheng, Song Chen, **Chenglong Li***, Yun Xiao, and Bin Luo. UAV-Ground Visual Tracking: A Unified Dataset and Collaborative Learning Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(5): 3619-3632, 2024.
 
-Kunpeng Wang, Zhengzheng Tu, **Chenglong Li**, Cheng Zhang, and Bin Luo. Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(8): 7344-7358, 2024.
+Kunpeng Wang, Zhengzheng Tu, **Chenglong Li**, Cheng Zhang, and Bin Luo. Learning Adaptive Fusion Bank for Multi-modal Salient Object Detection. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 34(8): 7344-7358, 2024. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
 Bowen Zhou, Xingbo Dong, Xiaowei Zhao, **Chenglong Li**, Zhe Jin, and Huabin Wang. FCT-Net: Efficient Bridge Fusion Incorporating CNN-Transformer Network for Medical Image Segmentation. IEEE Transactions on Radiation and Plasma Medical Sciences (**T-RPMS**), 9(6): 762-775, 2024.
 
@@ -326,7 +332,7 @@ Aihua Zheng, Xuehan Zhang, Bo Jiang, Bin Luo, and **Chenglong Li***. A Subspace 
 
 Jin Tang, Dongzhe Fan, Xiaoxiao Wang, Zhengzheng Tu, **Chenglong Li**. RGBT Salient Object Detection: Benchmark and A Novel Cooperative Ranking Approach. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 30(12): 4421-4433, 2020.
 
-Zhengzheng Tu, Tian Xia, **Chenglong Li***, Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**T-MM**), 22(1): 160-173, 2020.
+Zhengzheng Tu, Tian Xia, **Chenglong Li***, Xiaoxiao Wang, Yan Ma, and Jin Tang. RGB-T Image Saliency Detection via Collaborative Graph Learning. IEEE Transactions on Multimedia (**T-MM**), 22(1): 160-173, 2020. ($\color{#FF0000}{ESI\ Highly\ Cited\ Paper}$)
 
 
 ### 2019
