@@ -58,6 +58,10 @@ Fengling Jiang, Yujin Cao, Le Zou, Erfu Yang, and **Chenglong Li**. SMART: Seman
 
 Wentao Wu, Fanghua Hong, Xiao Wang\*, **Chenglong Li***, and Jin Tang. Attribute-Guided Semantic Alignment with Pre-trained Foundation Models for Vehicle Detection. IEEE Transactions on Intelligent Transportation Systems (**T-ITS**), 2026.
 
+Lili Huang, Chengzhi Yan, Jiandong Jin, Lei Liu, and **Chenglong Li***. Efficient RGBT Tracking via Alternating Attention Learning. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
+
+Dengdi Sun, Boshi Gao, Zhaodong Ding, **Chenglong Li***, Jin Tang, and Bin Luo. Frequency-based Adaptive Fusion Network for RGBT Tracking. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
+
 Aihua Zheng, Ya Gao, Shihao Li, **Chenglong Li***, IEEE, Jin Tang. DCG ReID: Disentangling Collaboration and Guidance Fusion Representations for Multi-modal Vehicle Re-Identification. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
 
 Wentao Wu, Xiao Wang\*, **Chenglong Li***, Jin Tang, and Bin Luo. Vehicle-centric Perception via Multimodal Structured Pretraining. IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2026.
