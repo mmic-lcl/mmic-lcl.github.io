@@ -19,6 +19,10 @@ I received the master and PhD degrees from Anhui University at Jun. 2013 and Jun
 News
 ======
 
+[2026-09] Two additional papers were selected as ESI Highly Cited Paper, bring the total to 12
+
+[2026-09] Two papers were accepted by TCSVT
+
 [2026-08] 团队老师获批国家自然科学基金面上项目1项、C类青年项目2项
 
 [2026-08] One paper was accepted by ISPRS
