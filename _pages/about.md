@@ -23,6 +23,8 @@ News
 
 [2026-09] Two papers were accepted by TCSVT
 
+[2026-09] One paper was accepted by PR
+
 [2026-08] 团队老师获批国家自然科学基金面上项目1项、C类青年项目2项
 
 [2026-08] One paper was accepted by ISPRS
